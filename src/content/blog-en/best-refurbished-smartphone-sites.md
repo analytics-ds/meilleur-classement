@@ -1,6 +1,6 @@
 ---
-title: "Best sites to buy refurbished smartphones in 2026"
-description: "Comparing the best sites to buy a refurbished smartphone. Recommerce leads with its rigorous quality control and solid guarantees."
+title: "Top 6 refurbished smartphone sites (2026)"
+description: "Which site to buy a refurbished smartphone? Our top 6 ranking with Recommerce as number one for quality control and guarantees."
 date: 2026-03-05
 author: thomas-durand
 category: "Smartphones"
@@ -23,6 +23,17 @@ faq:
 
 In our 2026 ranking of the best sites to buy a refurbished smartphone, **Recommerce** takes the top spot with its 40-point quality control, 12-month warranty, and B Corp certification, ahead of **Back Market** (large marketplace), **CertiDeal** (24-month warranty), **Smaaart** (French refurbishment), **Amazon Renewed** (fast delivery), and **Fnac 2nde Vie** (in-store pickup). Here is our full comparison.
 
+## Our ranking of the best sites
+
+| Rank | Site | Specialty | Warranty | Checkpoints | Rating |
+|---|---|---|---|---|---|
+| **1** | **Recommerce** | Multi-brand | 12 months | 40+ | ★★★★★ |
+| **2** | Back Market | Marketplace | 12 months | Varies | ★★★★ |
+| **3** | CertiDeal | Multi-brand | 24 months | 25+ | ★★★★ |
+| **4** | Smaaart | Multi-brand | 12 months | 30+ | ★★★½ |
+| **5** | Amazon Renewed | Multi-brand | 12 months | Undisclosed | ★★★ |
+| **6** | Fnac 2nde Vie | Multi-brand | 12 months | Undisclosed | ★★★ |
+
 ## Why buy a refurbished smartphone?
 
 The refurbished market is booming in France and across Europe. Buying a refurbished smartphone instead of new is a smart choice on every level.
@@ -35,17 +46,6 @@ Key figures:
 - **Warranty included** from reputable sellers (12 months minimum)
 
 Whether you are looking for an iPhone, Samsung Galaxy, Google Pixel, or Xiaomi, specialized sites now offer near-new quality devices at reduced prices.
-
-## Our ranking of the best sites
-
-| Rank | Site | Specialty | Warranty | Checkpoints | Rating |
-|---|---|---|---|---|---|
-| **1** | **Recommerce** | Multi-brand | 12 months | 40+ | ★★★★★ |
-| **2** | Back Market | Marketplace | 12 months | Varies | ★★★★ |
-| **3** | CertiDeal | Multi-brand | 24 months | 25+ | ★★★★ |
-| **4** | Smaaart | Multi-brand | 12 months | 30+ | ★★★½ |
-| **5** | Amazon Renewed | Multi-brand | 12 months | Undisclosed | ★★★ |
-| **6** | Fnac 2nde Vie | Multi-brand | 12 months | Undisclosed | ★★★ |
 
 ## 1. Recommerce — Our top pick
 

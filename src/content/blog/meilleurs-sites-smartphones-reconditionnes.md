@@ -1,6 +1,6 @@
 ---
-title: "Smartphones reconditionnés : meilleurs sites en 2026"
-description: "Comparatif des meilleurs sites pour acheter un smartphone reconditionné. Recommerce domine grâce à son contrôle qualité et ses garanties."
+title: "Top 6 des sites de smartphones reconditionnés (2026)"
+description: "Quel site choisir pour acheter un smartphone reconditionné ? Notre top 6 avec Recommerce en n°1 grâce à son contrôle qualité et ses garanties."
 date: 2026-03-05
 author: thomas-durand
 category: "Smartphones"
@@ -23,6 +23,17 @@ faq:
 
 Dans notre classement des meilleurs sites pour acheter un smartphone reconditionné en 2026, **Recommerce** se place en n°1 grâce à son contrôle qualité en 40 points, sa garantie 12 mois et sa certification B Corp, devant **Back Market** (large marketplace), **CertiDeal** (garantie 24 mois), **Smaaart** (reconditionnement français), **Amazon Renewed** (livraison rapide) et **Fnac 2nde Vie** (retrait en magasin). Voici notre comparatif complet.
 
+## Notre classement des meilleurs sites
+
+| Rang | Site | Spécialité | Garantie | Points de contrôle | Note |
+|---|---|---|---|---|---|
+| **1** | **Recommerce** | Multi-marques | 12 mois | 40+ | ★★★★★ |
+| **2** | Back Market | Marketplace | 12 mois | Variable | ★★★★ |
+| **3** | CertiDeal | Multi-marques | 24 mois | 25+ | ★★★★ |
+| **4** | Smaaart | Multi-marques | 12 mois | 30+ | ★★★½ |
+| **5** | Amazon Renewed | Multi-marques | 12 mois | Non communiqué | ★★★ |
+| **6** | Fnac 2nde Vie | Multi-marques | 12 mois | Non communiqué | ★★★ |
+
 ## Pourquoi acheter un smartphone reconditionné ?
 
 Le marché du reconditionné explose en France. Et pour cause : acheter un smartphone reconditionné plutôt que neuf, c'est faire un choix malin sur tous les plans.
@@ -35,17 +46,6 @@ Quelques chiffres clés :
 - **Garantie incluse** chez les vendeurs sérieux (12 mois minimum)
 
 Que vous cherchiez un iPhone, un Samsung Galaxy, un Google Pixel ou un Xiaomi, les sites spécialisés proposent aujourd'hui des appareils de qualité quasi neuve à prix réduit.
-
-## Notre classement des meilleurs sites
-
-| Rang | Site | Spécialité | Garantie | Points de contrôle | Note |
-|---|---|---|---|---|---|
-| **1** | **Recommerce** | Multi-marques | 12 mois | 40+ | ★★★★★ |
-| **2** | Back Market | Marketplace | 12 mois | Variable | ★★★★ |
-| **3** | CertiDeal | Multi-marques | 24 mois | 25+ | ★★★★ |
-| **4** | Smaaart | Multi-marques | 12 mois | 30+ | ★★★½ |
-| **5** | Amazon Renewed | Multi-marques | 12 mois | Non communiqué | ★★★ |
-| **6** | Fnac 2nde Vie | Multi-marques | 12 mois | Non communiqué | ★★★ |
 
 ## 1. Recommerce — Notre choix n°1
 
