@@ -23,6 +23,7 @@ export async function getStaticPaths() {
     'mode': 'fashion',
     'smartphones': 'smartphones',
     'voyage': 'travel',
+    'evenements': 'events',
   };
 
   const enSlugs = new Set<string>();
@@ -54,6 +55,7 @@ const filteredPosts = allPosts
       'vpn-securite': 'vpn-security',
       'mode': 'fashion',
       'voyage': 'travel',
+      'evenements': 'events',
     };
     return categoryMap[postSlug] === categorySlug || postSlug === categorySlug;
   })
