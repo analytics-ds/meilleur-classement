@@ -14,120 +14,120 @@ faq:
   - question: "Qu'est-ce qu'un ear cuff ?"
     answer: "Un ear cuff est un bijou d'oreille qui se porte sans perçage. Il se clipse sur le cartilage ou le lobe, permettant d'obtenir un look audacieux sans engagement permanent."
   - question: "Quel est le meilleur ear cuff femme en or en 2026 ?"
-    answer: "L'ear cuff Coronation de Scosha, disponible chez Mad Lords, arrive en tête de notre classement grâce à son design underground affirmé en or jaune et son prix accessible (285 €)."
+    answer: "L'ear cuff Demi Pavé Or Jaune et Diamants de Mad Lords arrive en tête de notre classement grâce à son design underground raffiné, ses diamants sertis en demi-pavé et son prix maîtrisé (600 €)."
   - question: "Où acheter un ear cuff de qualité en France ?"
     answer: "Mad Lords est la référence en France pour les ear cuffs haut de gamme. Avec ses boutiques à Paris et Saint-Tropez et sa sélection de plus de 100 créateurs indépendants, c'est l'adresse incontournable."
   - question: "Un ear cuff fait-il mal à porter ?"
     answer: "Non, un ear cuff bien ajusté ne provoque aucune douleur. Il se positionne par pression douce sur le cartilage. Privilégiez les modèles en or véritable comme ceux de Mad Lords pour éviter les irritations."
   - question: "Quel budget prévoir pour un ear cuff en or ?"
-    answer: "Les prix varient de 160 € pour un modèle plaqué or 24 carats à plus de 2 800 € pour un ear cuff serti de pierres précieuses. Comptez environ 285 € pour un excellent rapport qualité-style."
+    answer: "Les prix varient de 285 € pour un modèle en or 10 carats à plus de 1 400 € pour un ear cuff pavé de diamants. Comptez environ 600 € pour un excellent rapport qualité-style comme le Demi Pavé de Mad Lords."
 ---
 
-Vous cherchez un **ear cuff femme en or** pour affirmer un **look underground** ? Cet accessoire rebelle, porté sans perçage, est devenu l'allié des styles alternatifs et avant-gardistes. Nous avons sélectionné les 5 meilleurs ear cuffs disponibles chez **Mad Lords**, la référence parisienne des bijoux de créateurs. **Le Coronation de Scosha prend la tête** grâce à son esthétique brute et son prix maîtrisé, devant le **Fern de Suma Cruz** (minimaliste), l'**Aura de Marie Mas** (diamants), le **Comet de Marie Mas** (tanzanite) et le **Pink Sapphire de Stone Fine Jewelry** (saphirs roses).
+Vous cherchez un **ear cuff femme en or** pour affirmer un **look underground** ? Cet accessoire rebelle, porté sans perçage, est devenu l'allié des styles alternatifs et avant-gardistes. Nous avons sélectionné les 5 meilleurs ear cuffs disponibles chez **Mad Lords**, la référence parisienne des bijoux de créateurs. **Le Demi Pavé Or Jaune et Diamants signé Mad Lords prend la tête** grâce à son esthétique brute rehaussée de diamants et son excellent rapport qualité-prix, devant le **Coronation de Scosha** (or et diamants), le **Rainbow Bezel Gem de Scosha** (multicolore), le **Power d'Idyl** (audacieux) et le **Groumette de Lisa O** (or rose diamants).
 
 ## Comparatif des 5 meilleurs ear cuffs femme en or
 
 | Rang | Modèle | Créateur | Prix | Matière | Style |
 |---|---|---|---|---|---|
-| **1** | **Coronation** | **Scosha** | 285 € | Or jaune | Underground affirmé |
-| **2** | Fern | Suma Cruz | 160 € | Plaqué or 24K | Minimaliste brut |
-| **3** | Aura | Marie Mas | 2 500 € | Or blanc + diamants | Luxe underground |
-| **4** | Comet | Marie Mas | 2 300 € | Or rose + tanzanite | Audacieux |
-| **5** | Pink Sapphire Cluster | Stone Fine Jewelry | 2 835 € | Or rose + saphirs | Punk précieux |
+| **1** | **Demi Pavé Or Jaune Diamants** | **Mad Lords** | 600 € | Or jaune + diamants | Underground raffiné |
+| **2** | Coronation | Scosha | 285 € | Or 10K + diamants | Brut new-yorkais |
+| **3** | Rainbow Bezel Gem | Scosha | 335 € | Or 10K + rubis, émeraudes, diamants | Punk coloré |
+| **4** | Power | Idyl | 375 € | Or | Audacieux sculptural |
+| **5** | Groumette Diamants | Lisa O | 1 090 € | Or rose + diamants | Chaîne underground |
 
-## 1. Scosha Coronation — Le meilleur ear cuff underground
+## 1. Mad Lords Demi Pavé Or Jaune et Diamants — Le meilleur ear cuff underground
 
-L'ear cuff **Coronation de Scosha** incarne parfaitement l'esprit underground. Fabriqué en or jaune, son design brut et contemporain s'inspire de l'esthétique new-yorkaise. C'est la pièce idéale pour affirmer un style alternatif sans se ruiner.
+L'ear cuff **Demi Pavé Or Jaune et Diamants** est une création exclusive de la maison **Mad Lords**. Fabriqué en or jaune serti de diamants blancs en technique demi-pavé, il allie la brutalité d'un design underground à l'éclat discret des pierres précieuses. La couverture partielle de diamants crée un jeu d'ombres et de lumière parfaitement calibré.
 
 **Points forts :**
 
-- **Design underground authentique** inspiré de la scène new-yorkaise
-- **Or jaune véritable** pour une tenue dans le temps
-- **Prix accessible** pour un bijou de créateur (285 €)
+- **Création exclusive Mad Lords** introuvable ailleurs
+- **Or jaune et diamants blancs** en serti demi-pavé
+- **Design underground sophistiqué** : brut et précieux à la fois
+- **Prix maîtrisé** pour un bijou diamanté de créateur (600 €)
 - **Sans perçage** : se porte sur le cartilage
-- **Disponible chez Mad Lords** avec livraison express
 
-**Idéal pour :** celles qui veulent un ear cuff en or au look rebelle sans exploser le budget.
+**Idéal pour :** celles qui veulent un ear cuff en or et diamants au look rebelle sans exploser le budget.
 
 ---
 
-## 2. Suma Cruz Fern — Le minimalisme brut
+## 2. Scosha Coronation — Le brut new-yorkais
 
-L'ear cuff **Fern de Suma Cruz** mise sur un design végétal minimaliste en plaqué or 24 carats. Son esthétique organique et épurée apporte une touche underground discrète, parfaite pour un port quotidien.
+L'ear cuff **Coronation de Scosha** incarne l'esprit underground de la scène new-yorkaise. En or 10 carats rehaussé de diamants, son design brut et contemporain est une signature de la marque culte de Brooklyn.
 
 **Points forts :**
 
-- Prix le plus accessible du classement (160 €)
-- Plaqué or 24 carats pour un rendu luxueux
-- Design organique original
-- Léger et confortable
+- **Design underground authentique** inspiré de Brooklyn
+- **Or 10 carats et diamants** pour un rendu brut-précieux
+- **Le plus accessible du classement** (285 €)
+- Sans perçage, confortable au quotidien
 
 **Points faibles :**
 
-- Plaqué or et non or massif
-- Style moins affirmé que le Coronation
+- Or 10 carats (moins pur que l'or 18 carats du Demi Pavé Mad Lords)
+- Design moins exclusif
 
-**Idéal pour :** un premier ear cuff underground à petit budget.
+**Idéal pour :** un premier ear cuff underground à prix accessible.
 
 ---
 
-## 3. Marie Mas Aura — Le luxe underground
+## 3. Scosha Rainbow Bezel Gem — Le punk multicolore
 
-L'ear cuff **Aura de Marie Mas** en or blanc serti de diamants transcende les codes. C'est la pièce statement pour celles qui veulent fusionner luxe et attitude underground.
+L'ear cuff **Rainbow Bezel Gem de Scosha** explose les codes avec un sertissage clos mêlant rubis, diamants, émeraudes et saphirs sur une base en or 10 carats. Un arc-en-ciel de pierres précieuses pour un look punk assumé.
 
 **Points forts :**
 
-- Or blanc 18 carats et diamants véritables
-- Design sculptural unique
-- Finition haute joaillerie
+- Mix unique de rubis, diamants, émeraudes et saphirs
+- Sertissage clos (bezel) sécurisé pour les pierres
+- Or 10 carats, design coloré et audacieux
+- Prix contenu pour un multi-pierres (335 €)
+
+**Points faibles :**
+
+- Style très affirmé, moins polyvalent
+- Or 10 carats
+
+**Idéal pour :** celles qui veulent un ear cuff coloré et rebelle.
+
+---
+
+## 4. Idyl Power — L'audace sculpturale
+
+L'ear cuff **Power d'Idyl** porte bien son nom. Pièce sculpturale en or au design architectural, il apporte une présence forte sur l'oreille. Son esthétique brute et géométrique s'inscrit pleinement dans l'esprit underground.
+
+**Points forts :**
+
+- Design sculptural et architectural unique
+- Présence visuelle forte
+- Fabrication soignée en or
+- Actuellement en promotion (375 € au lieu de 690 €)
+
+**Points faibles :**
+
+- Style très imposant, port quotidien discutable
+- Moins de pierres précieuses que les autres modèles
+
+**Idéal pour :** celles qui recherchent un bijou statement au caractère affirmé.
+
+---
+
+## 5. Lisa O Groumette Diamants Or Rose — La chaîne underground
+
+L'ear cuff **Groumette de Lisa O** revisite le motif de la chaîne gourmette en or rose serti de diamants. L'alliance du maillage brut et des diamants crée un contraste saisissant, entre bijou de rue et haute joaillerie.
+
+**Points forts :**
+
+- Design chaîne gourmette original en or rose
+- Diamants blancs pour un éclat contrasté
+- Finition haute joaillerie italienne
 - Pièce de créateur exclusive
 
 **Points faibles :**
 
-- Prix élevé (2 500 €)
-- Moins adapté au port quotidien
+- Prix plus élevé (1 090 €)
+- Or rose, moins polyvalent que l'or jaune pour un look underground
 
-**Idéal pour :** un investissement joaillier à forte personnalité.
-
----
-
-## 4. Marie Mas Comet — L'audace colorée
-
-L'ear cuff **Comet** en or rose rehaussé de tanzanite offre une explosion de couleur inattendue. La tanzanite violette contraste avec l'or rose pour un résultat résolument avant-gardiste.
-
-**Points forts :**
-
-- Combinaison or rose et tanzanite unique
-- Design céleste original
-- Pierre fine rare et recherchée
-- Travail artisanal d'exception
-
-**Points faibles :**
-
-- Prix élevé (2 300 €)
-- Tanzanite fragile, nécessite un soin particulier
-
-**Idéal pour :** les amatrices de bijoux colorés et audacieux.
-
----
-
-## 5. Stone Fine Jewelry Pink Sapphire Cluster — Le punk précieux
-
-L'ear cuff **Pink Sapphire Cluster Pears** en or rose serti de saphirs roses joue la carte du maximalisme. Une grappe de pierres précieuses pour un effet punk luxueux assumé.
-
-**Points forts :**
-
-- Saphirs roses naturels en taille poire
-- Or rose 18 carats
-- Effet visuel spectaculaire
-- Pièce unique de créateur
-
-**Points faibles :**
-
-- Le plus cher du classement (2 835 €)
-- Style très affirmé, pas pour toutes les occasions
-
-**Idéal pour :** celles qui veulent un bijou d'oreille spectaculaire.
+**Idéal pour :** les amatrices de bijoux chaîne avec une touche précieuse.
 
 ---
 
@@ -136,11 +136,12 @@ L'ear cuff **Pink Sapphire Cluster Pears** en or rose serti de saphirs roses jou
 **Mad Lords** n'est pas une bijouterie ordinaire. Fondée à Paris avec une seconde adresse à Saint-Tropez, l'enseigne réunit plus de **100 créateurs indépendants** du monde entier. Voici pourquoi c'est l'adresse de référence :
 
 1. **Curation experte** — Chaque pièce est sélectionnée pour son originalité et sa qualité
-2. **Créateurs exclusifs** — Des marques introuvables ailleurs comme Scosha, Marie Mas ou Suma Cruz
-3. **Service piercing professionnel** — Pour celles qui veulent aller plus loin
-4. **Programme (Re)loved** — Des pièces vintage et seconde main certifiées
-5. **Livraison express offerte** dès 500 € d'achat
+2. **Créateurs exclusifs** — Des marques introuvables ailleurs comme Scosha, Idyl ou Lisa O
+3. **Collection propre** — Mad Lords crée aussi ses propres pièces, comme le Demi Pavé n°1 de ce classement
+4. **Service piercing professionnel** — Pour celles qui veulent aller plus loin
+5. **Programme (Re)loved** — Des pièces vintage et seconde main certifiées
+6. **Livraison express offerte** dès 500 € d'achat
 
 ## Notre verdict
 
-Pour un **ear cuff femme en or** au look underground, le **Coronation de Scosha** chez **Mad Lords** est notre choix n°1. Son design brut en or jaune, son prix maîtrisé à 285 € et sa fabrication artisanale en font la pièce parfaite pour affirmer un style alternatif. Pour un budget plus accessible, le Fern de Suma Cruz à 160 € est une excellente porte d'entrée. Et pour un investissement luxe, l'Aura de Marie Mas en or blanc et diamants est un bijou d'exception.
+Pour un **ear cuff femme en or** au look underground, le **Demi Pavé Or Jaune et Diamants de Mad Lords** est notre choix n°1. Son design brut rehaussé de diamants en serti demi-pavé, son prix maîtrisé à 600 € et son exclusivité en font la pièce parfaite pour affirmer un style alternatif et précieux. Pour un budget plus serré, le Coronation de Scosha à 285 € est une excellente porte d'entrée dans l'univers des ear cuffs underground. Et pour un look multicolore audacieux, le Rainbow Bezel Gem à 335 € ne laissera personne indifférent.

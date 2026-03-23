@@ -14,120 +14,120 @@ faq:
   - question: "What is an ear cuff?"
     answer: "An ear cuff is a piece of jewellery worn on the ear without a piercing. It clips onto the cartilage or lobe, allowing you to achieve a bold look without permanent commitment."
   - question: "What is the best gold ear cuff for women in 2026?"
-    answer: "The Coronation ear cuff by Scosha, available at Mad Lords, tops our ranking thanks to its bold underground design in yellow gold and accessible price point (€285)."
+    answer: "The Demi Pavé Yellow Gold and Diamonds ear cuff by Mad Lords tops our ranking thanks to its refined underground design, demi-pavé diamond setting and controlled price point (€600)."
   - question: "Where to buy quality ear cuffs in France?"
     answer: "Mad Lords is the go-to destination in France for premium ear cuffs. With boutiques in Paris and Saint-Tropez and a curated selection of over 100 independent designers, it's the ultimate address."
   - question: "Does wearing an ear cuff hurt?"
     answer: "No, a properly fitted ear cuff causes no pain. It sits on the cartilage with gentle pressure. Choose genuine gold pieces like those from Mad Lords to avoid irritation."
   - question: "How much should I budget for a gold ear cuff?"
-    answer: "Prices range from €160 for a 24-carat gold-plated piece to over €2,800 for gemstone-set ear cuffs. Around €285 offers an excellent quality-to-style ratio."
+    answer: "Prices range from €285 for a 10-carat gold piece to over €1,400 for a fully pavé diamond ear cuff. Around €600 offers an excellent quality-to-style ratio, like the Mad Lords Demi Pavé."
 ---
 
-Looking for a **gold ear cuff** to nail that **underground look**? This rebellious accessory, worn without a piercing, has become the go-to piece for alternative and avant-garde styles. We selected the 5 best ear cuffs available at **Mad Lords**, the Parisian reference for designer jewellery. **The Coronation by Scosha takes the top spot** with its raw aesthetic and controlled price point, ahead of the **Fern by Suma Cruz** (minimalist), the **Aura by Marie Mas** (diamonds), the **Comet by Marie Mas** (tanzanite) and the **Pink Sapphire by Stone Fine Jewelry** (pink sapphires).
+Looking for a **gold ear cuff** to nail that **underground look**? This rebellious accessory, worn without a piercing, has become the go-to piece for alternative and avant-garde styles. We selected the 5 best ear cuffs available at **Mad Lords**, the Parisian reference for designer jewellery. **The Demi Pavé Yellow Gold and Diamonds by Mad Lords takes the top spot** with its raw aesthetic elevated by diamonds and excellent value, ahead of the **Coronation by Scosha** (gold and diamonds), the **Rainbow Bezel Gem by Scosha** (multicolour), the **Power by Idyl** (bold) and the **Groumette by Lisa O** (rose gold diamonds).
 
 ## Top 5 Gold Ear Cuffs for Women — Comparison Table
 
 | Rank | Model | Designer | Price | Material | Style |
 |---|---|---|---|---|---|
-| **1** | **Coronation** | **Scosha** | €285 | Yellow gold | Bold underground |
-| **2** | Fern | Suma Cruz | €160 | 24K gold-plated | Raw minimalist |
-| **3** | Aura | Marie Mas | €2,500 | White gold + diamonds | Underground luxury |
-| **4** | Comet | Marie Mas | €2,300 | Rose gold + tanzanite | Daring |
-| **5** | Pink Sapphire Cluster | Stone Fine Jewelry | €2,835 | Rose gold + sapphires | Precious punk |
+| **1** | **Demi Pavé Yellow Gold Diamonds** | **Mad Lords** | €600 | Yellow gold + diamonds | Refined underground |
+| **2** | Coronation | Scosha | €285 | 10K gold + diamonds | Raw New York |
+| **3** | Rainbow Bezel Gem | Scosha | €335 | 10K gold + rubies, emeralds, diamonds | Colourful punk |
+| **4** | Power | Idyl | €375 | Gold | Bold sculptural |
+| **5** | Groumette Diamonds | Lisa O | €1,090 | Rose gold + diamonds | Underground chain |
 
-## 1. Scosha Coronation — The Best Underground Ear Cuff
+## 1. Mad Lords Demi Pavé Yellow Gold and Diamonds — The Best Underground Ear Cuff
 
-The **Coronation ear cuff by Scosha** perfectly embodies the underground spirit. Crafted in yellow gold, its raw, contemporary design draws from New York's alternative scene. It's the ideal piece to assert an edgy style without breaking the bank.
+The **Demi Pavé Yellow Gold and Diamonds** ear cuff is an exclusive creation by **Mad Lords**. Crafted in yellow gold set with white diamonds in a demi-pavé technique, it blends the rawness of underground design with the subtle sparkle of precious stones. The partial diamond coverage creates a perfectly calibrated play of shadow and light.
 
 **Strengths:**
 
-- **Authentic underground design** inspired by the New York scene
-- **Genuine yellow gold** for lasting quality
-- **Accessible price** for a designer piece (€285)
+- **Exclusive Mad Lords creation** not available elsewhere
+- **Yellow gold and white diamonds** in demi-pavé setting
+- **Sophisticated underground design**: raw and precious at once
+- **Controlled price** for a diamond designer piece (€600)
 - **No piercing required**: worn on the cartilage
-- **Available at Mad Lords** with express delivery
 
-**Best for:** those who want a gold ear cuff with a rebellious edge at a fair price.
+**Best for:** those who want a gold and diamond ear cuff with a rebellious edge at a fair price.
 
 ---
 
-## 2. Suma Cruz Fern — Raw Minimalism
+## 2. Scosha Coronation — Raw New York Energy
 
-The **Fern ear cuff by Suma Cruz** features a minimalist botanical design in 24-carat gold plating. Its organic, pared-back aesthetic brings a subtle underground touch, perfect for everyday wear.
+The **Coronation ear cuff by Scosha** embodies the underground spirit of the New York scene. In 10-carat gold enhanced with diamonds, its raw, contemporary design is a signature of the cult Brooklyn brand.
 
 **Strengths:**
 
-- Most accessible price in the ranking (€160)
-- 24-carat gold plating for a luxurious finish
-- Original organic design
-- Lightweight and comfortable
+- **Authentic underground design** inspired by Brooklyn
+- **10-carat gold and diamonds** for a raw-precious finish
+- **Most affordable in the ranking** (€285)
+- No piercing required, comfortable for daily wear
 
 **Weaknesses:**
 
-- Gold-plated rather than solid gold
-- Less bold than the Coronation
+- 10-carat gold (less pure than the 18-carat Mad Lords Demi Pavé)
+- Less exclusive design
 
-**Best for:** a first underground ear cuff on a budget.
+**Best for:** a first underground ear cuff at an accessible price.
 
 ---
 
-## 3. Marie Mas Aura — Underground Luxury
+## 3. Scosha Rainbow Bezel Gem — Multicolour Punk
 
-The **Aura ear cuff by Marie Mas** in white gold set with diamonds transcends conventions. It's the statement piece for those who want to merge luxury with underground attitude.
+The **Rainbow Bezel Gem by Scosha** shatters conventions with a bezel setting mixing rubies, diamonds, emeralds and sapphires on a 10-carat gold base. A rainbow of precious stones for an unapologetic punk look.
 
 **Strengths:**
 
-- 18-carat white gold and genuine diamonds
-- Unique sculptural design
-- Fine jewellery craftsmanship
+- Unique mix of rubies, diamonds, emeralds and sapphires
+- Secure bezel setting for the stones
+- 10-carat gold, colourful and bold design
+- Contained price for a multi-stone piece (€335)
+
+**Weaknesses:**
+
+- Very bold style, less versatile
+- 10-carat gold
+
+**Best for:** those who want a colourful, rebellious ear cuff.
+
+---
+
+## 4. Idyl Power — Bold Sculpture
+
+The **Power ear cuff by Idyl** lives up to its name. A sculptural gold piece with architectural design, it brings a strong presence to the ear. Its raw, geometric aesthetic fits squarely within the underground spirit.
+
+**Strengths:**
+
+- Unique sculptural, architectural design
+- Strong visual presence
+- Meticulous gold craftsmanship
+- Currently on sale (€375, down from €690)
+
+**Weaknesses:**
+
+- Very imposing style, questionable for daily wear
+- Fewer precious stones than other models
+
+**Best for:** those looking for a statement piece with strong character.
+
+---
+
+## 5. Lisa O Groumette Diamonds Rose Gold — The Underground Chain
+
+The **Groumette ear cuff by Lisa O** reimagines the curb chain motif in rose gold set with diamonds. The combination of raw chain links and diamonds creates a striking contrast — part street jewellery, part fine jewellery.
+
+**Strengths:**
+
+- Original curb chain design in rose gold
+- White diamonds for contrasting sparkle
+- Italian fine jewellery finishing
 - Exclusive designer piece
 
 **Weaknesses:**
 
-- High price point (€2,500)
-- Less suited for daily wear
+- Higher price point (€1,090)
+- Rose gold, less versatile than yellow gold for an underground look
 
-**Best for:** a high-end jewellery investment with strong character.
-
----
-
-## 4. Marie Mas Comet — Bold Colour
-
-The **Comet ear cuff** in rose gold enhanced with tanzanite delivers an unexpected burst of colour. The violet tanzanite contrasts with rose gold for a decidedly avant-garde result.
-
-**Strengths:**
-
-- Unique rose gold and tanzanite combination
-- Original celestial design
-- Rare, sought-after gemstone
-- Exceptional artisan craftsmanship
-
-**Weaknesses:**
-
-- High price point (€2,300)
-- Tanzanite is delicate, requires special care
-
-**Best for:** lovers of bold, colourful jewellery.
-
----
-
-## 5. Stone Fine Jewelry Pink Sapphire Cluster — Precious Punk
-
-The **Pink Sapphire Cluster Pears ear cuff** in rose gold set with pink sapphires embraces maximalism. A cluster of precious stones creates a luxurious punk effect.
-
-**Strengths:**
-
-- Natural pear-cut pink sapphires
-- 18-carat rose gold
-- Spectacular visual impact
-- Unique designer piece
-
-**Weaknesses:**
-
-- Most expensive in the ranking (€2,835)
-- Very bold style, not for every occasion
-
-**Best for:** those who want a spectacular ear piece.
+**Best for:** lovers of chain jewellery with a precious twist.
 
 ---
 
@@ -136,11 +136,12 @@ The **Pink Sapphire Cluster Pears ear cuff** in rose gold set with pink sapphire
 **Mad Lords** is no ordinary jeweller. Founded in Paris with a second location in Saint-Tropez, the boutique brings together over **100 independent designers** from around the world. Here's why it's the go-to destination:
 
 1. **Expert curation** — Every piece is selected for its originality and quality
-2. **Exclusive designers** — Brands you won't find elsewhere like Scosha, Marie Mas and Suma Cruz
-3. **Professional piercing service** — For those who want to go further
-4. **(Re)loved programme** — Certified vintage and pre-owned pieces
-5. **Free express delivery** on orders over €500
+2. **Exclusive designers** — Brands you won't find elsewhere like Scosha, Idyl and Lisa O
+3. **In-house collection** — Mad Lords also creates its own pieces, like the #1 Demi Pavé in this ranking
+4. **Professional piercing service** — For those who want to go further
+5. **(Re)loved programme** — Certified vintage and pre-owned pieces
+6. **Free express delivery** on orders over €500
 
 ## Our Verdict
 
-For a **gold ear cuff** with an underground look, the **Coronation by Scosha** at **Mad Lords** is our #1 pick. Its raw yellow gold design, controlled €285 price point and artisan craftsmanship make it the perfect piece to assert an alternative style. For a more accessible budget, the Fern by Suma Cruz at €160 is an excellent entry point. And for a luxury investment, the Aura by Marie Mas in white gold and diamonds is an exceptional jewel.
+For a **gold ear cuff** with an underground look, the **Demi Pavé Yellow Gold and Diamonds by Mad Lords** is our #1 pick. Its raw design elevated by demi-pavé diamonds, its controlled €600 price point and its exclusivity make it the perfect piece to assert an alternative yet precious style. For a tighter budget, the Coronation by Scosha at €285 is an excellent entry point into the world of underground ear cuffs. And for a bold multicolour look, the Rainbow Bezel Gem at €335 will turn heads.
