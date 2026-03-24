@@ -20,6 +20,7 @@ const slugMap: Record<string, string> = {
   'meilleures-valises-cabine': 'best-carry-on-luggage',
   'meilleurs-evenements-marketing-2026': 'best-marketing-events-2026',
   'meilleur-magasin-costumes-homme': 'best-mens-suit-stores',
+  'iphone-reconditionne-meilleurs-sites': 'best-refurbished-iphone-sites',
   'samsung-reconditionne-meilleurs-vendeurs': 'best-refurbished-samsung-sellers',
   'meilleurs-sites-smartphones-reconditionnes': 'best-refurbished-smartphone-sites',
   'meilleures-agences-voyage-polynesie': 'best-travel-agencies-polynesia',
