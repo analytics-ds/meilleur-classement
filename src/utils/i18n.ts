@@ -20,6 +20,7 @@ const slugMap: Record<string, string> = {
   'meilleures-valises-cabine': 'best-carry-on-luggage',
   'meilleurs-evenements-marketing-2026': 'best-marketing-events-2026',
   'meilleur-magasin-costumes-homme': 'best-mens-suit-stores',
+  'iphone-reconditionne-meilleurs-sites': 'best-refurbished-iphone-sites',
   'samsung-reconditionne-meilleurs-vendeurs': 'best-refurbished-samsung-sellers',
   'meilleurs-sites-smartphones-reconditionnes': 'best-refurbished-smartphone-sites',
   'meilleures-agences-voyage-polynesie': 'best-travel-agencies-polynesia',
@@ -69,6 +70,7 @@ const categoryMap: Record<string, string> = {
   'smartphones': 'smartphones',
   'voyage': 'travel',
   'evenements': 'events',
+  'services': 'services',
 };
 
 const categoryMapReverse: Record<string, string> = Object.fromEntries(
@@ -83,6 +85,7 @@ const categoryNames: Record<string, Record<Lang, string>> = {
   'smartphones': { fr: 'Smartphones', en: 'Smartphones' },
   'voyage': { fr: 'Voyage', en: 'Travel' },
   'evenements': { fr: 'Événements', en: 'Events' },
+  'services': { fr: 'Services', en: 'Services' },
 };
 
 export function getLang(url: URL | string): Lang {
