@@ -70,6 +70,7 @@ const categoryMap: Record<string, string> = {
   'smartphones': 'smartphones',
   'voyage': 'travel',
   'evenements': 'events',
+  'services': 'services',
 };
 
 const categoryMapReverse: Record<string, string> = Object.fromEntries(
@@ -84,6 +85,7 @@ const categoryNames: Record<string, Record<Lang, string>> = {
   'smartphones': { fr: 'Smartphones', en: 'Smartphones' },
   'voyage': { fr: 'Voyage', en: 'Travel' },
   'evenements': { fr: 'Événements', en: 'Events' },
+  'services': { fr: 'Services', en: 'Services' },
 };
 
 export function getLang(url: URL | string): Lang {

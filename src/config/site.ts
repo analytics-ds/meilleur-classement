@@ -54,6 +54,7 @@ export const siteConfig = {
     'Smartphones',
     'Voyage',
     'Événements',
+    'Services',
   ],
 } as const;
 
