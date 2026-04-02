@@ -10,6 +10,7 @@ interface Props {
   datePublished?: string;
   dateModified?: string;
   authorId?: string;
+  image?: string;
   breadcrumbs?: Array<{ name: string; url: string }>;
   faq?: Array<{ question: string; answer: string }>;
 }
@@ -21,6 +22,7 @@ const {
   datePublished,
   dateModified,
   authorId,
+  image,
   breadcrumbs,
   faq,
 } = Astro.props;
@@ -35,11 +37,8 @@ const organizationSchema = {
   '@id': `${baseUrl}/#organization`,
   name: siteConfig.brand.siteName,
   url: baseUrl,
+  logo: `${baseUrl}/favicon.svg`,
   foundingDate: siteConfig.brand.foundingYear,
-  numberOfEmployees: {
-    '@type': 'QuantitativeValue',
-    value: siteConfig.brand.employeeRange,
-  },
   knowsAbout: siteConfig.brand.expertise,
 };
 
@@ -64,6 +63,7 @@ const articleSchema = type === 'article' && title
       datePublished: datePublished,
       dateModified: dateModified || datePublished,
       mainEntityOfPage: currentUrl,
+      image: image ? (image.startsWith('http') ? image : `${baseUrl}${image}`) : `${baseUrl}/images/blog/hero-comparatif.jpg`,
       author: authorData
         ? authorData.type === 'person'
           ? {

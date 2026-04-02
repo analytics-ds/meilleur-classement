@@ -1,7 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { getLang, t, getCollectionName, getArticlePath } from '@/utils/i18n';
-import type { CollectionEntry } from 'astro:content';
+import { getLang, getCollectionName, getArticlePath } from '@/utils/i18n';
 
 interface Props {
   currentSlug: string;
@@ -20,7 +19,7 @@ const related = allPosts
   .map((p) => {
     let score = 0;
     if (p.data.category === category) score += 3;
-    const sharedTags = p.data.tags.filter((t: string) => tags.includes(t));
+    const sharedTags = p.data.tags.filter((tag: string) => tags.includes(tag));
     score += sharedTags.length;
     return { post: p, score };
   })

@@ -3,7 +3,7 @@ title: "5 alternatives à Elevo en 2026 : comparatif PME"
 description: "Comparatif des 5 meilleures alternatives à Elevo en 2026. Empowill, Javelo, Zest, Lucca et Factorial passés au crible pour les PME françaises."
 date: 2026-03-30
 author: thomas-durand
-category: "Logiciels RH"
+category: "SaaS & Logiciels"
 tags:
   - alternative Elevo
   - logiciel gestion talents

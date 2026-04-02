@@ -3,7 +3,7 @@ title: "Top 5 Gold Ear Cuffs for Women — Underground Look"
 description: "Discover our ranking of the 5 best gold ear cuffs for women with an underground aesthetic. Comparison, prices and reviews."
 date: 2026-03-23
 author: thomas-durand
-category: "Mode"
+category: "Fashion"
 tags:
   - ear cuff
   - women jewelry

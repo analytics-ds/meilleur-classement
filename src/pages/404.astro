@@ -1,0 +1,90 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getLang, getBlogPath, getHomePath } from '@/utils/i18n';
+
+const lang = getLang(Astro.url);
+const title = lang === 'fr' ? 'Page introuvable' : 'Page not found';
+const description = lang === 'fr'
+  ? 'La page que vous recherchez n\'existe pas ou a été déplacée.'
+  : 'The page you are looking for does not exist or has been moved.';
+---
+
+<BaseLayout title={title} description={description}>
+  <section class="error-page section">
+    <div class="container">
+      <span class="error-code">404</span>
+      <h1>{title}</h1>
+      <p>{description}</p>
+      <div class="error-links">
+        <a href={getHomePath(lang)} class="btn btn-primary">
+          {lang === 'fr' ? 'Retour à l\'accueil' : 'Back to homepage'}
+        </a>
+        <a href={getBlogPath(lang)} class="btn btn-secondary">
+          {lang === 'fr' ? 'Voir les articles' : 'Browse articles'}
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .error-page {
+    text-align: center;
+    padding: var(--spacing-4xl) 0;
+  }
+
+  .error-code {
+    font-size: 6rem;
+    font-weight: 800;
+    color: var(--color-primary);
+    line-height: 1;
+    display: block;
+    margin-bottom: var(--spacing-md);
+  }
+
+  h1 {
+    font-size: var(--font-size-2xl);
+    color: var(--color-gray-900);
+    margin-bottom: var(--spacing-sm);
+  }
+
+  p {
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-500);
+    margin-bottom: var(--spacing-xl);
+  }
+
+  .error-links {
+    display: flex;
+    gap: var(--spacing-md);
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .btn {
+    padding: 0.75rem 1.5rem;
+    border-radius: var(--radius-md);
+    font-weight: 600;
+    text-decoration: none;
+    font-size: var(--font-size-sm);
+  }
+
+  .btn-primary {
+    background: var(--color-primary);
+    color: #fff;
+  }
+
+  .btn-primary:hover {
+    background: var(--color-primary-dark);
+  }
+
+  .btn-secondary {
+    border: 1px solid var(--color-gray-200);
+    color: var(--color-gray-700);
+  }
+
+  .btn-secondary:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+  }
+</style>

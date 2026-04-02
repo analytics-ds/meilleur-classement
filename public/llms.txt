@@ -1,6 +1,6 @@
-# Meilleur Choix
+# Meilleur Classement
 
-> Comparez, choisissez, avancez — Comparatifs indépendants de solutions tech
+> Comparez, choisissez, avancez — Comparatifs indépendants de solutions tech et services
 
 ## Auteurs
 - Thomas Durand : Rédacteur en chef & analyste tech
@@ -9,5 +9,15 @@
 - SaaS & Logiciels
 - Hébergement & Cloud
 - VPN & Sécurité
+- Mode
+- Smartphones
+- Voyage
+- Événements
+- Services
 
-## Articles
+## À propos
+Meilleur Classement est un média indépendant spécialisé dans les comparatifs de solutions tech, SaaS et services numériques. Méthodologie transparente, tests réels, pas de partenariat biaisé.
+
+## Site
+- URL : https://meilleur-classement.com
+- Langues : FR, EN
