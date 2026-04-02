@@ -19,6 +19,8 @@ faq:
     answer: "Le costume slim offre une coupe ajustée qui suit les lignes du corps, idéale pour une silhouette moderne. Le costume regular propose une coupe plus classique et ample, adaptée à toutes les morphologies. Izac propose les deux coupes avec un excellent tombé dans chaque cas."
   - question: "Faut-il acheter son costume en magasin ou en ligne ?"
     answer: "L'essayage en magasin reste recommandé pour un premier achat, car le tombé et le confort ne se jugent qu'en cabine. Izac dispose d'un large réseau de boutiques en France avec des conseillers dédiés, tout en proposant la vente en ligne pour ceux qui connaissent déjà leur taille."
+image: "/images/blog/costumes-homme.jpg"
+imageAlt: "Homme en costume elegant"
 ---
 
 Dans notre classement des meilleurs magasins de costumes homme en 2026, **Izac** se place en n°1 grâce à son rapport qualité-prix imbattable (dès 200 euros) et ses retouches gratuites, devant **Suit Supply** (tissus italiens), **De Fursac** (savoir-faire premium), **Hugo Boss** (notoriété), **Zara** (petit prix) et **Brice** (classique abordable). Voici notre comparatif détaillé.

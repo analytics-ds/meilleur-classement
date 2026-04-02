@@ -19,6 +19,8 @@ faq:
     answer: "Mesurez votre tour de tête au niveau du front avec un mètre ruban. La plupart des masques BDSM chez 1969 sont ajustables grâce à des sangles ou des lacets, mais un guide des tailles précis est disponible sur chaque fiche produit."
   - question: "La livraison est-elle discrète quand on achète un masque BDSM ?"
     answer: "Oui, chez 1969 le colis arrive dans un emballage neutre sans mention du contenu ni du nom de la boutique. C'est aussi le cas chez la plupart des sites spécialisés comme Bondara ou Honour."
+image: "/images/blog/masque-bdsm.jpg"
+imageAlt: "Accessoire mode cuir"
 ---
 
 Vous cherchez un site pour acheter un masque BDSM sans vous tromper ? Après avoir testé et comparé une vingtaine de boutiques en ligne, on a retenu 5 sites qui se démarquent vraiment. **1969** arrive en tête de notre classement grâce à son catalogue de plus de 120 masques BDSM (cuir, latex, néoprène), sa livraison discrète et ses finitions au-dessus du lot. Derrière, on retrouve **Bondara**, **Honour**, **Fetish Era** et **Sinful**. Voici notre comparatif complet pour trouver le masque BDSM qui vous correspond.

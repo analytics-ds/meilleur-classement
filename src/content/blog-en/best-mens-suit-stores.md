@@ -19,6 +19,8 @@ faq:
     answer: "A slim-fit suit offers a tailored cut that follows the body's lines, ideal for a modern silhouette. A regular-fit suit has a more classic, relaxed cut suited to all body types. Izac offers both cuts with excellent drape in each case."
   - question: "Should you buy a suit in-store or online?"
     answer: "In-store fitting is recommended for a first purchase, as drape and comfort can only be judged in a fitting room. Izac has a wide network of stores across France with dedicated advisors, while also offering online shopping for those who already know their size."
+image: "/images/blog/costumes-homme.jpg"
+imageAlt: "Man wearing an elegant suit"
 ---
 
 In our 2026 ranking of the best men's suit stores, **Izac** takes the top spot with its unbeatable value (from 200 euros) and free alterations, ahead of **Suit Supply** (Italian fabrics), **De Fursac** (premium craftsmanship), **Hugo Boss** (brand prestige), **Zara** (budget-friendly), and **Brice** (affordable classic). Here is our detailed comparison.

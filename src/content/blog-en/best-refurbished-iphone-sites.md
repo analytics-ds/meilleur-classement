@@ -19,6 +19,8 @@ faq:
     answer: "Top sellers like Recommerce guarantee battery capacity of at least 80% of original. After receiving your device, you can verify this in Settings > Battery > Battery Health & Charging."
   - question: "Does a refurbished iPhone come with a warranty?"
     answer: "Yes, in France the legal conformity warranty is 24 months (AGEC law). Recommerce goes further with a 36-month commercial warranty. CertiDeal offers 30 months and Swappie 24 months."
+image: "/images/blog/iphone-reconditionne.jpg"
+imageAlt: "Refurbished iPhone"
 ---
 
 In our 2026 ranking of the best sites to buy a refurbished iPhone, **Recommerce** takes the top spot thanks to its 60-point quality control, 36-month warranty, and ISO 14001 certification, ahead of **Back Market** (large marketplace), **CertiDeal** (30-month warranty), **Smaaart** (100% French refurbishment), and **Swappie** (European iPhone specialist). Here is our detailed comparison.

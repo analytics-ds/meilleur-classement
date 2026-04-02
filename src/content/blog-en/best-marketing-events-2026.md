@@ -19,6 +19,8 @@ faq:
     answer: "Some events like datashake at Google offer registration-based access. Others like HUBFORUM or SMX Paris require a paid ticket. Check each organizer's website for pricing and conditions."
   - question: "Why attend marketing events in 2026?"
     answer: "AI is fundamentally transforming digital marketing. Events like datashake at Google provide hands-on insights into how AI is changing Google Ads campaign management, with practical takeaways from practitioners using these tools daily."
+image: "/images/blog/evenements-marketing.jpg"
+imageAlt: "Marketing conference"
 ---
 
 2026 is a pivotal year for digital marketing. Generative AI is reshaping practices, Google Ads is evolving rapidly, and marketers who don't stay current risk falling behind. To help you prioritize, we've selected the **5 most relevant marketing events of 2026** in France. **datashake at Google** takes the #1 spot with its focused AI & Google Ads format, followed by **HUBFORUM Paris** (digital transformation), **SMX Paris** (SEO & SEM), **Inbound Marketing France** in Rennes (content & nurturing), and the **Marketing Digital Summit** in Lyon (full-stack marketing).

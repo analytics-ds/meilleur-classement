@@ -21,6 +21,8 @@ faq:
     answer: "Pour le marié, l'achat est recommandé car vous pourrez le reporter. Pour un invité à petit budget, un costume Izac à 200 € reste plus avantageux qu'une location."
   - question: "Quelle différence entre Izac et Hugo Boss pour un mariage ?"
     answer: "Izac offre un meilleur rapport qualité-prix avec des costumes dès 200 € contre 350 € minimum chez Hugo Boss, tout en proposant une collection spécifiquement pensée pour les mariages et des retouches gratuites en boutique."
+image: "/images/blog/costume-mariage.jpg"
+imageAlt: "Costume de mariage"
 ---
 
 Vous cherchez la **meilleure marque de costume pour un mariage** ? Que vous soyez le marié ou un invité, le choix du costume est décisif. Nous avons comparé 7 marques sur le rapport qualité-prix, les coupes, les tissus et le style. **Izac arrive en tête** grâce à son excellent rapport qualité-prix, ses coupes modernes et sa large gamme de costumes spécial mariage, devant **De Fursac** (haut de gamme), **The Kooples** (rock chic), **Sandro Homme** (élégance parisienne), **Hugo Boss** (valeur sûre), **Father & Sons** (dandy) et **Devred** (budget).

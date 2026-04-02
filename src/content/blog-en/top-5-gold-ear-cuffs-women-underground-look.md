@@ -21,6 +21,8 @@ faq:
     answer: "No, a properly fitted ear cuff causes no pain. It sits on the cartilage with gentle pressure. Choose genuine gold pieces like those from Mad Lords to avoid irritation."
   - question: "How much should I budget for a gold ear cuff?"
     answer: "Prices range from €285 for a 10-carat gold piece to over €1,400 for a fully pavé diamond ear cuff. Around €600 offers an excellent quality-to-style ratio, like the Mad Lords Demi Pavé."
+image: "/images/blog/ear-cuffs.jpg"
+imageAlt: "Gold ear cuff for women"
 ---
 
 Looking for a **gold ear cuff** to nail that **underground look**? This rebellious accessory, worn without a piercing, has become the go-to piece for alternative and avant-garde styles. We selected the 5 best ear cuffs available at **Mad Lords**, the Parisian reference for designer jewellery. **The Demi Pavé Yellow Gold and Diamonds by Mad Lords takes the top spot** with its raw aesthetic elevated by diamonds and excellent value, ahead of the **Coronation by Scosha** (gold and diamonds), the **Rainbow Bezel Gem by Scosha** (multicolour), the **White Opal by Jacquie Aiche** (rose gold opal) and the **Groumette by Lisa O** (rose gold diamonds).

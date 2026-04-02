@@ -20,6 +20,8 @@ faq:
     answer: "A minimum of 10 days is recommended to enjoy 2 to 3 islands, given the flight time (about 22 hours from Paris). Ideally, plan 2 to 3 weeks to discover Tahiti, Moorea, Bora Bora, and a less touristy island like Huahine or Rangiroa."
   - question: "Should you use a travel agency for French Polynesia?"
     answer: "A specialized agency is highly recommended for Polynesia. Inter-island transfers (domestic flights, boats) are complex to organize independently, accommodations fill up fast in high season, and an agency like Marco Vasco negotiates preferential rates unavailable to individuals."
+image: "/images/blog/voyage-polynesie.jpg"
+imageAlt: "Paradise beach in Polynesia"
 ---
 
 In our 2026 ranking of the best travel agencies for French Polynesia, **Marco Vasco** takes the top spot with its fully tailor-made itineraries and negotiated rates (from 3,200 euros), ahead of **Comptoir des Voyages** (long-haul expertise), **Voyageurs du Monde** (high-end), **Tahiti Travel Services** (local agency), **Easyvoyage / TUI** (turnkey packages), and **Nouvelles Frontières** (group tours). Here is our full comparison.

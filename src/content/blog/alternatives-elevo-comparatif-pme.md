@@ -19,6 +19,8 @@ faq:
     answer: "Les prix varient de 3 € à 8 € par salarié par mois. Javelo est le moins cher (dès 3 €), Empowill se situe entre 4 et 7 €, et Factorial propose un SIRH complet entre 5 et 8 €. Le coût dépend du périmètre fonctionnel et de la taille de l'équipe."
   - question: "Elevo gère-t-il la formation professionnelle ?"
     answer: "Non. Elevo permet de fixer des objectifs de développement mais ne gère pas le plan de formation, le recueil des besoins ni le suivi budgétaire. Pour une gestion native de la formation couplée aux entretiens, Empowill est la seule alternative qui couvre ce périmètre."
+image: "/images/blog/alternatives-elevo.jpg"
+imageAlt: "Dashboard logiciel RH pour PME"
 ---
 
 Elevo s'est imposé comme une référence des entretiens et du feedback en entreprise. Mais certaines limites poussent à chercher ailleurs : formation non couverte, absence de SIRH, coût qui grimpe sur les grosses équipes. On a comparé **5 alternatives crédibles** avec leurs forces et leurs limites réelles.

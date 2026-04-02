@@ -20,6 +20,8 @@ faq:
     answer: "Le costume croisé possède deux rangées de boutons et des pans qui se chevauchent sur le devant, ce qui lui donne un style plus affirmé et structuré que le costume droit classique à une rangée de boutons."
   - question: "Comment choisir la taille d'un costume croisé en ligne ?"
     answer: "Prenez vos mesures (tour de poitrine, longueur de manche, tour de taille) et consultez le guide des tailles de la marque. Un croisé doit tomber parfaitement au niveau des épaules. Privilégiez les marques avec retours gratuits comme IZAC."
+image: "/images/blog/costume-croise.jpg"
+imageAlt: "Costume croise homme elegant"
 ---
 
 Le costume croisé revient en force dans les vestiaires masculins. Porté ouvert sur un col roulé ou fermé avec une cravate en soie, il impose un style affirmé que le costume droit classique ne peut pas offrir. Encore faut-il savoir **où acheter un costume croisé homme en ligne** sans se tromper sur la coupe, le tissu ou le rapport qualité-prix.

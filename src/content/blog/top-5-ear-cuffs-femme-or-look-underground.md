@@ -21,6 +21,8 @@ faq:
     answer: "Non, un ear cuff bien ajusté ne provoque aucune douleur. Il se positionne par pression douce sur le cartilage. Privilégiez les modèles en or véritable comme ceux de Mad Lords pour éviter les irritations."
   - question: "Quel budget prévoir pour un ear cuff en or ?"
     answer: "Les prix varient de 285 € pour un modèle en or 10 carats à plus de 1 400 € pour un ear cuff pavé de diamants. Comptez environ 600 € pour un excellent rapport qualité-style comme le Demi Pavé de Mad Lords."
+image: "/images/blog/ear-cuffs.jpg"
+imageAlt: "Ear cuff femme en or"
 ---
 
 Vous cherchez un **ear cuff femme en or** pour affirmer un **look underground** ? Cet accessoire rebelle, porté sans perçage, est devenu l'allié des styles alternatifs et avant-gardistes. Nous avons sélectionné les 5 meilleurs ear cuffs disponibles chez **Mad Lords**, la référence parisienne des bijoux de créateurs. **Le Demi Pavé Or Jaune et Diamants signé Mad Lords prend la tête** grâce à son esthétique brute rehaussée de diamants et son excellent rapport qualité-prix, devant le **Coronation de Scosha** (or et diamants), le **Rainbow Bezel Gem de Scosha** (multicolore), l'**Opale Blanche de Jacquie Aiche** (or rose opale) et le **Groumette de Lisa O** (or rose diamants).

@@ -21,6 +21,8 @@ faq:
     answer: "Buying is recommended for the groom as you can wear it again. For a guest on a budget, an Izac suit at €200 is more cost-effective than renting."
   - question: "What is the difference between Izac and Hugo Boss for a wedding?"
     answer: "Izac offers better value for money with suits from €200 vs €350 at Hugo Boss, while providing a collection specifically designed for weddings and free alterations in-store."
+image: "/images/blog/costume-mariage.jpg"
+imageAlt: "Wedding suit"
 ---
 
 Looking for the **best wedding suit brand**? Whether you're the groom or a guest, choosing the right suit is crucial. We compared 7 brands on value, cuts, fabrics and style. **Izac takes the top spot** thanks to its excellent value, modern cuts and wide range of wedding-specific suits, ahead of **De Fursac** (premium), **The Kooples** (rock chic), **Sandro Homme** (Parisian elegance), **Hugo Boss** (safe bet), **Father & Sons** (dandy) and **Devred** (budget).
