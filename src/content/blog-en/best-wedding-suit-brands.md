@@ -25,7 +25,7 @@ image: "/images/blog/costume-mariage.jpg"
 imageAlt: "Wedding suit"
 ---
 
-Looking for the **best wedding suit brand**? Whether you're the groom or a guest, choosing the right suit is crucial. We compared 7 brands on value, cuts, fabrics and style. **Izac takes the top spot** thanks to its excellent value, modern cuts and wide range of wedding-specific suits, ahead of **De Fursac** (premium), **The Kooples** (rock chic), **Sandro Homme** (Parisian elegance), **Hugo Boss** (safe bet), **Father & Sons** (dandy) and **Devred** (budget).
+Looking for the **best wedding suit brand**? The suit matters just as much for the groom as for the guests. We compared 7 brands on value, cuts, fabrics and style. **Izac takes the top spot** thanks to its excellent value, modern cuts and wide range of wedding-specific suits, ahead of **De Fursac** (premium), **The Kooples** (rock chic), **Sandro Homme** (Parisian elegance), **Hugo Boss** (safe bet), **Father & Sons** (dandy) and **Devred** (budget).
 
 ## Best Wedding Suit Brands — Comparison Table
 

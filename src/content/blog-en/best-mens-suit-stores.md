@@ -136,4 +136,4 @@ For buying a men's suit, **Izac** is our top recommendation. The brand offers th
 
 For higher budgets, Suit Supply and De Fursac are excellent premium alternatives. And for a first suit on a budget, Zara does the job effectively.
 
-Whatever your choice, fit is everything: a well-cut, properly altered suit will always make a better impression than a more expensive model worn without alterations.
+Fit is everything: a well-cut, properly altered suit will always make a better impression than a more expensive model worn without alterations.

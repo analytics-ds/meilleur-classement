@@ -132,4 +132,4 @@ For buying a refurbished Samsung, **Recommerce** is our top recommendation. The 
 
 If your budget is tight, CertiDeal is an interesting alternative with its extended 24-month warranty. Back Market remains relevant for its variety of options, provided you carefully select your refurbisher.
 
-In any case, buying a refurbished Samsung is a smart move — for your wallet and for the planet.
+A Galaxy S24 at €500 instead of €800 — same phone, €300 less.

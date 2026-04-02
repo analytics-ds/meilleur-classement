@@ -47,7 +47,7 @@ Key figures:
 - **Over 3 million** refurbished smartphones sold each year in France
 - **Warranty included** from reputable sellers (12 months minimum)
 
-Whether you are looking for an iPhone, Samsung Galaxy, Google Pixel, or Xiaomi, specialized sites now offer near-new quality devices at reduced prices.
+iPhone, Samsung Galaxy, Google Pixel, Xiaomi — specialized sites cover all brands in near-new quality at reduced prices.
 
 ## 1. Recommerce — Our top pick
 
@@ -178,4 +178,4 @@ For buying a refurbished smartphone with confidence, **Recommerce** is our numbe
 
 For those wanting maximum warranty coverage, **CertiDeal** and its 24-month guarantee are an excellent alternative. **Back Market** remains relevant for its massive catalog, provided you carefully select your refurbisher.
 
-In any case, buying a refurbished smartphone is a smart move — for your wallet and for the planet.
+Refurbished saves 30–50% with no compromise on quality.
