@@ -11,6 +11,8 @@ interface Props {
   publishedTime?: string;
   modifiedTime?: string;
   author?: string;
+  category?: string;
+  tags?: string[];
 }
 
 const {
@@ -22,6 +24,8 @@ const {
   publishedTime,
   modifiedTime,
   author,
+  category,
+  tags,
 } = Astro.props;
 
 const lang = getLang(Astro.url);
@@ -61,6 +65,8 @@ const hreflangAlt = lang === 'fr' ? 'en' : 'fr';
 {publishedTime && <meta property="article:published_time" content={publishedTime} />}
 {modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
 {author && <meta name="author" content={author} />}
+{category && <meta property="article:section" content={category} />}
+{tags && tags.map((tag) => <meta property="article:tag" content={tag} />)}
 
 <!-- Favicons -->
 <link rel="icon" href={withBase("/favicon.ico")} sizes="48x48" />

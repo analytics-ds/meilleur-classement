@@ -17,6 +17,8 @@ interface Props {
   schemaAuthorId?: string;
   breadcrumbs?: Array<{ name: string; url: string }>;
   faq?: Array<{ question: string; answer: string }>;
+  category?: string;
+  tags?: string[];
 }
 
 const {
@@ -31,6 +33,8 @@ const {
   schemaAuthorId,
   breadcrumbs,
   faq,
+  category,
+  tags,
 } = Astro.props;
 
 const lang = getLang(Astro.url);
@@ -47,6 +51,8 @@ const lang = getLang(Astro.url);
       publishedTime={publishedTime}
       modifiedTime={modifiedTime}
       author={author}
+      category={category}
+      tags={tags}
     />
     <SchemaOrg
       type={schemaType}
