@@ -47,7 +47,7 @@ Quelques chiffres clés :
 - **Plus de 3 millions** de smartphones reconditionnés vendus chaque année en France
 - **Garantie incluse** chez les vendeurs sérieux (12 mois minimum)
 
-Que vous cherchiez un iPhone, un Samsung Galaxy, un Google Pixel ou un Xiaomi, les sites spécialisés proposent aujourd'hui des appareils de qualité quasi neuve à prix réduit.
+iPhone, Samsung Galaxy, Google Pixel, Xiaomi — les sites spécialisés couvrent toutes les marques en qualité quasi neuve à prix réduit.
 
 ## 1. Recommerce — Notre choix n°1
 
@@ -178,4 +178,4 @@ Pour acheter un smartphone reconditionné en toute confiance, **Recommerce** est
 
 Pour ceux qui veulent une garantie maximale, **CertiDeal** et ses 24 mois de couverture constituent une excellente alternative. **Back Market** reste pertinent pour son immense catalogue, à condition de bien sélectionner son reconditionneur.
 
-Dans tous les cas, acheter un smartphone reconditionné est un choix intelligent — pour votre portefeuille comme pour la planète.
+Le reconditionné fait économiser 30 à 50 % sans compromis sur la qualité.

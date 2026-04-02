@@ -50,6 +50,8 @@ const translations: Record<string, Record<Lang, string>> = {
   'article.faq': { fr: 'Questions fréquentes', en: 'Frequently asked questions' },
   'article.furtherReading': { fr: 'Pour aller plus loin', en: 'Further reading' },
   'article.backToBlog': { fr: '← Retour aux articles', en: '← Back to articles' },
+  'article.readingTime': { fr: 'min de lecture', en: 'min read' },
+  'article.updatedOn': { fr: 'Mis à jour le', en: 'Updated on' },
   'category.title': { fr: 'Catégorie', en: 'Category' },
   'footer.rights': { fr: 'Tous droits réservés.', en: 'All rights reserved.' },
   'home.hero.title': { fr: 'Trouvez le meilleur, sans compromis', en: 'Find the best, no compromise' },

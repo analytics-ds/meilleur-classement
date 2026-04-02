@@ -132,4 +132,4 @@ Pour l'achat d'un Samsung reconditionné, **Recommerce** est notre recommandatio
 
 Si votre budget est serré, CertiDeal constitue une alternative intéressante avec sa garantie étendue à 24 mois. Back Market reste pertinent pour sa variété de choix, à condition de bien sélectionner son reconditionneur.
 
-Dans tous les cas, acheter un Samsung reconditionné est un geste intelligent — pour votre portefeuille et pour la planète.
+Un Galaxy S24 à 500 € au lieu de 800 €, c'est le même téléphone avec 300 € en moins.

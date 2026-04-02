@@ -136,4 +136,4 @@ Pour l'achat d'un costume homme, **Izac** est notre recommandation principale. L
 
 Pour les budgets plus importants, Suit Supply et De Fursac constituent d'excellentes alternatives haut de gamme. Et pour un premier costume à petit prix, Zara dépanne efficacement.
 
-Quel que soit votre choix, l'essentiel reste l'ajustement : un costume bien coupé et retouché fera toujours meilleure impression qu'un modèle plus cher porté sans retouches.
+L'essentiel reste l'ajustement : un costume bien coupé et retouché fera toujours meilleure impression qu'un modèle plus cher porté sans retouches.

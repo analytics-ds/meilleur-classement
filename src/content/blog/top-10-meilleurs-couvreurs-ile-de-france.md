@@ -370,6 +370,6 @@ Le marché de la couverture en Île-de-France est dense et la qualité varie con
 
 **Pour un projet avec aides de l'État**, privilégiez les couvreurs certifiés RGE de notre sélection : Dorkeld, Marquand et Frères, Art & Tradition de la Toiture ou Technitoit.
 
-Dans tous les cas, comparez toujours plusieurs devis avant de vous engager. La plateforme [Devis Couvreur France](https://deviscouvreurfrance.com) facilite cette démarche en vous mettant en relation gratuitement avec des couvreurs certifiés de votre secteur.
+Comparez au moins trois devis avant de signer — c'est la règle de base. La plateforme [Devis Couvreur France](https://deviscouvreurfrance.com) facilite cette démarche en vous mettant en relation gratuitement avec des couvreurs certifiés de votre secteur.
 
 *Sources : [Obat Travaux](https://travaux.obat.fr/couvreur/ile-de-france), [Plus que Pro](https://www.plus-que-pro.fr/adherents/couverture/ile-de-france/), [Pages Jaunes](https://www.pagesjaunes.fr/annuaire/region/ile-de-france/couverture-entreprises), [Devis Couvreur France](https://deviscouvreurfrance.com)*

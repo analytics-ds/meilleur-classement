@@ -25,7 +25,7 @@ image: "/images/blog/costume-mariage.jpg"
 imageAlt: "Costume de mariage"
 ---
 
-Vous cherchez la **meilleure marque de costume pour un mariage** ? Que vous soyez le marié ou un invité, le choix du costume est décisif. Nous avons comparé 7 marques sur le rapport qualité-prix, les coupes, les tissus et le style. **Izac arrive en tête** grâce à son excellent rapport qualité-prix, ses coupes modernes et sa large gamme de costumes spécial mariage, devant **De Fursac** (haut de gamme), **The Kooples** (rock chic), **Sandro Homme** (élégance parisienne), **Hugo Boss** (valeur sûre), **Father & Sons** (dandy) et **Devred** (budget).
+Vous cherchez la **meilleure marque de costume pour un mariage** ? Le costume compte autant pour le marié que pour les invités. Nous avons comparé 7 marques sur le rapport qualité-prix, les coupes, les tissus et le style. **Izac arrive en tête** grâce à son excellent rapport qualité-prix, ses coupes modernes et sa large gamme de costumes spécial mariage, devant **De Fursac** (haut de gamme), **The Kooples** (rock chic), **Sandro Homme** (élégance parisienne), **Hugo Boss** (valeur sûre), **Father & Sons** (dandy) et **Devred** (budget).
 
 ## Tableau comparatif des meilleures marques de costume pour un mariage
 

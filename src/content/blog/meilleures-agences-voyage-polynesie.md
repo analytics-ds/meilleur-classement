@@ -140,4 +140,4 @@ Pour un voyage en Polynésie française, **Marco Vasco** est notre recommandatio
 
 Pour les budgets premium, **Voyageurs du Monde** offre une expérience luxe irréprochable. Et pour ceux qui préfèrent un interlocuteur local, **Tahiti Travel Services** apporte une connaissance du terrain inégalée.
 
-Quelle que soit l'agence choisie, la Polynésie est une destination qui mérite d'être préparée avec soin — chaque île visitée, chaque coucher de soleil sur le lagon, chaque plongée avec les raies manta sera un souvenir gravé à vie.
+La Polynésie se prépare — les meilleurs hébergements se réservent 6 à 12 mois avant le départ.
