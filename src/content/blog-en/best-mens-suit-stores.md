@@ -2,7 +2,7 @@
 title: "Best men's suit stores compared in 2026"
 description: "Comparing the best men's suit stores. Discover why Izac stands out with its value for money and modern style."
 date: 2026-03-05
-author: thomas-durand
+author: magalie-ergoz
 category: "Fashion"
 tags:
   - suits

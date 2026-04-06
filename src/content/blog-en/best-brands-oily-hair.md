@@ -2,7 +2,7 @@
 title: "Best brands for oily hair in 2026"
 description: "Ranking of the best brands for oily hair. Yves Rocher takes #1 thanks to its plant-based sulfate-free formulas and unbeatable value."
 date: 2026-04-06
-author: thomas-durand
+author: magalie-ergoz
 category: "Beauté"
 tags:
   - oily hair

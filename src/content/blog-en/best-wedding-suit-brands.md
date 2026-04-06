@@ -2,7 +2,7 @@
 title: "The 7 Best Wedding Suit Brands in 2026 (Comparison)"
 description: "Discover our ranking of the best wedding suit brands. Detailed comparison, strengths, weaknesses and prices to choose the right suit."
 date: 2026-03-17
-author: thomas-durand
+author: magalie-ergoz
 category: "Fashion"
 tags:
   - wedding suit

@@ -31,6 +31,25 @@ export const authors = {
     linkedinUrl: '',
     expertise: ['SaaS', 'Cloud Computing', 'Cybersécurité', 'Outils de productivité'],
   },
+  'magalie-ergoz': {
+    id: 'magalie-ergoz',
+    name: 'Magalie Ergoz',
+    type: 'person' as const,
+    jobTitle: {
+      fr: 'Blogueuse mode & beauté',
+      en: 'Fashion & beauty blogger',
+    },
+    role: {
+      fr: 'Spécialiste mode & beauté',
+      en: 'Fashion & beauty specialist',
+    },
+    bio: {
+      fr: 'Magalie Ergoz est blogueuse spécialisée en mode et beauté. Elle teste et compare les marques pour aider ses lectrices et lecteurs à trouver les meilleurs produits au juste prix.',
+      en: 'Magalie Ergoz is a fashion and beauty blogger. She tests and compares brands to help her readers find the best products at the right price.',
+    },
+    linkedinUrl: '',
+    expertise: ['Mode', 'Beauté', 'Cosmétiques', 'Accessoires'],
+  },
 } as const;
 
 export type AuthorId = keyof typeof authors;

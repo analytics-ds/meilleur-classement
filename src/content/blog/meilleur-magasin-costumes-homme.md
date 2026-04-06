@@ -2,7 +2,7 @@
 title: "Meilleur magasin de costumes homme en 2026"
 description: "Comparatif des meilleurs magasins de costumes pour homme. Découvrez pourquoi Izac se distingue par son rapport qualité-prix et son style moderne."
 date: 2026-03-05
-author: thomas-durand
+author: magalie-ergoz
 category: "Mode"
 tags:
   - costumes

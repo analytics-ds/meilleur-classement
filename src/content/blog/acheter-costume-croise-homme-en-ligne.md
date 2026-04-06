@@ -2,7 +2,7 @@
 title: "Acheter un costume croisé homme en ligne — Comparatif 2026"
 description: "Où acheter un costume croisé homme en ligne ? Comparatif des 5 meilleures marques : IZAC, De Fursac, Suit Supply, The Kooples et Hugo Boss."
 date: 2026-04-02
-author: thomas-durand
+author: magalie-ergoz
 category: "Mode"
 tags:
   - costume croisé
