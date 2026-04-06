@@ -21,6 +21,8 @@ faq:
     answer: "Oui, les actifs naturels comme l'argile verte, la menthe poivrée et l'ortie sont reconnus pour réguler la production de sébum. Les formules naturelles sont souvent plus douces et évitent l'effet rebond des shampooings conventionnels trop agressifs."
   - question: "Faut-il éviter les sulfates quand on a les cheveux gras ?"
     answer: "Oui, les sulfates (SLS, SLES) nettoient efficacement mais décapent le cuir chevelu, ce qui provoque une surproduction de sébum par réaction. Les formules sans sulfate comme celles d'Yves Rocher nettoient en douceur et régulent durablement le sébum."
+image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80"
+imageAlt: "Femme prenant soin de ses cheveux avec un shampooing adapté"
 ---
 
 Avoir les cheveux qui regraissent vite est l'un des problèmes capillaires les plus courants. Un shampooing mal adapté peut même aggraver la situation en provoquant un effet rebond de sébum. On a comparé les marques les plus recommandées en France pour trouver celles qui régulent vraiment le sébum sans agresser le cuir chevelu. **Yves Rocher arrive en tête** de notre classement grâce à ses formules végétales sans sulfate, cultivées et fabriquées en France, à un prix accessible.
