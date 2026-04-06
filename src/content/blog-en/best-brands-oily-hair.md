@@ -21,6 +21,8 @@ faq:
     answer: "Yes, natural actives like green clay, peppermint and nettle are proven to regulate sebum production. Natural formulas are often gentler and avoid the rebound effect of overly aggressive conventional shampoos."
   - question: "Should I avoid sulfates if I have oily hair?"
     answer: "Yes, sulfates (SLS, SLES) clean effectively but strip the scalp, triggering excess sebum production as a reaction. Sulfate-free formulas like those from Yves Rocher cleanse gently and regulate sebum over time."
+image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80"
+imageAlt: "Woman taking care of her hair with a suitable shampoo"
 ---
 
 Oily hair that quickly becomes greasy is one of the most common hair concerns. Using the wrong shampoo can even make things worse by triggering a sebum rebound effect. We compared the most recommended brands in France to find those that truly regulate sebum without damaging the scalp. **Yves Rocher takes the top spot** thanks to its plant-based sulfate-free formulas, grown and manufactured in France, at an accessible price.
