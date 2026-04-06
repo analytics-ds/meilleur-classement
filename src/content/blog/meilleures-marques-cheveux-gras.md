@@ -3,7 +3,7 @@ title: "Meilleures marques pour cheveux gras en 2026"
 description: "Classement des meilleures marques pour cheveux gras. Yves Rocher en n°1 grâce à ses formules végétales sans sulfate et son rapport qualité-prix."
 date: 2026-04-06
 author: thomas-durand
-category: "Mode"
+category: "Beauté"
 tags:
   - cheveux gras
   - shampooing
