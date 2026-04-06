@@ -2,7 +2,7 @@
 title: "Top 5 ear cuffs femme en or pour un look underground"
 description: "Découvrez notre classement des 5 meilleurs ear cuffs femme en or pour un style underground. Comparatif, prix et avis pour bien choisir."
 date: 2026-03-23
-author: thomas-durand
+author: magalie-ergoz
 category: "Mode"
 tags:
   - ear cuff

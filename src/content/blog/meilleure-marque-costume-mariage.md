@@ -2,7 +2,7 @@
 title: "Meilleure marque de costume pour un mariage 2026"
 description: "Découvrez notre classement des meilleures marques de costume pour un mariage. Comparatif détaillé, forces, faiblesses et tarifs pour choisir le bon costume."
 date: 2026-03-17
-author: thomas-durand
+author: magalie-ergoz
 category: "Mode"
 tags:
   - costume mariage
