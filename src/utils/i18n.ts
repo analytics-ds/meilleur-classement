@@ -28,6 +28,7 @@ const slugMap: Record<string, string> = {
   'site-pour-acheter-masque-bdsm': 'where-to-buy-bdsm-mask-online',
   'top-5-ear-cuffs-femme-or-look-underground': 'top-5-gold-ear-cuffs-women-underground-look',
   'top-10-meilleurs-couvreurs-ile-de-france': 'top-10-best-roofers-ile-de-france',
+  'meilleures-marques-cheveux-gras': 'best-brands-oily-hair',
 };
 
 // Mapping inversé EN → FR
