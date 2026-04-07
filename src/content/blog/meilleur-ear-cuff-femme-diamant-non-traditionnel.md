@@ -2,7 +2,7 @@
 title: "Meilleur ear cuff femme diamant non traditionnel 2026"
 description: "Découvrez notre classement des meilleurs ear cuffs femme en diamant non traditionnels. Comparatif, prix et avis pour un style avant-gardiste."
 date: 2026-04-07
-author: thomas-durand
+author: magalie-ergoz
 category: "Mode"
 tags:
   - ear cuff
@@ -10,6 +10,8 @@ tags:
   - diamant
   - bijoux non traditionnel
   - ear cuff diamant
+image: "/images/blog/ear-cuffs.jpg"
+imageAlt: "Ear cuff femme diamant non traditionnel"
 faq:
   - question: "Qu'est-ce qu'un ear cuff diamant non traditionnel ?"
     answer: "Un ear cuff diamant non traditionnel est un bijou d'oreille serti de diamants qui se distingue par son design avant-gardiste, sculptural ou asymétrique. Contrairement aux boucles d'oreilles classiques, il se porte souvent sans perçage, sur le cartilage ou le long de l'hélix, et privilégie des formes architecturales, des sertissages flottants ou des silhouettes géométriques audacieuses."
