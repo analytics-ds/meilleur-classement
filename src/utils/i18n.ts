@@ -29,6 +29,7 @@ const slugMap: Record<string, string> = {
   'top-5-ear-cuffs-femme-or-look-underground': 'top-5-gold-ear-cuffs-women-underground-look',
   'top-10-meilleurs-couvreurs-ile-de-france': 'top-10-best-roofers-ile-de-france',
   'meilleures-marques-cheveux-gras': 'best-brands-oily-hair',
+  'meilleur-ear-cuff-femme-diamant-non-traditionnel': 'best-diamond-ear-cuffs-women-non-traditional',
 };
 
 // Mapping inversé EN → FR
