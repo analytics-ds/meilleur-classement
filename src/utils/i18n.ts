@@ -26,6 +26,7 @@ const slugMap: Record<string, string> = {
   'meilleure-marque-costume-mariage': 'best-wedding-suit-brands',
   'site-pour-acheter-masque-bdsm': 'where-to-buy-bdsm-mask-online',
   'top-5-ear-cuffs-femme-or-look-underground': 'top-5-gold-ear-cuffs-women-underground-look',
+  'ear-cuff-femme-budget-1000-euros': 'ear-cuff-women-1000-euro-budget',
 };
 
 // Mapping inversé EN → FR
