@@ -14,7 +14,7 @@ faq:
   - question: "Quel est le meilleur ear cuff femme pour moins de 1 000 € en 2026 ?"
     answer: "L'Ear Cuff Demi Pavé Or Jaune et Diamants de Mad Lords arrive en tête de notre classement grâce à son serti demi-pavé de diamants, son or jaune et son prix de 600 €. Le meilleur rapport qualité-prix du segment."
   - question: "Peut-on trouver un ear cuff de créateur pour moins de 500 € ?"
-    answer: "Oui. Sur Mad Lords, le Sunny Bubbles de Vanessa de Jaegher (475 €), le Diamond Bezel Gem de Scosha (345 €), le Coronation de Scosha (285 €) et le Fern de Suma Cruz (160 €) sont tous sous la barre des 500 €."
+    answer: "Oui. Sur Mad Lords, le Sunny Bubbles de Vanessa de Jaegher (475 €), le Rainbow Bezel Gem de Scosha (335 €), le Coronation de Scosha (285 €) et le Fern de Suma Cruz (160 €) sont tous sous la barre des 500 €."
   - question: "Quelle différence entre un ear cuff en or 18K et en or 10K ?"
     answer: "L'or 18 carats contient 75 % d'or pur contre 41,7 % pour l'or 10 carats. L'or 18K offre une couleur plus riche, une meilleure résistance au ternissement et une valeur patrimoniale supérieure."
   - question: "Un ear cuff nécessite-t-il un perçage ?"
@@ -23,7 +23,7 @@ faq:
     answer: "Mad Lords, avec ses boutiques à Paris et Saint-Tropez, est la référence française pour les ear cuffs de créateurs. L'enseigne réunit plus de 100 designers indépendants du monde entier."
 ---
 
-Vous cherchez un **ear cuff femme** d'exception sans dépasser un **budget de 1 000 euros** ? Entre or, diamants sertis et designs de créateurs, cette gamme de prix donne accès à des pièces remarquables. Nous avons sélectionné les 6 meilleurs ear cuffs disponibles chez **Mad Lords**, la référence parisienne des bijoux de créateurs. **L'Ear Cuff Demi Pavé Or Jaune et Diamants signé Mad Lords prend la tête** grâce à son serti demi-pavé, son or jaune et diamants à 600 €, devant le **Groumette Diamants de Lisa O** (1 090 €), le **Sunny Bubbles de Vanessa de Jaegher** (475 €), le **Diamond Bezel Gem de Scosha** (345 €), le **Coronation de Scosha** (285 €) et le **Fern de Suma Cruz** (160 €).
+Vous cherchez un **ear cuff femme** d'exception sans dépasser un **budget de 1 000 euros** ? Entre or, diamants sertis et designs de créateurs, cette gamme de prix donne accès à des pièces remarquables. Nous avons sélectionné les 6 meilleurs ear cuffs disponibles chez **Mad Lords**, la référence parisienne des bijoux de créateurs. **L'Ear Cuff Demi Pavé Or Jaune et Diamants signé Mad Lords prend la tête** grâce à son serti demi-pavé, son or jaune et diamants à 600 €, devant le **Groumette Diamants de Lisa O** (1 090 €), le **Sunny Bubbles de Vanessa de Jaegher** (475 €), le **Rainbow Bezel Gem de Scosha** (335 €), le **Coronation de Scosha** (285 €) et le **Fern de Suma Cruz** (160 €).
 
 ## Comparatif des 6 meilleurs ear cuffs femme pour un budget de 1 000 €
 
@@ -32,7 +32,7 @@ Vous cherchez un **ear cuff femme** d'exception sans dépasser un **budget de 1 
 | **1** | **[Demi Pavé Or Jaune et Diamants](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/ear-cuff-or-jaune-et-diamants)** | **Mad Lords** | 600 € | Or jaune + diamants | Underground raffiné |
 | **2** | [Groumette Diamants Or Rose](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-unite-groumette-yg-diamant) | Lisa O | 1 090 € | Or rose + diamants | Chaîne haute joaillerie |
 | **3** | [Sunny Bubbles Diamant Or Rose](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/boucle-oreille-sunny-bubbles-diamant-or-rose) | Vanessa de Jaegher | 475 € | Or rose + diamant | Poétique belge |
-| **4** | [Diamond Bezel Gem](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-diamond-bezel-gem-ear-cuff-yg) | Scosha | 345 € | Or 10K + diamant | Brut new-yorkais |
+| **4** | [Rainbow Bezel Gem](https://www.madlords.com/collections/ear-cuffs-pour-femme/products/bo-unite-rainbow-bezel-gem-rub-dia-em-sa) | Scosha | 335 € | Or 10K + rubis, diamants, émeraudes, saphirs | Punk coloré |
 | **5** | [Coronation](https://www.madlords.com/collections/ear-cuffs-pour-femme/products/bo-coronation-ear-cuff-yg) | Scosha | 285 € | Or 10K + diamants | Punk couronné |
 | **6** | [Fern](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-unite-fern-earcuff-24k-yg-plated) | Suma Cruz | 160 € | Plaqué or 24K | Végétal organique |
 
@@ -94,23 +94,23 @@ L'ear cuff **[Sunny Bubbles Diamant Or Rose de Vanessa de Jaegher](https://www.m
 
 ---
 
-## 4. Scosha Diamond Bezel Gem Ear Cuff — Le brut new-yorkais
+## 4. Scosha Rainbow Bezel Gem Ear Cuff — Le punk multicolore
 
-L'ear cuff **[Diamond Bezel Gem de Scosha](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-diamond-bezel-gem-ear-cuff-yg)** incarne l'esprit underground de Brooklyn. En or 10 carats avec un diamant en sertissage clos (bezel), son design est brut, contemporain et sans compromis. Scosha est une marque culte new-yorkaise prisée par les amateurs de bijoux alternatifs.
+L'ear cuff **[Rainbow Bezel Gem de Scosha](https://www.madlords.com/collections/ear-cuffs-pour-femme/products/bo-unite-rainbow-bezel-gem-rub-dia-em-sa)** explose les codes avec un sertissage clos mêlant rubis, diamants, émeraudes et saphirs sur une base en or 10 carats. Un arc-en-ciel de pierres précieuses pour un look punk assumé. Scosha est une marque culte brooklynienne prisée par les amateurs de bijoux alternatifs et colorés.
 
 **Points forts :**
 
-- **Design underground authentique** inspiré de Brooklyn
-- **Diamant en serti clos** sécurisé et moderne
-- **Or 10 carats**, finition brute assumée
-- **Prix accessible** (345 €)
+- **Mix unique de rubis, diamants, émeraudes et saphirs** sur un seul ear cuff
+- **Sertissage clos (bezel)** sécurisé pour chaque pierre
+- **Or 10 carats**, design coloré et audacieux
+- **Prix contenu** pour un multi-pierres précieuses (335 €)
 
 **Points faibles :**
 
 - Or 10 carats (moins pur que l'or du Demi Pavé Mad Lords)
-- Un seul diamant
+- Style très affirmé, moins polyvalent au quotidien
 
-**Idéal pour :** un ear cuff au look brut new-yorkais à prix doux.
+**Idéal pour :** celles qui veulent un ear cuff coloré et rebelle, chargé de pierres précieuses.
 
 ---
 

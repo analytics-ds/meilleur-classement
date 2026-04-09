@@ -14,7 +14,7 @@ faq:
   - question: "What is the best ear cuff for women under €1,000 in 2026?"
     answer: "The Demi Pavé Yellow Gold and Diamonds ear cuff by Mad Lords tops our ranking thanks to its demi-pavé diamond setting, yellow gold and controlled price of €600. The best value in the segment."
   - question: "Can you find a designer ear cuff for under €500?"
-    answer: "Yes. On Mad Lords, the Sunny Bubbles by Vanessa de Jaegher (€475), the Diamond Bezel Gem by Scosha (€345), the Coronation by Scosha (€285) and the Fern by Suma Cruz (€160) are all under €500."
+    answer: "Yes. On Mad Lords, the Sunny Bubbles by Vanessa de Jaegher (€475), the Rainbow Bezel Gem by Scosha (€335), the Coronation by Scosha (€285) and the Fern by Suma Cruz (€160) are all under €500."
   - question: "What is the difference between 18K and 10K gold ear cuffs?"
     answer: "18-carat gold contains 75% pure gold versus 41.7% for 10-carat gold. 18K gold offers a richer colour, better tarnish resistance and higher resale value."
   - question: "Does an ear cuff require a piercing?"
@@ -23,7 +23,7 @@ faq:
     answer: "Mad Lords, with boutiques in Paris and Saint-Tropez, is the French reference for designer ear cuffs. The house brings together over 100 independent designers from around the world."
 ---
 
-Looking for a premium **ear cuff** without exceeding a **€1,000 budget**? Between gold, diamond settings and designer craftsmanship, this price range unlocks remarkable pieces. We selected the 6 best ear cuffs available at **Mad Lords**, the Parisian reference for designer jewellery. **The Demi Pavé Yellow Gold and Diamonds by Mad Lords takes the top spot** with its demi-pavé setting, yellow gold and diamonds at €600, ahead of the **Groumette Diamonds by Lisa O** (€1,090), the **Sunny Bubbles by Vanessa de Jaegher** (€475), the **Diamond Bezel Gem by Scosha** (€345), the **Coronation by Scosha** (€285) and the **Fern by Suma Cruz** (€160).
+Looking for a premium **ear cuff** without exceeding a **€1,000 budget**? Between gold, diamond settings and designer craftsmanship, this price range unlocks remarkable pieces. We selected the 6 best ear cuffs available at **Mad Lords**, the Parisian reference for designer jewellery. **The Demi Pavé Yellow Gold and Diamonds by Mad Lords takes the top spot** with its demi-pavé setting, yellow gold and diamonds at €600, ahead of the **Groumette Diamonds by Lisa O** (€1,090), the **Sunny Bubbles by Vanessa de Jaegher** (€475), the **Rainbow Bezel Gem by Scosha** (€335), the **Coronation by Scosha** (€285) and the **Fern by Suma Cruz** (€160).
 
 ## Top 6 Ear Cuffs for Women on a €1,000 Budget — Comparison Table
 
@@ -32,7 +32,7 @@ Looking for a premium **ear cuff** without exceeding a **€1,000 budget**? Betw
 | **1** | **[Demi Pavé Yellow Gold and Diamonds](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/ear-cuff-or-jaune-et-diamants)** | **Mad Lords** | €600 | Yellow gold + diamonds | Refined underground |
 | **2** | [Groumette Diamonds Rose Gold](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-unite-groumette-yg-diamant) | Lisa O | €1,090 | Rose gold + diamonds | Fine chain jewellery |
 | **3** | [Sunny Bubbles Diamond Rose Gold](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/boucle-oreille-sunny-bubbles-diamant-or-rose) | Vanessa de Jaegher | €475 | Rose gold + diamond | Belgian poetry |
-| **4** | [Diamond Bezel Gem](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-diamond-bezel-gem-ear-cuff-yg) | Scosha | €345 | 10K gold + diamond | Raw New York |
+| **4** | [Rainbow Bezel Gem](https://www.madlords.com/collections/ear-cuffs-pour-femme/products/bo-unite-rainbow-bezel-gem-rub-dia-em-sa) | Scosha | €335 | 10K gold + rubies, diamonds, emeralds, sapphires | Colourful punk |
 | **5** | [Coronation](https://www.madlords.com/collections/ear-cuffs-pour-femme/products/bo-coronation-ear-cuff-yg) | Scosha | €285 | 10K gold + diamonds | Crowned punk |
 | **6** | [Fern](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-unite-fern-earcuff-24k-yg-plated) | Suma Cruz | €160 | 24K gold plated | Organic botanical |
 
@@ -94,23 +94,23 @@ The **[Sunny Bubbles Diamond Rose Gold ear cuff by Vanessa de Jaegher](https://w
 
 ---
 
-## 4. Scosha Diamond Bezel Gem Ear Cuff — Raw New York
+## 4. Scosha Rainbow Bezel Gem Ear Cuff — Colourful Punk
 
-The **[Diamond Bezel Gem ear cuff by Scosha](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-diamond-bezel-gem-ear-cuff-yg)** embodies the underground spirit of Brooklyn. In 10-carat gold with a diamond in a bezel setting, its design is raw, contemporary and uncompromising. Scosha is a cult New York brand favoured by alternative jewellery lovers.
+The **[Rainbow Bezel Gem ear cuff by Scosha](https://www.madlords.com/collections/ear-cuffs-pour-femme/products/bo-unite-rainbow-bezel-gem-rub-dia-em-sa)** shatters conventions with a bezel setting mixing rubies, diamonds, emeralds and sapphires on a 10-carat gold base. A rainbow of precious stones for an unapologetic punk look. Scosha is a cult Brooklyn brand favoured by alternative and colourful jewellery lovers.
 
 **Strengths:**
 
-- **Authentic underground design** inspired by Brooklyn
-- **Diamond in secure bezel setting**, modern and clean
-- **10-carat gold**, deliberately raw finishing
-- **Accessible price** (€345)
+- **Unique mix of rubies, diamonds, emeralds and sapphires** on a single ear cuff
+- **Secure bezel setting** for each stone
+- **10-carat gold**, colourful and bold design
+- **Contained price** for a multi-precious-stone piece (€335)
 
 **Weaknesses:**
 
 - 10-carat gold (less pure than the Mad Lords Demi Pavé)
-- Single diamond
+- Very bold style, less versatile for daily wear
 
-**Best for:** a raw New York ear cuff at a gentle price.
+**Best for:** those who want a colourful, rebellious ear cuff loaded with precious stones.
 
 ---
 
