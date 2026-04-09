@@ -1,12 +1,18 @@
 ---
 import { siteConfig } from '@/config/site';
-import { getLang, t, getAlternatePath, getBlogPath, getHomePath } from '@/utils/i18n';
+import { getLang, t, getAlternatePath, getBlogPath, getHomePath, getCategorySlug, getCategoryPath } from '@/utils/i18n';
 
 const lang = getLang(Astro.url);
 const alternatePath = getAlternatePath(Astro.url.pathname);
 const blogPath = getBlogPath(lang);
 const homePath = getHomePath(lang);
 const currentPath = Astro.url.pathname;
+
+const categories = siteConfig.categories.map((cat) => ({
+  name: cat,
+  slug: getCategorySlug(cat),
+  path: getCategoryPath(getCategorySlug(cat), lang),
+}));
 ---
 
 <header class="site-header">
@@ -20,12 +26,25 @@ const currentPath = Astro.url.pathname;
     </a>
 
     <nav class="nav-desktop" aria-label="Navigation principale">
-      <a href={homePath} class:list={['nav-link', { active: currentPath === homePath || currentPath === homePath }]}>
+      <a href={homePath} class:list={['nav-link', { active: currentPath === homePath }]}>
         {t(lang, 'nav.home')}
       </a>
       <a href={blogPath} class:list={['nav-link', { active: currentPath.includes('/blog') }]}>
         {t(lang, 'nav.blog')}
       </a>
+      <div class="nav-dropdown">
+        <button class="nav-link dropdown-toggle" aria-expanded="false" aria-haspopup="true">
+          {t(lang, 'nav.categories')}
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <polyline points="6 9 12 15 18 9" />
+          </svg>
+        </button>
+        <div class="dropdown-menu" role="menu">
+          {categories.map((cat) => (
+            <a href={cat.path} class="dropdown-item" role="menuitem">{cat.name}</a>
+          ))}
+        </div>
+      </div>
     </nav>
 
     <div class="header-actions">
@@ -49,6 +68,12 @@ const currentPath = Astro.url.pathname;
     <a href={blogPath} class="nav-link-mobile">
       {t(lang, 'nav.blog')}
     </a>
+    <div class="mobile-categories-label">{t(lang, 'nav.categories')}</div>
+    {categories.map((cat) => (
+      <a href={cat.path} class="nav-link-mobile nav-link-sub">
+        {cat.name}
+      </a>
+    ))}
   </nav>
 </header>
 
@@ -85,6 +110,7 @@ const currentPath = Astro.url.pathname;
 
   .nav-desktop {
     display: flex;
+    align-items: center;
     gap: var(--spacing-xl);
   }
 
@@ -96,12 +122,75 @@ const currentPath = Astro.url.pathname;
     padding: var(--spacing-xs) 0;
     border-bottom: 2px solid transparent;
     transition: all var(--transition-fast);
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    cursor: pointer;
+    font-family: var(--font-family);
   }
 
   .nav-link:hover,
   .nav-link.active {
     color: var(--color-primary);
     border-bottom-color: var(--color-primary);
+  }
+
+  /* Dropdown */
+  .nav-dropdown {
+    position: relative;
+  }
+
+  .dropdown-toggle {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .dropdown-toggle svg {
+    transition: transform var(--transition-fast);
+  }
+
+  .dropdown-menu {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    min-width: 220px;
+    background: var(--color-white);
+    border: 1px solid var(--color-gray-200);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    padding: var(--spacing-sm) 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: all var(--transition-fast);
+    z-index: 200;
+  }
+
+  .nav-dropdown:hover .dropdown-menu,
+  .nav-dropdown.open .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .nav-dropdown:hover .dropdown-toggle svg,
+  .nav-dropdown.open .dropdown-toggle svg {
+    transform: rotate(180deg);
+  }
+
+  .dropdown-item {
+    display: block;
+    padding: var(--spacing-sm) var(--spacing-lg);
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-700);
+    text-decoration: none;
+    transition: all var(--transition-fast);
+  }
+
+  .dropdown-item:hover {
+    background-color: var(--color-gray-50);
+    color: var(--color-primary);
   }
 
   .header-actions {
@@ -153,6 +242,24 @@ const currentPath = Astro.url.pathname;
 
   .nav-link-mobile:hover {
     color: var(--color-primary);
+  }
+
+  .nav-link-sub {
+    padding-left: var(--spacing-md);
+    font-size: var(--font-size-sm);
+    font-weight: 400;
+    color: var(--color-gray-500);
+  }
+
+  .mobile-categories-label {
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-gray-400);
+    padding-top: var(--spacing-md);
+    margin-top: var(--spacing-sm);
+    border-top: 1px solid var(--color-gray-100);
   }
 
   @media (max-width: 768px) {

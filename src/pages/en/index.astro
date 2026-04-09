@@ -3,42 +3,207 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import ArticleCard from '@/components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 import { siteConfig } from '@/config/site';
-import { t, getBlogPath, getCategorySlug, getCategoryPath } from '@/utils/i18n';
+import { getBlogPath, getCategorySlug, getCategoryPath } from '@/utils/i18n';
 
 const lang = 'en';
 const allPosts = await getCollection('blog-en');
 const latestPosts = allPosts
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 6);
+  .slice(0, 8);
 
 const title = `${siteConfig.brand.siteName} — ${siteConfig.brand.tagline.en}`;
-const description = 'Independent comparisons of software, hosting, and security solutions. Find the best tech solution for your needs.';
+const description = 'Independent comparisons and verified rankings. Find the best choice for your needs in tech, fashion, travel and more.';
+
+const categoryIcons: Record<string, string> = {
+  'SaaS & Logiciels': '💻',
+  'Hébergement & Cloud': '☁️',
+  'VPN & Sécurité': '🔒',
+  'Mode': '👟',
+  'Smartphones': '📱',
+  'Voyage': '✈️',
+  'Événements': '🎯',
+  'Services': '🛠️',
+};
 ---
 
 <BaseLayout title={title} description={description}>
-  <!-- Hero -->
+
+  <!-- ============ HERO ============ -->
   <section class="hero">
-    <div class="container">
-      <h1 class="hero-title">
-        {t(lang, 'home.hero.title')}
-      </h1>
-      <p class="hero-subtitle">
-        {t(lang, 'home.hero.subtitle')}
-      </p>
-      <a href={getBlogPath(lang)} class="btn btn-primary">
-        {t(lang, 'home.viewAll')}
-      </a>
+    <div class="hero-bg-shape"></div>
+    <div class="hero-bg-dots"></div>
+    <div class="container hero-grid">
+      <div class="hero-content">
+        <span class="hero-label">&#x2794; Independent rankings</span>
+        <h1 class="hero-title">
+          <span class="hero-title-accent">Meilleur Classement</span><br/>
+          Compare, choose, move forward
+        </h1>
+        <ul class="hero-checks">
+          <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg> 100% independent rankings</li>
+          <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg> Transparent methodology</li>
+          <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg> Regularly updated</li>
+        </ul>
+        <div class="hero-ctas">
+          <a href={getBlogPath(lang)} class="btn btn-primary btn-lg">
+            View comparisons <span class="btn-arrow">&rarr;</span>
+          </a>
+          <a href="#categories" class="btn btn-outline btn-lg">
+            Our categories <span class="btn-arrow">&rarr;</span>
+          </a>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="hero-illustration">
+          <svg viewBox="0 0 400 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="40" y="30" width="320" height="260" rx="20" fill="var(--color-gray-100)" stroke="var(--color-gray-200)" stroke-width="2"/>
+            <rect x="60" y="60" width="280" height="20" rx="6" fill="var(--color-gray-200)"/>
+            <rect x="60" y="100" width="130" height="100" rx="12" fill="var(--color-primary)" opacity="0.12"/>
+            <rect x="210" y="100" width="130" height="100" rx="12" fill="var(--color-primary)" opacity="0.08"/>
+            <rect x="75" y="115" width="100" height="10" rx="4" fill="var(--color-primary)" opacity="0.5"/>
+            <rect x="75" y="135" width="80" height="8" rx="4" fill="var(--color-gray-300)"/>
+            <rect x="75" y="155" width="90" height="8" rx="4" fill="var(--color-gray-300)"/>
+            <rect x="75" y="175" width="60" height="8" rx="4" fill="var(--color-gray-300)"/>
+            <rect x="225" y="115" width="100" height="10" rx="4" fill="var(--color-primary)" opacity="0.3"/>
+            <rect x="225" y="135" width="80" height="8" rx="4" fill="var(--color-gray-300)"/>
+            <rect x="225" y="155" width="90" height="8" rx="4" fill="var(--color-gray-300)"/>
+            <rect x="225" y="175" width="60" height="8" rx="4" fill="var(--color-gray-300)"/>
+            <rect x="60" y="220" width="280" height="50" rx="12" fill="var(--color-primary)" opacity="0.06"/>
+            <rect x="80" y="237" width="120" height="16" rx="6" fill="var(--color-primary)" opacity="0.2"/>
+            <circle cx="310" cy="245" r="12" fill="var(--color-primary)" opacity="0.3"/>
+            <path d="M305 245L309 249L315 241" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <text x="200" y="340" text-anchor="middle" font-size="12" fill="var(--color-gray-400)" font-family="Inter, sans-serif">ranking &bull; comparison &bull; top</text>
+          </svg>
+        </div>
+        <div class="hero-stat-bubble stat-1">
+          <span class="stat-number">{allPosts.length}+</span>
+          <span class="stat-label">Comparisons<br/>published</span>
+        </div>
+        <div class="hero-stat-bubble stat-2">
+          <span class="stat-number">{siteConfig.categories.length}</span>
+          <span class="stat-label">Categories<br/>covered</span>
+        </div>
+      </div>
     </div>
   </section>
 
-  <!-- Latest articles -->
-  {latestPosts.length > 0 && (
-    <section class="section">
-      <div class="container">
-        <div class="section-header">
-          <h2>{t(lang, 'home.latest')}</h2>
-          <a href={getBlogPath(lang)} class="see-all">{t(lang, 'home.viewAll')} &rarr;</a>
+  <!-- ============ TRUST BAR ============ -->
+  <section class="trust-bar">
+    <div class="container trust-bar-inner">
+      <div class="trust-item">
+        <div class="trust-icon-circle">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
         </div>
+        <span>100% Independent</span>
+      </div>
+      <div class="trust-item">
+        <div class="trust-icon-circle">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+        </div>
+        <span>Real testing</span>
+      </div>
+      <div class="trust-item">
+        <div class="trust-icon-circle">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
+        </div>
+        <span>Regular updates</span>
+      </div>
+      <div class="trust-item">
+        <div class="trust-icon-circle">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        </div>
+        <span>Up-to-date content</span>
+      </div>
+      <div class="trust-item">
+        <div class="trust-icon-circle">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        </div>
+        <span>Active community</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ ABOUT ============ -->
+  <section class="section about-section">
+    <div class="container about-grid">
+      <div class="about-images">
+        <div class="about-img-main">
+          <svg viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="400" height="300" rx="16" fill="var(--color-primary)" opacity="0.06"/>
+            <rect x="30" y="40" width="160" height="120" rx="12" fill="var(--color-white)" stroke="var(--color-gray-200)"/>
+            <rect x="45" y="55" width="50" height="8" rx="3" fill="var(--color-primary)" opacity="0.4"/>
+            <rect x="45" y="70" width="130" height="6" rx="3" fill="var(--color-gray-200)"/>
+            <rect x="45" y="82" width="100" height="6" rx="3" fill="var(--color-gray-200)"/>
+            <rect x="45" y="100" width="60" height="24" rx="6" fill="var(--color-primary)" opacity="0.15"/>
+            <rect x="55" y="108" width="40" height="8" rx="3" fill="var(--color-primary)" opacity="0.5"/>
+            <circle cx="160" cy="130" r="15" fill="var(--color-primary)" opacity="0.2"/>
+            <text x="155" y="135" font-size="14" fill="var(--color-primary)" font-weight="bold" font-family="Inter, sans-serif">#1</text>
+            <rect x="210" y="80" width="160" height="180" rx="12" fill="var(--color-white)" stroke="var(--color-gray-200)"/>
+            <rect x="225" y="95" width="60" height="8" rx="3" fill="var(--color-primary)" opacity="0.4"/>
+            <rect x="225" y="115" width="130" height="40" rx="8" fill="var(--color-primary)" opacity="0.08"/>
+            <rect x="235" y="125" width="80" height="6" rx="3" fill="var(--color-gray-300)"/>
+            <rect x="235" y="137" width="60" height="6" rx="3" fill="var(--color-gray-300)"/>
+            <rect x="225" y="165" width="130" height="40" rx="8" fill="var(--color-primary)" opacity="0.08"/>
+            <rect x="235" y="175" width="80" height="6" rx="3" fill="var(--color-gray-300)"/>
+            <rect x="235" y="187" width="60" height="6" rx="3" fill="var(--color-gray-300)"/>
+            <rect x="225" y="215" width="130" height="30" rx="8" fill="var(--color-primary)" opacity="0.08"/>
+            <rect x="235" y="225" width="80" height="6" rx="3" fill="var(--color-gray-300)"/>
+          </svg>
+        </div>
+        <div class="about-badge">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--color-white)" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
+          <span>Verified</span>
+        </div>
+      </div>
+      <div class="about-content">
+        <span class="section-label">&#x1F4CA; About us</span>
+        <h2 class="about-title">Reliable rankings to help you choose</h2>
+        <p class="about-text">
+          Meilleur Classement analyzes and compares products and services to provide objective rankings. Our editorial team tests, verifies, and updates every comparison to guarantee relevant recommendations.
+        </p>
+        <ul class="about-checklist">
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--color-primary)"><rect width="24" height="24" rx="4"/><polyline points="17 8 10 15 7 12" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            Rankings based on transparent criteria
+          </li>
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--color-primary)"><rect width="24" height="24" rx="4"/><polyline points="17 8 10 15 7 12" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            {allPosts.length}+ comparisons across {siteConfig.categories.length} categories
+          </li>
+          <li>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--color-primary)"><rect width="24" height="24" rx="4"/><polyline points="17 8 10 15 7 12" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            Content reviewed and updated regularly
+          </li>
+        </ul>
+        <a href={getBlogPath(lang)} class="btn btn-primary">Learn more <span class="btn-arrow">&rarr;</span></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CATEGORIES ============ -->
+  <section class="section categories-section" id="categories">
+    <div class="container">
+      <span class="section-label center">&#x1F4C2; Our categories</span>
+      <h2 class="section-title">Explore our rankings</h2>
+      <div class="categories-pills">
+        {siteConfig.categories.map((cat, i) => (
+          <a href={getCategoryPath(getCategorySlug(cat), lang)} class:list={['cat-pill', { 'cat-pill-active': i === 0 }]}>
+            <span class="cat-pill-icon">{categoryIcons[cat] || '📂'}</span>
+            <div class="cat-pill-text">
+              <span class="cat-pill-name">{cat}</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ LATEST ARTICLES ============ -->
+  {latestPosts.length > 0 && (
+    <section class="section articles-section">
+      <div class="container">
+        <span class="section-label center">&#x1F4DD; Latest comparisons</span>
+        <h2 class="section-title">Our latest rankings</h2>
         <div class="articles-grid">
           {latestPosts.map((post) => (
             <ArticleCard
@@ -48,33 +213,68 @@ const description = 'Independent comparisons of software, hosting, and security 
               slug={post.slug}
               category={post.data.category}
               tags={post.data.tags}
+              image={post.data.image}
+              imageAlt={post.data.imageAlt}
             />
           ))}
+        </div>
+        <div class="articles-cta">
+          <a href={getBlogPath(lang)} class="btn btn-outline btn-lg">
+            View all comparisons <span class="btn-arrow">&rarr;</span>
+          </a>
         </div>
       </div>
     </section>
   )}
 
-  <!-- Categories -->
-  <section class="section categories-section">
-    <div class="container">
-      <h2 class="section-title">{t(lang, 'nav.categories')}</h2>
-      <div class="categories-grid">
-        {siteConfig.categories.map((cat) => (
-          <a href={getCategoryPath(getCategorySlug(cat), lang)} class="category-card">
-            <h3>{cat}</h3>
-          </a>
-        ))}
-      </div>
-    </div>
-  </section>
 </BaseLayout>
 
 <style>
   .hero {
-    background: linear-gradient(135deg, var(--color-gray-50), rgba(5, 150, 105, 0.05));
-    padding: var(--spacing-4xl) 0;
-    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(160deg, #f0fdf7 0%, #ecfdf5 40%, #f0fdf4 100%);
+    padding: var(--spacing-4xl) 0 var(--spacing-3xl);
+  }
+
+  .hero-bg-shape {
+    position: absolute;
+    top: -120px;
+    right: -80px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(5, 150, 105, 0.08) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .hero-bg-dots {
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    width: 120px;
+    height: 120px;
+    background-image: radial-gradient(circle, var(--color-primary) 1.5px, transparent 1.5px);
+    background-size: 16px 16px;
+    opacity: 0.15;
+    pointer-events: none;
+  }
+
+  .hero-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--spacing-3xl);
+    align-items: center;
+    position: relative;
+    z-index: 1;
+  }
+
+  .hero-label {
+    display: inline-block;
+    font-size: var(--font-size-sm);
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-md);
   }
 
   .hero-title {
@@ -83,97 +283,251 @@ const description = 'Independent comparisons of software, hosting, and security 
     color: var(--color-gray-900);
     line-height: 1.1;
     margin-bottom: var(--spacing-lg);
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
   }
 
-  .hero-subtitle {
-    font-size: var(--font-size-lg);
+  .hero-title-accent { color: var(--color-primary); }
+
+  .hero-checks {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-sm) var(--spacing-xl);
+    margin-bottom: var(--spacing-xl);
+  }
+
+  .hero-checks li {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-600);
+    font-weight: 500;
+  }
+
+  .hero-ctas { display: flex; gap: var(--spacing-md); }
+
+  .btn-lg {
+    padding: var(--spacing-md) var(--spacing-xl);
+    font-size: var(--font-size-base);
+    border-radius: var(--radius-lg);
+  }
+
+  .btn-arrow { margin-left: var(--spacing-xs); }
+
+  .hero-visual { position: relative; display: flex; justify-content: center; }
+
+  .hero-illustration { width: 100%; max-width: 400px; }
+
+  .hero-illustration svg {
+    width: 100%;
+    height: auto;
+    filter: drop-shadow(0 8px 30px rgba(5, 150, 105, 0.1));
+  }
+
+  .hero-stat-bubble {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    background: var(--color-white);
+    border-radius: var(--radius-xl);
+    padding: var(--spacing-sm) var(--spacing-lg);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+    z-index: 2;
+  }
+
+  .stat-1 { bottom: 20px; left: -10px; }
+  .stat-2 { top: 10px; right: -10px; }
+
+  .hero-stat-bubble .stat-number {
+    font-size: var(--font-size-xl);
+    font-weight: 800;
+    color: var(--color-primary);
+    line-height: 1;
+  }
+
+  .hero-stat-bubble .stat-label {
+    font-size: var(--font-size-xs);
     color: var(--color-gray-500);
-    max-width: 600px;
-    margin: 0 auto var(--spacing-xl);
-    line-height: 1.6;
+    line-height: 1.3;
   }
 
-  .section-header {
+  .trust-bar {
+    background: var(--color-white);
+    border-top: 1px solid var(--color-gray-100);
+    border-bottom: 1px solid var(--color-gray-100);
+    padding: var(--spacing-lg) 0;
+  }
+
+  .trust-bar-inner {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: var(--spacing-xl);
+    gap: var(--spacing-lg);
+    flex-wrap: wrap;
   }
 
-  .section-header h2 {
-    font-size: var(--font-size-2xl);
-    font-weight: 700;
-    color: var(--color-gray-900);
+  .trust-item { display: flex; align-items: center; gap: var(--spacing-sm); }
+
+  .trust-icon-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: rgba(5, 150, 105, 0.08);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
   }
 
-  .see-all {
-    font-size: var(--font-size-sm);
-    font-weight: 600;
-    color: var(--color-primary);
-    text-decoration: none;
-  }
+  .trust-item span { font-size: var(--font-size-sm); font-weight: 600; color: var(--color-gray-700); }
 
-  .see-all:hover {
-    text-decoration: underline;
-  }
+  .about-section { background: var(--color-white); }
 
-  .articles-grid {
+  .about-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-    gap: var(--spacing-xl);
+    grid-template-columns: 1fr 1fr;
+    gap: var(--spacing-3xl);
+    align-items: center;
   }
+
+  .about-images { position: relative; }
+
+  .about-img-main svg { width: 100%; height: auto; border-radius: var(--radius-lg); }
+
+  .about-badge {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+    background: var(--color-primary);
+    color: var(--color-white);
+    font-size: var(--font-size-sm);
+    font-weight: 700;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--radius-full);
+  }
+
+  .section-label {
+    display: inline-block;
+    font-size: var(--font-size-sm);
+    font-weight: 700;
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .section-label.center { display: block; text-align: center; }
+
+  .about-title {
+    font-size: var(--font-size-3xl);
+    font-weight: 800;
+    color: var(--color-gray-900);
+    line-height: 1.2;
+    margin-bottom: var(--spacing-md);
+  }
+
+  .about-text {
+    font-size: var(--font-size-base);
+    color: var(--color-gray-500);
+    line-height: 1.7;
+    margin-bottom: var(--spacing-lg);
+  }
+
+  .about-checklist {
+    list-style: none;
+    padding: 0;
+    margin-bottom: var(--spacing-xl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
+  }
+
+  .about-checklist li {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    color: var(--color-gray-700);
+  }
+
+  .about-checklist li svg { flex-shrink: 0; }
 
   .section-title {
-    font-size: var(--font-size-2xl);
-    font-weight: 700;
+    font-size: var(--font-size-3xl);
+    font-weight: 800;
     color: var(--color-gray-900);
-    margin-bottom: var(--spacing-xl);
+    margin-bottom: var(--spacing-2xl);
     text-align: center;
   }
 
-  .categories-section {
-    background-color: var(--color-gray-50);
+  .categories-section { background: #f0fdf7; }
+
+  .categories-pills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--spacing-md);
   }
 
-  .categories-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: var(--spacing-lg);
-  }
-
-  .category-card {
-    display: block;
+  .cat-pill {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-md) var(--spacing-xl);
     background: var(--color-white);
     border: 1px solid var(--color-gray-200);
-    border-radius: var(--radius-lg);
-    padding: var(--spacing-xl);
-    text-align: center;
+    border-radius: var(--radius-xl);
     text-decoration: none;
     transition: all var(--transition-base);
+    box-shadow: var(--shadow-sm);
   }
 
-  .category-card:hover {
+  .cat-pill:hover, .cat-pill-active {
+    background: var(--color-primary);
     border-color: var(--color-primary);
-    box-shadow: var(--shadow-md);
+    box-shadow: 0 4px 15px rgba(5, 150, 105, 0.3);
     transform: translateY(-2px);
   }
 
-  .category-card h3 {
-    font-size: var(--font-size-lg);
+  .cat-pill:hover .cat-pill-name, .cat-pill-active .cat-pill-name { color: var(--color-white); }
+
+  .cat-pill-icon { font-size: var(--font-size-xl); line-height: 1; }
+
+  .cat-pill-name {
+    font-size: var(--font-size-sm);
     font-weight: 600;
-    color: var(--color-gray-800);
+    color: var(--color-gray-700);
+    transition: color var(--transition-fast);
   }
 
-  @media (max-width: 768px) {
-    .hero-title {
-      font-size: var(--font-size-3xl);
-    }
+  .articles-section { background: var(--color-white); }
 
-    .articles-grid {
-      grid-template-columns: 1fr;
-    }
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--spacing-xl);
+  }
+
+  .articles-cta { text-align: center; margin-top: var(--spacing-2xl); }
+
+  @media (max-width: 768px) {
+    .hero { padding: var(--spacing-2xl) 0; }
+    .hero-grid { grid-template-columns: 1fr; text-align: center; }
+    .hero-title { font-size: var(--font-size-3xl); }
+    .hero-checks { justify-content: center; }
+    .hero-ctas { justify-content: center; flex-wrap: wrap; }
+    .hero-visual { display: none; }
+    .trust-bar-inner { justify-content: center; gap: var(--spacing-md); }
+    .trust-item span { display: none; }
+    .about-grid { grid-template-columns: 1fr; }
+    .about-images { display: none; }
+    .categories-pills { gap: var(--spacing-sm); }
+    .cat-pill { padding: var(--spacing-sm) var(--spacing-md); }
+    .articles-grid { grid-template-columns: 1fr; }
+    .section-title { font-size: var(--font-size-2xl); }
   }
 </style>

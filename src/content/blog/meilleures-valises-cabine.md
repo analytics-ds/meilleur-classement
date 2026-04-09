@@ -19,6 +19,8 @@ faq:
     answer: "La limite de poids varie entre 7 et 10 kg selon les compagnies. En moyenne, comptez 8 kg maximum. Choisir une valise légère (2 à 3 kg à vide) comme la Samsonite Lite-Box vous laisse plus de marge pour vos affaires."
   - question: "Les valises cabine 4 roues sont-elles meilleures que 2 roues ?"
     answer: "Les valises 4 roues (spinner) offrent une maniabilité supérieure car elles roulent dans toutes les directions et se tiennent debout sans appui. Les 2 roues sont plus stables sur terrain irrégulier. Pour l'aéroport, le 4 roues est clairement plus pratique."
+image: "/images/blog/valises-cabine.jpg"
+imageAlt: "Valise cabine de voyage"
 ---
 
 Dans notre classement des meilleures valises cabine en 2026, la **Samsonite Lite-Box** arrive en tête grâce à son matériau Curv ultra-léger (2,1 kg) et sa capacité de 36 L, devant la **Delsey Turenne** (fabrication française), la **Rimowa Essential Lite** (design premium), l'**American Tourister Bon Air** (moins de 100 euros), l'**Eastpak Transit'R S** (garantie 30 ans) et la **Cabin Max Anode** (ultra-abordable). Voici notre comparatif complet.
@@ -136,4 +138,4 @@ Pour une valise cabine, la **Samsonite Lite-Box** est notre recommandation n°1.
 
 Pour un budget plus serré, l'**American Tourister Bon Air** est un excellent choix solide à moins de 100 euros. Et pour ceux qui recherchent le prestige, la **Rimowa Essential Lite** reste une icône intemporelle.
 
-Quel que soit votre choix, une valise cabine bien choisie vous simplifiera chaque voyage — plus besoin d'attendre au carrousel à bagages.
+Une bonne valise cabine, c'est surtout un gain de temps — plus d'attente au carrousel à bagages.

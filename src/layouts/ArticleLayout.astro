@@ -1,6 +1,8 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumb from '@/components/Breadcrumb.astro';
+import TableOfContents from '@/components/TableOfContents.astro';
+import RelatedArticles from '@/components/RelatedArticles.astro';
 import FAQ from '@/components/FAQ.astro';
 import { getLang, t, formatDate, getBlogPath, getCategorySlug, getCategoryPath, getCategoryName, getHomePath } from '@/utils/i18n';
 import { authors } from '@/data/authors';
@@ -8,9 +10,10 @@ import type { CollectionEntry } from 'astro:content';
 
 interface Props {
   entry: CollectionEntry<'blog'> | CollectionEntry<'blog-en'>;
+  headings: Array<{ depth: number; slug: string; text: string }>;
 }
 
-const { entry } = Astro.props;
+const { entry, headings } = Astro.props;
 const { title, description, date, author: authorId, category, tags, faq, updatedDate, image, imageAlt } = entry.data;
 const lang = getLang(Astro.url);
 
@@ -22,11 +25,17 @@ const categorySlug = getCategorySlug(category);
 const breadcrumbs = [
   { name: t(lang, 'breadcrumb.home'), url: getHomePath(lang) },
   { name: t(lang, 'breadcrumb.blog'), url: getBlogPath(lang) },
+  { name: getCategoryName(categorySlug, lang), url: getCategoryPath(categorySlug, lang) },
   { name: title, url: Astro.url.pathname },
 ];
 
 const publishedISO = date.toISOString();
 const modifiedISO = updatedDate ? updatedDate.toISOString() : publishedISO;
+
+// Reading time estimate (~250 words/min)
+const body = entry.body ?? '';
+const wordCount = body.split(/\s+/).length;
+const readingTime = Math.max(1, Math.round(wordCount / 250));
 ---
 
 <BaseLayout
@@ -41,63 +50,135 @@ const modifiedISO = updatedDate ? updatedDate.toISOString() : publishedISO;
   schemaAuthorId={authorId}
   breadcrumbs={breadcrumbs}
   faq={faq}
+  category={category}
+  tags={tags}
 >
   <article class="article-page section">
     <div class="container">
-      <div class="article-header">
-        <Breadcrumb items={breadcrumbs} />
+      <Breadcrumb items={breadcrumbs} />
 
-        <div class="article-meta">
-          <a href={getCategoryPath(categorySlug, lang)} class="article-category">
-            {category}
-          </a>
-          <span class="article-date">
-            {t(lang, 'article.publishedOn')} {formatDate(date, lang)}
-          </span>
-        </div>
+      <div class="article-hero">
+        <div class="article-hero-text">
+          <div class="article-meta">
+            <a href={getCategoryPath(categorySlug, lang)} class="article-category">
+              {category}
+            </a>
+            <span class="meta-separator">·</span>
+            <time class="article-date" datetime={publishedISO}>
+              {formatDate(date, lang)}
+            </time>
+            <span class="meta-separator">·</span>
+            <span class="article-reading-time">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+              {readingTime} {t(lang, 'article.readingTime')}
+            </span>
+          </div>
 
-        <h1 class="article-title">{title}</h1>
+          <h1 class="article-title">{title}</h1>
+          <p class="article-description">{description}</p>
 
-        <p class="article-description">{description}</p>
-
-        <div class="article-author">
-          <div class="author-info">
-            <span class="author-name">{authorName}</span>
-            {authorRole && <span class="author-role">{authorRole}</span>}
+          <div class="article-author-bar">
+            <div class="author-info">
+              <div class="author-avatar" aria-hidden="true">{authorName.charAt(0)}</div>
+              <div class="author-text">
+                <span class="author-name">{authorName}</span>
+                {authorRole && <span class="author-role">{authorRole}</span>}
+              </div>
+            </div>
+            {updatedDate && (
+              <div class="article-updated">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 4v6h6"/><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/></svg>
+                {t(lang, 'article.updatedOn')} {formatDate(updatedDate, lang)}
+              </div>
+            )}
           </div>
         </div>
+
+        {image && (
+          <div class="article-hero-image">
+            <img src={image} alt={imageAlt || title} width="600" height="375" loading="eager" fetchpriority="high" />
+          </div>
+        )}
       </div>
 
-      <div class="prose article-content">
-        <slot />
-      </div>
+      <div class="article-layout">
+        <aside class="article-sidebar">
+          <TableOfContents headings={headings} />
+        </aside>
 
-      <div class="article-tags">
-        {tags.map((tag) => (
-          <span class="tag">{tag}</span>
-        ))}
-      </div>
+        <div class="article-main">
+          <div class="prose article-content">
+            <slot />
+          </div>
 
-      {faq && faq.length > 0 && <FAQ items={faq} />}
+          <div class="article-tags">
+            {tags.map((tag) => (
+              <span class="tag">{tag}</span>
+            ))}
+          </div>
 
-      <div class="article-back">
-        <a href={getBlogPath(lang)}>{t(lang, 'article.backToBlog')}</a>
+          {faq && faq.length > 0 && <FAQ items={faq} />}
+
+          <RelatedArticles currentSlug={entry.slug} category={category} tags={tags} />
+
+          <div class="article-back">
+            <a href={getBlogPath(lang)}>{t(lang, 'article.backToBlog')}</a>
+          </div>
+        </div>
       </div>
     </div>
   </article>
 </BaseLayout>
 
+<script>
+  // Highlight active TOC item on scroll
+  const observer = new IntersectionObserver(
+    (entries) => {
+      for (const entry of entries) {
+        if (entry.isIntersecting) {
+          document.querySelectorAll('.toc-list a').forEach((a) => a.classList.remove('toc-active'));
+          const link = document.querySelector(`.toc-list a[href="#${entry.target.id}"]`);
+          if (link) link.classList.add('toc-active');
+        }
+      }
+    },
+    { rootMargin: '-80px 0px -60% 0px', threshold: 0 }
+  );
+
+  document.querySelectorAll('.article-content h2, .article-content h3').forEach((h) => observer.observe(h));
+</script>
+
 <style>
-  .article-header {
-    max-width: var(--max-width-content);
+  /* ── Hero: titre + image côte à côte ── */
+  .article-hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--spacing-2xl);
+    align-items: center;
     margin-bottom: var(--spacing-2xl);
+    padding-bottom: var(--spacing-2xl);
+    border-bottom: 1px solid var(--color-gray-200);
   }
 
+  .article-hero-image {
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    aspect-ratio: 16 / 10;
+  }
+
+  .article-hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* ── Meta line ── */
   .article-meta {
     display: flex;
     align-items: center;
-    gap: var(--spacing-md);
+    gap: var(--spacing-sm);
     margin-bottom: var(--spacing-md);
+    flex-wrap: wrap;
   }
 
   .article-category {
@@ -107,22 +188,34 @@ const modifiedISO = updatedDate ? updatedDate.toISOString() : publishedISO;
     letter-spacing: 0.05em;
     color: var(--color-primary);
     text-decoration: none;
+    background: rgba(5, 150, 105, 0.1);
+    background: color-mix(in srgb, var(--color-primary) 10%, transparent);
+    padding: 2px 10px;
+    border-radius: var(--radius-full, 50px);
   }
 
   .article-category:hover {
     text-decoration: underline;
   }
 
-  .article-date {
+  .meta-separator {
+    color: var(--color-gray-300);
+  }
+
+  .article-date,
+  .article-reading-time {
     font-size: var(--font-size-sm);
     color: var(--color-gray-400);
+    display: flex;
+    align-items: center;
+    gap: 4px;
   }
 
   .article-title {
     font-size: var(--font-size-4xl);
     font-weight: 800;
     color: var(--color-gray-900);
-    line-height: 1.2;
+    line-height: 1.15;
     margin-bottom: var(--spacing-md);
   }
 
@@ -133,15 +226,36 @@ const modifiedISO = updatedDate ? updatedDate.toISOString() : publishedISO;
     margin-bottom: var(--spacing-lg);
   }
 
-  .article-author {
+  /* ── Author bar ── */
+  .article-author-bar {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: var(--spacing-md);
-    padding-top: var(--spacing-md);
-    border-top: 1px solid var(--color-gray-200);
+    flex-wrap: wrap;
   }
 
   .author-info {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+  }
+
+  .author-avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: var(--color-primary);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: var(--font-size-sm);
+    flex-shrink: 0;
+  }
+
+  .author-text {
     display: flex;
     flex-direction: column;
   }
@@ -157,12 +271,36 @@ const modifiedISO = updatedDate ? updatedDate.toISOString() : publishedISO;
     color: var(--color-gray-500);
   }
 
-  .article-content {
-    max-width: var(--max-width-content);
+  .article-updated {
+    font-size: var(--font-size-xs);
+    color: var(--color-gray-400);
+    display: flex;
+    align-items: center;
+    gap: 4px;
   }
 
-  .article-tags {
+  /* ── Layout 2 colonnes : sidebar sticky + contenu ── */
+  .article-layout {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    gap: var(--spacing-2xl);
+    align-items: start;
+  }
+
+  .article-sidebar {
+    position: sticky;
+    top: 90px;
+    max-height: calc(100vh - 120px);
+    overflow-y: auto;
+  }
+
+  .article-main {
     max-width: var(--max-width-content);
+    min-width: 0;
+  }
+
+  /* ── Tags, back ── */
+  .article-tags {
     display: flex;
     flex-wrap: wrap;
     gap: var(--spacing-sm);
@@ -172,7 +310,6 @@ const modifiedISO = updatedDate ? updatedDate.toISOString() : publishedISO;
   }
 
   .article-back {
-    max-width: var(--max-width-content);
     margin-top: var(--spacing-2xl);
   }
 
@@ -187,7 +324,28 @@ const modifiedISO = updatedDate ? updatedDate.toISOString() : publishedISO;
     text-decoration: underline;
   }
 
+  /* ── Responsive ── */
+  @media (max-width: 1024px) {
+    .article-layout {
+      grid-template-columns: 1fr;
+    }
+
+    .article-sidebar {
+      position: static;
+      max-height: none;
+    }
+  }
+
   @media (max-width: 768px) {
+    .article-hero {
+      grid-template-columns: 1fr;
+      gap: var(--spacing-lg);
+    }
+
+    .article-hero-image {
+      order: -1;
+    }
+
     .article-title {
       font-size: var(--font-size-2xl);
     }

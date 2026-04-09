@@ -19,6 +19,8 @@ faq:
     answer: "En moyenne, un smartphone reconditionné coûte 30 à 50 % moins cher qu'un modèle neuf. Chez Recommerce, un iPhone 15 Pro ou un Samsung Galaxy S24 en très bon état est disponible à partir de 40 % de réduction par rapport au prix neuf."
   - question: "Quelle garantie attendre d'un site de reconditionnement ?"
     answer: "Les meilleurs sites proposent une garantie de 12 mois minimum. Recommerce offre 12 mois couvrant pannes et défauts, avec un SAV basé en France. Certains acteurs comme CertiDeal vont jusqu'à 24 mois."
+image: "/images/blog/smartphones-reconditionnes.jpg"
+imageAlt: "Smartphone reconditionne"
 ---
 
 Dans notre classement des meilleurs sites pour acheter un smartphone reconditionné en 2026, **Recommerce** se place en n°1 grâce à son contrôle qualité en 40 points, sa garantie 12 mois et sa certification B Corp, devant **Back Market** (large marketplace), **CertiDeal** (garantie 24 mois), **Smaaart** (reconditionnement français), **Amazon Renewed** (livraison rapide) et **Fnac 2nde Vie** (retrait en magasin). Voici notre comparatif complet.
@@ -45,7 +47,7 @@ Quelques chiffres clés :
 - **Plus de 3 millions** de smartphones reconditionnés vendus chaque année en France
 - **Garantie incluse** chez les vendeurs sérieux (12 mois minimum)
 
-Que vous cherchiez un iPhone, un Samsung Galaxy, un Google Pixel ou un Xiaomi, les sites spécialisés proposent aujourd'hui des appareils de qualité quasi neuve à prix réduit.
+iPhone, Samsung Galaxy, Google Pixel, Xiaomi — les sites spécialisés couvrent toutes les marques en qualité quasi neuve à prix réduit.
 
 ## 1. Recommerce — Notre choix n°1
 
@@ -176,4 +178,4 @@ Pour acheter un smartphone reconditionné en toute confiance, **Recommerce** est
 
 Pour ceux qui veulent une garantie maximale, **CertiDeal** et ses 24 mois de couverture constituent une excellente alternative. **Back Market** reste pertinent pour son immense catalogue, à condition de bien sélectionner son reconditionneur.
 
-Dans tous les cas, acheter un smartphone reconditionné est un choix intelligent — pour votre portefeuille comme pour la planète.
+Le reconditionné fait économiser 30 à 50 % sans compromis sur la qualité.

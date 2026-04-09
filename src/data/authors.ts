@@ -36,19 +36,19 @@ export const authors = {
     name: 'Magalie Ergoz',
     type: 'person' as const,
     jobTitle: {
-      fr: 'Spécialiste mode & beauté',
-      en: 'Fashion & Beauty Specialist',
+      fr: 'Blogueuse mode & beauté',
+      en: 'Fashion & beauty blogger',
     },
     role: {
       fr: 'Spécialiste mode & beauté',
-      en: 'Fashion & Beauty Specialist',
+      en: 'Fashion & beauty specialist',
     },
     bio: {
-      fr: 'Magalie Ergoz est spécialiste mode et beauté chez Meilleur Classement. Elle décrypte les tendances et sélectionne les meilleures pièces de créateurs pour vous guider dans vos choix.',
-      en: 'Magalie Ergoz is a fashion and beauty specialist at Meilleur Classement. She decodes trends and curates the best designer pieces to guide your choices.',
+      fr: 'Magalie Ergoz est blogueuse spécialisée en mode et beauté. Elle teste et compare les marques pour aider ses lectrices et lecteurs à trouver les meilleurs produits au juste prix.',
+      en: 'Magalie Ergoz is a fashion and beauty blogger. She tests and compares brands to help her readers find the best products at the right price.',
     },
     linkedinUrl: '',
-    expertise: ['Mode', 'Beauté', 'Bijoux', 'Accessoires'],
+    expertise: ['Mode', 'Beauté', 'Cosmétiques', 'Accessoires'],
   },
 } as const;
 

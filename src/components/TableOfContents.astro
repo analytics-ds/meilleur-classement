@@ -1,0 +1,108 @@
+---
+import { getLang } from '@/utils/i18n';
+
+interface Props {
+  headings: Array<{ depth: number; slug: string; text: string }>;
+}
+
+const { headings } = Astro.props;
+const lang = getLang(Astro.url);
+const tocTitle = lang === 'fr' ? 'Sommaire' : 'Table of contents';
+
+// Only show h2 and h3
+const filtered = headings.filter((h) => h.depth === 2 || h.depth === 3);
+---
+
+{filtered.length > 2 && (
+  <nav class="toc" aria-label={tocTitle}>
+    <div class="toc-title">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="3" y1="6" x2="21" y2="6" />
+        <line x1="3" y1="12" x2="15" y2="12" />
+        <line x1="3" y1="18" x2="18" y2="18" />
+      </svg>
+      {tocTitle}
+    </div>
+    <ol class="toc-list">
+      {filtered.map((heading) => (
+        <li class:list={[heading.depth === 3 && 'toc-sub']}>
+          <a href={`#${heading.slug}`}>{heading.text}</a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}
+
+<style>
+  .toc {
+    background-color: var(--color-gray-50);
+    border-left: 3px solid var(--color-primary);
+    border-radius: var(--radius-md);
+    padding: var(--spacing-md);
+  }
+
+  .toc-title {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    color: var(--color-gray-900);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .toc-title svg {
+    color: var(--color-primary);
+    flex-shrink: 0;
+  }
+
+  .toc-list {
+    padding-left: var(--spacing-md);
+    list-style: none;
+    margin: 0;
+  }
+
+  .toc-list li {
+    margin-bottom: 2px;
+    line-height: 1.4;
+    position: relative;
+  }
+
+  .toc-list li a {
+    font-size: var(--font-size-xs);
+    color: var(--color-gray-500);
+    text-decoration: none;
+    transition: color var(--transition-fast);
+    display: block;
+    padding: 3px 0;
+  }
+
+  .toc-list li a:hover,
+  .toc-list li a:global(.toc-active) {
+    color: var(--color-primary);
+    font-weight: 600;
+  }
+
+  .toc-sub {
+    margin-left: var(--spacing-sm);
+  }
+
+  .toc-sub a {
+    font-size: 0.7rem !important;
+    color: var(--color-gray-400) !important;
+  }
+
+  .toc-sub a:hover,
+  .toc-sub a:global(.toc-active) {
+    color: var(--color-primary) !important;
+  }
+
+  /* On mobile: collapsible fallback */
+  @media (max-width: 1024px) {
+    .toc {
+      margin-bottom: var(--spacing-xl);
+    }
+  }
+</style>

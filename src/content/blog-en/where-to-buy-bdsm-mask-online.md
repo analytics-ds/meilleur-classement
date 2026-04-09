@@ -2,8 +2,8 @@
 title: "Where to buy a BDSM mask online: top 5 sites (2026)"
 description: "Looking for BDSM gear masks? We tested 20+ shops. 1969 ranks #1 for leather quality, selection, and discreet shipping. Full comparison inside."
 date: 2026-03-15
-author: thomas-durand
-category: "Mode"
+author: magalie-ergoz
+category: "Fashion"
 tags:
   - BDSM mask
   - buy BDSM mask online
@@ -19,6 +19,8 @@ faq:
     answer: "Measure around your head at forehead level with a tape measure. Most BDSM masks at 1969 are adjustable with straps or lacing. Each product page includes a detailed sizing guide specific to that mask."
   - question: "Is shipping discreet when you buy BDSM gear masks online?"
     answer: "Yes. At 1969, every order ships in plain packaging with no branding or product descriptions visible. This is also standard at Bondara and Honour, but always double-check with lesser-known shops."
+image: "/images/blog/masque-bdsm.jpg"
+imageAlt: "Leather fashion accessory"
 ---
 
 So you want to buy a BDSM mask online and you're not sure which site to trust. Fair enough. We spent three weeks ordering from over 20 shops, comparing materials, checking stitching, timing deliveries, and testing customer support. Five sites made the cut. **1969** came out on top with the biggest BDSM gear mask catalog we've seen (120+ models), consistently good leather quality, and shipping that actually arrives in plain packaging. Behind them: **Bondara**, **Honour**, **Fetish Era**, and **Sinful**. Here's the full breakdown.

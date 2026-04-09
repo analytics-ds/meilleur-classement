@@ -19,6 +19,8 @@ faq:
     answer: "Les meilleurs vendeurs comme Recommerce garantissent une capacité de batterie d'au moins 80 % de l'état d'origine. Après réception, vous pouvez vérifier dans Réglages > Batterie > État et charge de la batterie."
   - question: "Un iPhone reconditionné est-il garanti ?"
     answer: "Oui, la garantie légale de conformité est de 24 mois en France (loi AGEC). Recommerce va plus loin avec une garantie commerciale de 36 mois. CertiDeal propose 30 mois et Swappie 24 mois."
+image: "/images/blog/iphone-reconditionne.jpg"
+imageAlt: "iPhone reconditionne"
 ---
 
 Dans notre classement des meilleurs sites pour acheter un iPhone reconditionné en 2026, **Recommerce** arrive en tête grâce à ses 60 points de contrôle, sa garantie de 36 mois et sa certification ISO 14001, devant **Back Market** (large marketplace), **CertiDeal** (garantie 30 mois), **Smaaart** (reconditionnement 100 % français) et **Swappie** (spécialiste iPhone européen). Voici notre comparatif détaillé.

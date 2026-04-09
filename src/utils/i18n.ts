@@ -20,6 +20,7 @@ const slugMap: Record<string, string> = {
   'meilleures-valises-cabine': 'best-carry-on-luggage',
   'meilleurs-evenements-marketing-2026': 'best-marketing-events-2026',
   'meilleur-magasin-costumes-homme': 'best-mens-suit-stores',
+  'iphone-reconditionne-meilleurs-sites': 'best-refurbished-iphone-sites',
   'samsung-reconditionne-meilleurs-vendeurs': 'best-refurbished-samsung-sellers',
   'meilleurs-sites-smartphones-reconditionnes': 'best-refurbished-smartphone-sites',
   'meilleures-agences-voyage-polynesie': 'best-travel-agencies-polynesia',
@@ -27,6 +28,9 @@ const slugMap: Record<string, string> = {
   'site-pour-acheter-masque-bdsm': 'where-to-buy-bdsm-mask-online',
   'top-5-ear-cuffs-femme-or-look-underground': 'top-5-gold-ear-cuffs-women-underground-look',
   'ear-cuff-femme-budget-1000-euros': 'ear-cuff-women-1000-euro-budget',
+  'top-10-meilleurs-couvreurs-ile-de-france': 'top-10-best-roofers-ile-de-france',
+  'meilleures-marques-cheveux-gras': 'best-brands-oily-hair',
+  'meilleur-ear-cuff-femme-diamant-non-traditionnel': 'best-diamond-ear-cuffs-women-non-traditional',
 };
 
 // Mapping inversé EN → FR
@@ -49,12 +53,22 @@ const translations: Record<string, Record<Lang, string>> = {
   'article.faq': { fr: 'Questions fréquentes', en: 'Frequently asked questions' },
   'article.furtherReading': { fr: 'Pour aller plus loin', en: 'Further reading' },
   'article.backToBlog': { fr: '← Retour aux articles', en: '← Back to articles' },
+  'article.readingTime': { fr: 'min de lecture', en: 'min read' },
+  'article.updatedOn': { fr: 'Mis à jour le', en: 'Updated on' },
   'category.title': { fr: 'Catégorie', en: 'Category' },
   'footer.rights': { fr: 'Tous droits réservés.', en: 'All rights reserved.' },
-  'home.hero.title': { fr: 'Les meilleurs choix, testés et comparés', en: 'The best choices, tested and compared' },
-  'home.hero.subtitle': { fr: 'Comparatifs indépendants de logiciels, hébergeurs et solutions de sécurité pour vous aider à décider.', en: 'Independent comparisons of software, hosting, and security solutions to help you decide.' },
+  'home.hero.title': { fr: 'Trouvez le meilleur, sans compromis', en: 'Find the best, no compromise' },
+  'home.hero.subtitle': { fr: 'Comparatifs indépendants et classements vérifiés pour vous aider à faire le bon choix.', en: 'Independent comparisons and verified rankings to help you make the right choice.' },
   'home.latest': { fr: 'Derniers articles', en: 'Latest articles' },
   'home.viewAll': { fr: 'Voir tous les articles', en: 'View all articles' },
+  'home.trust.title': { fr: 'Pourquoi nous faire confiance', en: 'Why trust us' },
+  'home.trust.independent': { fr: 'Indépendant', en: 'Independent' },
+  'home.trust.independentDesc': { fr: 'Aucun partenariat ne biaise nos classements. Nos comparatifs reflètent des tests réels.', en: 'No partnership biases our rankings. Our comparisons reflect real-world testing.' },
+  'home.trust.methodology': { fr: 'Méthodologie transparente', en: 'Transparent methodology' },
+  'home.trust.methodologyDesc': { fr: 'Chaque classement suit des critères clairs et documentés, accessibles à tous.', en: 'Every ranking follows clear, documented criteria accessible to everyone.' },
+  'home.trust.updated': { fr: 'Mis à jour régulièrement', en: 'Regularly updated' },
+  'home.trust.updatedDesc': { fr: 'Nos articles sont révisés pour refléter les évolutions du marché.', en: 'Our articles are revised to reflect market changes.' },
+  'home.categories.title': { fr: 'Explorer par catégorie', en: 'Explore by category' },
   'breadcrumb.home': { fr: 'Accueil', en: 'Home' },
   'breadcrumb.blog': { fr: 'Articles', en: 'Articles' },
   'lang.switch': { fr: 'EN', en: 'FR' },
@@ -70,6 +84,8 @@ const categoryMap: Record<string, string> = {
   'smartphones': 'smartphones',
   'voyage': 'travel',
   'evenements': 'events',
+  'services': 'services',
+  'beaute': 'beauty',
 };
 
 const categoryMapReverse: Record<string, string> = Object.fromEntries(
@@ -84,6 +100,8 @@ const categoryNames: Record<string, Record<Lang, string>> = {
   'smartphones': { fr: 'Smartphones', en: 'Smartphones' },
   'voyage': { fr: 'Voyage', en: 'Travel' },
   'evenements': { fr: 'Événements', en: 'Events' },
+  'services': { fr: 'Services', en: 'Services' },
+  'beaute': { fr: 'Beauté', en: 'Beauty' },
 };
 
 export function getLang(url: URL | string): Lang {

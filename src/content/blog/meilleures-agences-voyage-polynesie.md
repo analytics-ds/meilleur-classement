@@ -20,6 +20,8 @@ faq:
     answer: "Un minimum de 10 jours est recommandé pour profiter de 2 à 3 îles, compte tenu du temps de vol (environ 22 heures depuis Paris). L'idéal est de prévoir 2 à 3 semaines pour découvrir Tahiti, Moorea, Bora Bora et une île moins touristique comme Huahine ou Rangiroa."
   - question: "Faut-il passer par une agence pour un voyage en Polynésie ?"
     answer: "Une agence spécialisée est fortement recommandée pour la Polynésie. Les transferts inter-îles (vols intérieurs, bateaux) sont complexes à organiser seul, les hébergements se remplissent vite en haute saison, et une agence comme Marco Vasco négocie des tarifs préférentiels inaccessibles aux particuliers."
+image: "/images/blog/voyage-polynesie.jpg"
+imageAlt: "Plage paradisiaque en Polynesie"
 ---
 
 Dans notre classement des meilleures agences de voyage pour la Polynésie en 2026, **Marco Vasco** arrive en n°1 grâce à ses itinéraires 100 % sur mesure et ses tarifs négociés (dès 3 200 euros), devant **Comptoir des Voyages** (expertise lointain), **Voyageurs du Monde** (haut de gamme), **Tahiti Travel Services** (agence locale), **Easyvoyage / TUI** (packages clé en main) et **Nouvelles Frontières** (circuits groupés). Voici notre comparatif complet.
@@ -138,4 +140,4 @@ Pour un voyage en Polynésie française, **Marco Vasco** est notre recommandatio
 
 Pour les budgets premium, **Voyageurs du Monde** offre une expérience luxe irréprochable. Et pour ceux qui préfèrent un interlocuteur local, **Tahiti Travel Services** apporte une connaissance du terrain inégalée.
 
-Quelle que soit l'agence choisie, la Polynésie est une destination qui mérite d'être préparée avec soin — chaque île visitée, chaque coucher de soleil sur le lagon, chaque plongée avec les raies manta sera un souvenir gravé à vie.
+La Polynésie se prépare — les meilleurs hébergements se réservent 6 à 12 mois avant le départ.

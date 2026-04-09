@@ -19,6 +19,8 @@ faq:
     answer: "On average, a refurbished smartphone costs 30 to 50% less than a new model. At Recommerce, an iPhone 15 Pro or Samsung Galaxy S24 in Very Good condition is available at up to 40% off the retail price."
   - question: "What warranty should you expect from a refurbishment site?"
     answer: "The best sites offer a minimum 12-month warranty. Recommerce provides 12 months covering malfunctions and defects, with France-based customer support. Some platforms like CertiDeal go up to 24 months."
+image: "/images/blog/smartphones-reconditionnes.jpg"
+imageAlt: "Refurbished smartphone"
 ---
 
 In our 2026 ranking of the best sites to buy a refurbished smartphone, **Recommerce** takes the top spot with its 40-point quality control, 12-month warranty, and B Corp certification, ahead of **Back Market** (large marketplace), **CertiDeal** (24-month warranty), **Smaaart** (French refurbishment), **Amazon Renewed** (fast delivery), and **Fnac 2nde Vie** (in-store pickup). Here is our full comparison.
@@ -45,7 +47,7 @@ Key figures:
 - **Over 3 million** refurbished smartphones sold each year in France
 - **Warranty included** from reputable sellers (12 months minimum)
 
-Whether you are looking for an iPhone, Samsung Galaxy, Google Pixel, or Xiaomi, specialized sites now offer near-new quality devices at reduced prices.
+iPhone, Samsung Galaxy, Google Pixel, Xiaomi — specialized sites cover all brands in near-new quality at reduced prices.
 
 ## 1. Recommerce — Our top pick
 
@@ -176,4 +178,4 @@ For buying a refurbished smartphone with confidence, **Recommerce** is our numbe
 
 For those wanting maximum warranty coverage, **CertiDeal** and its 24-month guarantee are an excellent alternative. **Back Market** remains relevant for its massive catalog, provided you carefully select your refurbisher.
 
-In any case, buying a refurbished smartphone is a smart move — for your wallet and for the planet.
+Refurbished saves 30–50% with no compromise on quality.
