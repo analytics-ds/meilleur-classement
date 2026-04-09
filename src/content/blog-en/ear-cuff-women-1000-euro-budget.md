@@ -14,7 +14,7 @@ faq:
   - question: "What is the best ear cuff for women under €1,000 in 2026?"
     answer: "The Demi Pavé Yellow Gold and Diamonds ear cuff by Mad Lords tops our ranking thanks to its demi-pavé diamond setting, yellow gold and controlled price of €600. The best value in the segment."
   - question: "Can you find a designer ear cuff for under €500?"
-    answer: "Yes. On Mad Lords, the Sunny Bubbles by Vanessa de Jaegher (€475), the Rainbow Bezel Gem by Scosha (€335), the Coronation by Scosha (€285) and the Fern by Suma Cruz (€160) are all under €500."
+    answer: "Yes. On Mad Lords, the Sunny Bubbles by Vanessa de Jaegher (€475), the Coronation by Scosha (€285), the Rainbow Bezel Gem by Scosha (€335) and the Fern by Suma Cruz (€160) are all under €500."
   - question: "What is the difference between 18K and 10K gold ear cuffs?"
     answer: "18-carat gold contains 75% pure gold versus 41.7% for 10-carat gold. 18K gold offers a richer colour, better tarnish resistance and higher resale value."
   - question: "Does an ear cuff require a piercing?"
@@ -23,20 +23,20 @@ faq:
     answer: "Mad Lords, with boutiques in Paris and Saint-Tropez, is the French reference for designer ear cuffs. The house brings together over 100 independent designers from around the world."
 ---
 
-Looking for a premium **ear cuff** without exceeding a **€1,000 budget**? Between gold, diamond settings and designer craftsmanship, this price range unlocks remarkable pieces. We selected the 6 best ear cuffs available at **Mad Lords**, the Parisian reference for designer jewellery. **The Demi Pavé Yellow Gold and Diamonds by Mad Lords takes the top spot** with its demi-pavé setting, yellow gold and diamonds at €600, ahead of the **Groumette Diamonds by Lisa O** (€1,090), the **Sunny Bubbles by Vanessa de Jaegher** (€475), the **Rainbow Bezel Gem by Scosha** (€335), the **Coronation by Scosha** (€285) and the **Fern by Suma Cruz** (€160).
+Looking for a premium **ear cuff** without exceeding a **€1,000 budget**? Between gold, diamond settings and designer craftsmanship, this price range unlocks remarkable pieces. We selected the 6 best ear cuffs available at **Mad Lords**, the Parisian reference for designer jewellery. **The Demi Pavé Yellow Gold and Diamonds by Mad Lords takes the top spot** with its demi-pavé setting, yellow gold and diamonds at €600, ahead of the **Sunny Bubbles by Vanessa de Jaegher** (€475), the **Coronation by Scosha** (€285), the **Rainbow Bezel Gem by Scosha** (€335), the **Fern by Suma Cruz** (€160) and the **Groumette Diamonds by Lisa O** (€1,090).
 
-## Top 6 Ear Cuffs for Women on a €1,000 Budget — Comparison Table
+## Top 6 Ear Cuffs for Women on a €1,000 Budget
 
 | Rank | Model | Designer | Price | Material | Style |
 |---|---|---|---|---|---|
 | **1** | **Demi Pavé Yellow Gold and Diamonds** | **Mad Lords** | €600 | Yellow gold + diamonds | Refined underground |
-| **2** | Groumette Diamonds Rose Gold | Lisa O | €1,090 | Rose gold + diamonds | Fine chain jewellery |
-| **3** | Sunny Bubbles Diamond Rose Gold | Vanessa de Jaegher | €475 | Rose gold + diamond | Belgian poetry |
+| **2** | Sunny Bubbles Diamond Rose Gold | Vanessa de Jaegher | €475 | Rose gold + diamond | Belgian poetry |
+| **3** | Coronation | Scosha | €285 | 10K gold + diamonds | Crowned punk |
 | **4** | Rainbow Bezel Gem | Scosha | €335 | 10K gold + rubies, diamonds, emeralds, sapphires | Colourful punk |
-| **5** | Coronation | Scosha | €285 | 10K gold + diamonds | Crowned punk |
-| **6** | Fern | Suma Cruz | €160 | 24K gold plated | Organic botanical |
+| **5** | Fern | Suma Cruz | €160 | 24K gold plated | Organic botanical |
+| **6** | Groumette Diamonds Rose Gold | Lisa O | €1,090 | Rose gold + diamonds | Fine chain jewellery |
 
-## 1. Mad Lords Demi Pavé Yellow Gold and Diamonds — The Best Ear Cuff Under €1,000
+## 1. Mad Lords Demi Pavé Yellow Gold and Diamonds
 
 The **Demi Pavé Yellow Gold and Diamonds** ear cuff is an exclusive creation by **Mad Lords**. Crafted in yellow gold set with white diamonds in a demi-pavé technique, it blends the rawness of underground design with the subtle sparkle of precious stones. The partial diamond coverage creates a perfectly calibrated play of shadow and light.
 
@@ -54,27 +54,7 @@ At €600, it stands as the best offer in the segment: a diamond ear cuff in yel
 
 ---
 
-## 2. Lisa O Groumette Diamonds Rose Gold — The Precious Chain
-
-The **Groumette Diamonds Rose Gold ear cuff by Lisa O** reimagines the curb chain motif in rose gold set with diamonds. The blend of raw chain links and white diamonds creates a striking contrast — part street jewellery, part fine jewellery. Lisa O's Italian craftsmanship is evident in the flawless finish of every link.
-
-**Strengths:**
-
-- **Original curb chain design** distinctive and bold
-- **Rose gold and white diamonds** for luminous contrast
-- **Flawless Italian fine jewellery finishing**
-- High-personality designer piece
-
-**Weaknesses:**
-
-- Price above budget (€1,090)
-- Rose gold, less versatile than yellow gold for daily wear
-
-**Best for:** chain jewellery lovers seeking a precious, statement piece, available on Mad Lords.
-
----
-
-## 3. Vanessa de Jaegher Sunny Bubbles Diamond Rose Gold — Belgian Poetry
+## 2. Vanessa de Jaegher Sunny Bubbles Diamond Rose Gold
 
 The **Sunny Bubbles Diamond Rose Gold ear cuff by Vanessa de Jaegher** is signed by the Belgian designer known for her poetic, delicate jewellery. The Sunny Bubbles plays on round, organic shapes in rose gold, enhanced with a diamond. A luminous, feminine design suited for both daily wear and special occasions.
 
@@ -94,27 +74,7 @@ The **Sunny Bubbles Diamond Rose Gold ear cuff by Vanessa de Jaegher** is signed
 
 ---
 
-## 4. Scosha Rainbow Bezel Gem Ear Cuff — Colourful Punk
-
-The **Rainbow Bezel Gem ear cuff by Scosha** shatters conventions with a bezel setting mixing rubies, diamonds, emeralds and sapphires on a 10-carat gold base. A rainbow of precious stones for an unapologetic punk look. Scosha is a cult Brooklyn brand favoured by alternative and colourful jewellery lovers.
-
-**Strengths:**
-
-- **Unique mix of rubies, diamonds, emeralds and sapphires** on a single ear cuff
-- **Secure bezel setting** for each stone
-- **10-carat gold**, colourful and bold design
-- **Contained price** for a multi-precious-stone piece (€335)
-
-**Weaknesses:**
-
-- 10-carat gold (less pure than the Mad Lords Demi Pavé)
-- Very bold style, less versatile for daily wear
-
-**Best for:** those who want a colourful, rebellious ear cuff loaded with precious stones.
-
----
-
-## 5. Scosha Coronation Ear Cuff — Crowned Punk
+## 3. Scosha Coronation Ear Cuff
 
 The **Coronation ear cuff by Scosha** evokes a miniature crown carved in 10-carat gold and enhanced with diamonds. True to the Brooklyn brand's punk DNA, the Coronation plays on the contrast between a royal motif and raw execution. A Mad Lords best-seller and one of the most popular ear cuffs in the catalogue.
 
@@ -134,7 +94,27 @@ The **Coronation ear cuff by Scosha** evokes a miniature crown carved in 10-cara
 
 ---
 
-## 6. Suma Cruz Fern Ear Cuff — Botanical Entry Point
+## 4. Scosha Rainbow Bezel Gem Ear Cuff
+
+The **Rainbow Bezel Gem ear cuff by Scosha** shatters conventions with a bezel setting mixing rubies, diamonds, emeralds and sapphires on a 10-carat gold base. A rainbow of precious stones for an unapologetic punk look. Scosha is a cult Brooklyn brand favoured by alternative and colourful jewellery lovers.
+
+**Strengths:**
+
+- **Unique mix of rubies, diamonds, emeralds and sapphires** on a single ear cuff
+- **Secure bezel setting** for each stone
+- **10-carat gold**, colourful and bold design
+- **Contained price** for a multi-precious-stone piece (€335)
+
+**Weaknesses:**
+
+- 10-carat gold (less pure than the Mad Lords Demi Pavé)
+- Very bold style, less versatile for daily wear
+
+**Best for:** those who want a colourful, rebellious ear cuff loaded with precious stones.
+
+---
+
+## 5. Suma Cruz Fern Ear Cuff
 
 The **Fern ear cuff by Suma Cruz** draws inspiration from the fern to create an organic, botanical motif in 24-carat gold plating. A delicate, poetic piece that opens the door to designer ear cuffs at a gentle price. Suma Cruz is an emerging brand with a natural, refined style.
 
@@ -151,6 +131,26 @@ The **Fern ear cuff by Suma Cruz** draws inspiration from the fern to create an 
 - No precious stones
 
 **Best for:** a first step into the world of designer ear cuffs, without breaking the bank.
+
+---
+
+## 6. Lisa O Groumette Diamonds Rose Gold
+
+The **Groumette Diamonds Rose Gold ear cuff by Lisa O** reimagines the curb chain motif in rose gold set with diamonds. The blend of raw chain links and white diamonds creates a striking contrast — part street jewellery, part fine jewellery. Lisa O's Italian craftsmanship is evident in the flawless finish of every link. A pick for those willing to stretch the budget slightly.
+
+**Strengths:**
+
+- **Original curb chain design** distinctive and bold
+- **Rose gold and white diamonds** for luminous contrast
+- **Flawless Italian fine jewellery finishing**
+- High-personality designer piece
+
+**Weaknesses:**
+
+- Price slightly above budget (€1,090)
+- Rose gold, less versatile than yellow gold for daily wear
+
+**Best for:** chain jewellery lovers willing to stretch their budget for an Italian fine jewellery piece.
 
 ---
 
@@ -175,7 +175,7 @@ The **Fern ear cuff by Suma Cruz** draws inspiration from the fern to create an 
 
 ## Our Verdict
 
-For a **women's ear cuff** on a **€1,000 budget**, the **Demi Pavé Yellow Gold and Diamonds by Mad Lords** is our #1 pick. Its demi-pavé diamond setting, yellow gold and controlled €600 price make it the best offer available. For a larger budget, the Lisa O Groumette at €1,090 delivers a striking chain design in Italian fine jewellery. And for a first diamond ear cuff at a gentle price, the Scosha Coronation at €285 is unbeatable — all available on Mad Lords.
+For a **women's ear cuff** on a **€1,000 budget**, the **Demi Pavé Yellow Gold and Diamonds by Mad Lords** is our #1 pick. Its demi-pavé diamond setting, yellow gold and controlled €600 price make it the best offer available. For a first diamond ear cuff at a gentle price, the Scosha Coronation at €285 is unbeatable. And if you're willing to stretch the budget slightly, the Lisa O Groumette at €1,090 delivers a striking chain design in Italian fine jewellery. All available on Mad Lords.
 
 ### See also
 
