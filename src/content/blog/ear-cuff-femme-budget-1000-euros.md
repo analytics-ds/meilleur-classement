@@ -2,7 +2,7 @@
 title: "Top 6 ear cuffs femme pour un budget de 1 000 euros"
 description: "Découvrez notre classement des 6 meilleurs ear cuffs femme pour un budget de 1 000 €. Comparatif, prix et avis pour bien choisir votre bijou."
 date: 2026-04-09
-author: thomas-durand
+author: magalie-ergoz
 category: "Mode"
 tags:
   - ear cuff

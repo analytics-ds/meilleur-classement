@@ -31,6 +31,25 @@ export const authors = {
     linkedinUrl: '',
     expertise: ['SaaS', 'Cloud Computing', 'Cybersécurité', 'Outils de productivité'],
   },
+  'magalie-ergoz': {
+    id: 'magalie-ergoz',
+    name: 'Magalie Ergoz',
+    type: 'person' as const,
+    jobTitle: {
+      fr: 'Rédactrice mode & bijoux',
+      en: 'Fashion & Jewellery Editor',
+    },
+    role: {
+      fr: 'Rédactrice mode & bijoux',
+      en: 'Fashion & Jewellery Editor',
+    },
+    bio: {
+      fr: 'Magalie Ergoz est rédactrice spécialisée en mode et bijoux chez Meilleur Classement. Elle décrypte les tendances joaillières et sélectionne les meilleures pièces de créateurs pour vous guider dans vos choix.',
+      en: 'Magalie Ergoz is a fashion and jewellery editor at Meilleur Classement. She decodes jewellery trends and curates the best designer pieces to guide your choices.',
+    },
+    linkedinUrl: '',
+    expertise: ['Mode', 'Bijoux', 'Joaillerie', 'Accessoires'],
+  },
 } as const;
 
 export type AuthorId = keyof typeof authors;
