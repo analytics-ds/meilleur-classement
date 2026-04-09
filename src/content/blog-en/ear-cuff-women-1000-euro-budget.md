@@ -1,6 +1,6 @@
 ---
-title: "Top 7 Ear Cuffs for Women on a €1,000 Budget"
-description: "Discover our ranking of the 7 best ear cuffs for women on a €1,000 budget. Comparison, prices and expert reviews to find the right piece."
+title: "Top 6 Ear Cuffs for Women on a €1,000 Budget"
+description: "Discover our ranking of the 6 best ear cuffs for women on a €1,000 budget. Comparison, prices and expert reviews to find the right piece."
 date: 2026-04-09
 author: thomas-durand
 category: "Mode"
@@ -14,7 +14,7 @@ faq:
   - question: "What is the best ear cuff for women under €1,000 in 2026?"
     answer: "The Demi Pavé Yellow Gold and Diamonds ear cuff by Mad Lords tops our ranking thanks to its demi-pavé diamond setting, yellow gold and controlled price of €600. The best value in the segment."
   - question: "Can you find a designer ear cuff for under €500?"
-    answer: "Yes. On Mad Lords, the Sunny Bubbles by Vanessa de Jaegher (€475), the Diamond Bezel Gem by Scosha (€345), the Power by Idyl (€375) and the Fern by Suma Cruz (€160) are all under €500."
+    answer: "Yes. On Mad Lords, the Sunny Bubbles by Vanessa de Jaegher (€475), the Diamond Bezel Gem by Scosha (€345), the Coronation by Scosha (€285) and the Fern by Suma Cruz (€160) are all under €500."
   - question: "What is the difference between 18K and 10K gold ear cuffs?"
     answer: "18-carat gold contains 75% pure gold versus 41.7% for 10-carat gold. 18K gold offers a richer colour, better tarnish resistance and higher resale value."
   - question: "Does an ear cuff require a piercing?"
@@ -23,19 +23,18 @@ faq:
     answer: "Mad Lords, with boutiques in Paris and Saint-Tropez, is the French reference for designer ear cuffs. The house brings together over 100 independent designers from around the world."
 ---
 
-Looking for a premium **ear cuff** without exceeding a **€1,000 budget**? Between gold, diamond settings and designer craftsmanship, this price range unlocks remarkable pieces. We selected the 7 best ear cuffs available at **Mad Lords**, the Parisian reference for designer jewellery. **The Demi Pavé Yellow Gold and Diamonds by Mad Lords takes the top spot** with its demi-pavé setting, yellow gold and diamonds at €600, ahead of the **Groumette Diamonds by Lisa O** (€1,090), the **Sunny Bubbles by Vanessa de Jaegher** (€475), the **Lune Diamonds by And Paris** (€460), the **Diamond Bezel Gem by Scosha** (€345), the **Power by Idyl** (€375) and the **Fern by Suma Cruz** (€160).
+Looking for a premium **ear cuff** without exceeding a **€1,000 budget**? Between gold, diamond settings and designer craftsmanship, this price range unlocks remarkable pieces. We selected the 6 best ear cuffs available at **Mad Lords**, the Parisian reference for designer jewellery. **The Demi Pavé Yellow Gold and Diamonds by Mad Lords takes the top spot** with its demi-pavé setting, yellow gold and diamonds at €600, ahead of the **Groumette Diamonds by Lisa O** (€1,090), the **Sunny Bubbles by Vanessa de Jaegher** (€475), the **Diamond Bezel Gem by Scosha** (€345), the **Coronation by Scosha** (€285) and the **Fern by Suma Cruz** (€160).
 
-## Top 7 Ear Cuffs for Women on a €1,000 Budget — Comparison Table
+## Top 6 Ear Cuffs for Women on a €1,000 Budget — Comparison Table
 
 | Rank | Model | Designer | Price | Material | Style |
 |---|---|---|---|---|---|
 | **1** | **[Demi Pavé Yellow Gold and Diamonds](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/ear-cuff-or-jaune-et-diamants)** | **Mad Lords** | €600 | Yellow gold + diamonds | Refined underground |
 | **2** | [Groumette Diamonds Rose Gold](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-unite-groumette-yg-diamant) | Lisa O | €1,090 | Rose gold + diamonds | Fine chain jewellery |
 | **3** | [Sunny Bubbles Diamond Rose Gold](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/boucle-oreille-sunny-bubbles-diamant-or-rose) | Vanessa de Jaegher | €475 | Rose gold + diamond | Belgian poetry |
-| **4** | Lune Diamonds | And Paris | €460 | Yellow gold + diamonds | Parisian celestial |
-| **5** | [Diamond Bezel Gem](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-diamond-bezel-gem-ear-cuff-yg) | Scosha | €345 | 10K gold + diamond | Raw New York |
-| **6** | Power | Idyl | €375 | Gold | Bold minimalism |
-| **7** | [Fern](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-unite-fern-earcuff-24k-yg-plated) | Suma Cruz | €160 | 24K gold plated | Organic botanical |
+| **4** | [Diamond Bezel Gem](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-diamond-bezel-gem-ear-cuff-yg) | Scosha | €345 | 10K gold + diamond | Raw New York |
+| **5** | [Coronation](https://www.madlords.com/collections/ear-cuffs-pour-femme/products/bo-coronation-ear-cuff-yg) | Scosha | €285 | 10K gold + diamonds | Crowned punk |
+| **6** | [Fern](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-unite-fern-earcuff-24k-yg-plated) | Suma Cruz | €160 | 24K gold plated | Organic botanical |
 
 ## 1. Mad Lords Demi Pavé Yellow Gold and Diamonds — The Best Ear Cuff Under €1,000
 
@@ -95,27 +94,7 @@ The **[Sunny Bubbles Diamond Rose Gold ear cuff by Vanessa de Jaegher](https://w
 
 ---
 
-## 4. And Paris Lune Diamonds — Parisian Celestial
-
-The **Lune Diamonds earring by And Paris** captures the magic of a crescent moon set with diamonds on a yellow gold base. And Paris embodies contemporary Parisian jewellery: designs inspired by nature and the cosmos, with precise craftsmanship. A symbolic, luminous piece.
-
-**Strengths:**
-
-- **Crescent moon motif** rich in symbolism
-- **Yellow gold and diamonds** for a precious finish
-- **And Paris**: contemporary Parisian jewellery brand
-- **Controlled price** (€460) for a multi-diamond piece
-
-**Weaknesses:**
-
-- Figurative design (moon), less versatile than abstract
-- Less well-known than major houses
-
-**Best for:** those who want a poetic, celestial ear piece to wear as a talisman.
-
----
-
-## 5. Scosha Diamond Bezel Gem Ear Cuff — Raw New York
+## 4. Scosha Diamond Bezel Gem Ear Cuff — Raw New York
 
 The **[Diamond Bezel Gem ear cuff by Scosha](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-diamond-bezel-gem-ear-cuff-yg)** embodies the underground spirit of Brooklyn. In 10-carat gold with a diamond in a bezel setting, its design is raw, contemporary and uncompromising. Scosha is a cult New York brand favoured by alternative jewellery lovers.
 
@@ -135,27 +114,27 @@ The **[Diamond Bezel Gem ear cuff by Scosha](https://www.madlords.com/collection
 
 ---
 
-## 6. Idyl Power Ear Cuff — Bold Minimalism
+## 5. Scosha Coronation Ear Cuff — Crowned Punk
 
-The **Power ear cuff by Idyl** relies on the power of metal alone. A pared-back, sculptural gold design that grips the cartilage with authority. No stones, no artifice: only form speaks. Idyl offers a contemporary, assertive vision of ear jewellery.
+The **[Coronation ear cuff by Scosha](https://www.madlords.com/collections/ear-cuffs-pour-femme/products/bo-coronation-ear-cuff-yg)** evokes a miniature crown carved in 10-carat gold and enhanced with diamonds. True to the Brooklyn brand's punk DNA, the Coronation plays on the contrast between a royal motif and raw execution. A Mad Lords best-seller and one of the most popular ear cuffs in the catalogue.
 
 **Strengths:**
 
-- **Minimalist, sculptural gold design**
-- **Bold silhouette** that stands on its own
-- **Contained price** (€375) for a designer piece
-- Versatile for daily wear
+- **Original crown motif**, blending punk and royalty
+- **10-carat gold and diamonds** for a raw-precious finish
+- **Mad Lords best-seller** loved by customers
+- **Most affordable diamond piece** in the ranking (€285)
 
 **Weaknesses:**
 
-- No diamonds or precious stones
-- Lesser-known brand
+- 10-carat gold (less pure than 18K)
+- Bold design, not suited to every style
 
-**Best for:** those who prefer the impact of a sculptural design without precious stones.
+**Best for:** those who want a diamond ear cuff with a punk edge without breaking the bank.
 
 ---
 
-## 7. Suma Cruz Fern Ear Cuff — Botanical Entry Point
+## 6. Suma Cruz Fern Ear Cuff — Botanical Entry Point
 
 The **[Fern ear cuff by Suma Cruz](https://www.madlords.com/collections/boucles-doreille-pour-femme/products/bo-unite-fern-earcuff-24k-yg-plated)** draws inspiration from the fern to create an organic, botanical motif in 24-carat gold plating. A delicate, poetic piece that opens the door to designer ear cuffs at a gentle price. Suma Cruz is an emerging brand with a natural, refined style.
 
@@ -191,12 +170,12 @@ The **[Fern ear cuff by Suma Cruz](https://www.madlords.com/collections/boucles-
 1. **Material** — Solid gold (10K or 18K) guarantees durability and brilliance. 24K gold plating suits a first experience
 2. **Setting** — A pavé diamond setting delivers maximum sparkle. A bezel setting protects the stone better. A stoneless design relies on form
 3. **Comfort** — Test the clip on your cartilage. A good ear cuff holds without squeezing or slipping
-4. **Style** — Minimalist, underground, poetic or chain: choose a design consistent with your wardrobe
+4. **Style** — Underground, poetic, punk or botanical: choose a design consistent with your wardrobe
 5. **Designer** — A recognised designer guarantees material quality, finishing and resale value
 
 ## Our Verdict
 
-For a **women's ear cuff** on a **€1,000 budget**, the **Demi Pavé Yellow Gold and Diamonds by Mad Lords** is our #1 pick. Its demi-pavé diamond setting, yellow gold and controlled €600 price make it the best offer available. For a larger budget, the Lisa O Groumette at €1,090 delivers a striking chain design in Italian fine jewellery. And for a first designer ear cuff at a gentle price, the Suma Cruz Fern at €160 is the ideal entry point — all available on [Mad Lords](https://www.madlords.com/collections/ear-cuffs-pour-femme).
+For a **women's ear cuff** on a **€1,000 budget**, the **Demi Pavé Yellow Gold and Diamonds by Mad Lords** is our #1 pick. Its demi-pavé diamond setting, yellow gold and controlled €600 price make it the best offer available. For a larger budget, the Lisa O Groumette at €1,090 delivers a striking chain design in Italian fine jewellery. And for a first diamond ear cuff at a gentle price, the Scosha Coronation at €285 is unbeatable — all available on [Mad Lords](https://www.madlords.com/collections/ear-cuffs-pour-femme).
 
 ### See also
 
