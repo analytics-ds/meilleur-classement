@@ -4,7 +4,7 @@ import type { Lang } from '@/config/site';
 const base = (import.meta.env.BASE_URL ?? '/').replace(/\/$/, '');
 
 export function withBase(path: string): string {
-  if (!base || path.startsWith(base + '/') || path === base) return path;
+  if (!base || path.startsWith('http://') || path.startsWith('https://') || path.startsWith(base + '/') || path === base) return path;
   return `${base}${path}`;
 }
 
