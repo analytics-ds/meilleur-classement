@@ -56,9 +56,14 @@
 - Section dédiée "Pour aller plus loin" / "Further reading" en fin d'article
 
 ### Images
-- Optionnelles (le site peut fonctionner sans images)
-- Si présentes : `image` et `imageAlt` dans le frontmatter
-- Alt text descriptif et contenant le mot-clé si pertinent
+- **OBLIGATOIRES sur tous les articles** (règle non négociable)
+- Champs `image` et `imageAlt` dans le frontmatter, renseignés systématiquement
+- L'image est utilisée :
+  1. **Sur la card** de l'article dans les listings (page d'accueil, `/blog/`, pages catégorie, équivalents `/en/...`)
+  2. **En haut de la page** de l'article (image hero/cover affichée par le layout avant le contenu)
+- Source : de préférence locale dans `public/images/blog/`, sinon URL libre de droit (Pexels, Unsplash)
+- Alt text descriptif et contenant le mot-clé principal si pertinent
+- Format recommandé : ratio ~16:9 ou 3:2, largeur minimale 1200px pour rester net sur les cards et en cover
 
 ## FAQ
 
@@ -139,6 +144,7 @@ const slugMap: Record<string, string> = {
 - [ ] Author correct (organization ou person)
 - [ ] Category définie
 - [ ] Tags pertinents (3-6)
+- [ ] Image obligatoire : `image` + `imageAlt` renseignés (cover + card)
 - [ ] FAQ présente (3-5 questions)
 - [ ] Liens internes (2+ vers d'autres articles)
 - [ ] Version EN créée simultanément
