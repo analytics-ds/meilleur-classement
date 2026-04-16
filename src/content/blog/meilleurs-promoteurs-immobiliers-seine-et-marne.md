@@ -1,6 +1,6 @@
 ---
-title: "Meilleurs promoteurs immobiliers en Seine-et-Marne (77) en 2025"
-description: "Comparatif des 9 meilleurs promoteurs immobiliers en Seine-et-Marne. Prix, avis clients, programmes actifs et conseils pour bien choisir votre promoteur dans le 77."
+title: "Meilleurs promoteurs immobiliers Seine-et-Marne"
+description: "Comparatif des 9 meilleurs promoteurs immobiliers en Seine-et-Marne (77). Prix, avis clients, programmes actifs et conseils pratiques."
 date: 2026-04-16
 author: marc-chevalier
 category: "Immobilier"
