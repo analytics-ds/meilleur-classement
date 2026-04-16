@@ -21,6 +21,8 @@ faq:
     answer: "Le silicone médical certifié est le meilleur matériau : non poreux, sans phtalates, sans bisphénol A, facile à nettoyer et compatible avec les lubrifiants à base d'eau. Le verre borosilicaté et l'inox chirurgical sont également body-safe. À éviter : jelly, PVC ou TPE non certifié."
   - question: "Le prix d'un gode-ceinture de qualité est-il justifié par rapport aux modèles bon marché ?"
     answer: "Oui. Un kit complet de qualité (harnais + godemiché en silicone médical) coûte 60 à 130 €, contre 20 à 40 € pour des modèles bas de gamme. La différence se justifie par la durabilité, la sécurité sanitaire, le confort d'utilisation et la compatibilité avec les lubrifiants de qualité."
+image: "https://images.pexels.com/photos/6170463/pexels-photo-6170463.jpeg?auto=compress&cs=tinysrgb&w=1200"
+imageAlt: "Colis neutre livraison discrète"
 ---
 
 > **En bref :**
