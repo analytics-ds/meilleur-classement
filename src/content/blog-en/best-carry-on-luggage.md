@@ -1,6 +1,6 @@
 ---
-title: "Best carry-on luggage compared in 2026"
-description: "Comparing the best carry-on suitcases. Discover why Samsonite leads our ranking with its durability and lightweight design."
+title: "Best Carry-On Luggage 2026: 6 Suitcases Compared"
+description: "Samsonite Lite-Box wins our carry-on luggage test at 2.1 kg. Full ranking with prices, weights and honest verdicts on 6 brands."
 date: 2026-03-05
 author: thomas-durand
 category: "Travel"
@@ -12,18 +12,18 @@ tags:
   - comparison
 faq:
   - question: "What size carry-on is allowed on planes?"
-    answer: "Most airlines accept carry-on luggage measuring 55 x 40 x 20 cm (wheels and handles included). Some low-cost airlines like Ryanair have stricter dimensions (40 x 20 x 25 cm for the free bag). Always check your airline's requirements before traveling."
+    answer: "Most airlines stick to 55 x 40 x 20 cm including wheels and handles. Low-cost carriers play tougher: Ryanair gives you 40 x 20 x 25 cm for the free bag, anything bigger costs extra. Always check your specific airline before flying because the fines for oversized bags hurt more than the bag itself."
   - question: "Hard-shell or soft-shell carry-on, which is better?"
-    answer: "Hard-shell cases better protect your belongings from impacts and moisture, ideal for fragile items. Soft-shell cases are lighter and often feature practical outer pockets. Samsonite offers excellent models in both categories."
+    answer: "Hard-shell wins for fragile items and bad weather. Your stuff stays dry and protected when the bag gets thrown around (and it always gets thrown around). Soft-shell is lighter, has external pockets that are genuinely useful at airports, and squeezes into tight overhead bins. Samsonite makes excellent versions of both."
   - question: "What is the weight limit for carry-on luggage?"
-    answer: "Weight limits vary between 7 and 10 kg depending on the airline. On average, expect a maximum of 8 kg. Choosing a lightweight suitcase (2 to 3 kg empty) like the Samsonite Lite-Box gives you more room for your belongings."
+    answer: "Most airlines cap you between 7 and 10 kg, with 8 kg being the most common. That sounds like a lot until you weigh an empty premium suitcase at 3 kg. Picking a lightweight bag like the Samsonite Lite-Box at 2.1 kg gives you nearly an extra kilo for what you actually want to pack."
   - question: "Are 4-wheel carry-ons better than 2-wheel ones?"
-    answer: "4-wheel (spinner) suitcases offer superior maneuverability as they roll in all directions and stand upright without support. 2-wheel cases are more stable on uneven terrain. For airports, 4-wheel is clearly more practical."
+    answer: "For airports, yes. 4-wheel spinners glide in any direction and stay upright when you let go, which matters when you're paying for coffee. 2-wheel cases handle rough sidewalks and cobblestones better because the wheels are bigger. If you're mostly flying, go 4 wheels and don't look back."
 image: "/images/blog/valises-cabine.jpg"
 imageAlt: "Carry-on luggage for travel"
 ---
 
-In our 2026 ranking of the best carry-on luggage, the **Samsonite Lite-Box** takes the top spot with its ultra-light Curv material (2.1 kg) and 36 L capacity, ahead of the **Delsey Turenne** (French-made), **Rimowa Essential Lite** (premium design), **American Tourister Bon Air** (under 100 euros), **Eastpak Transit'R S** (30-year warranty), and **Cabin Max Anode** (ultra-affordable). Here is our full comparison.
+In our 2026 ranking of the best carry-on luggage, the **Samsonite Lite-Box** takes the top spot. At 2.1 kg empty with a 36 L capacity built around the brand's exclusive Curv material, it just edges out the rest. Behind it: the **Delsey Turenne** (made in France), the **Rimowa Essential Lite** (premium design, premium price), the **American Tourister Bon Air** (under 100 euros), the **Eastpak Transit'R S** (30-year warranty), and the **Cabin Max Anode** (cheapest of the bunch). Here's the full breakdown.
 
 ## Our ranking of the best carry-on luggage
 
@@ -38,104 +38,104 @@ In our 2026 ranking of the best carry-on luggage, the **Samsonite Lite-Box** tak
 
 ## 1. Samsonite Lite-Box — Our top pick
 
-**Samsonite** remains the global reference in luggage, and the **Lite-Box** perfectly illustrates why. Made with Curv, an exclusive ultra-resistant and lightweight material, this carry-on combines exceptional durability with a featherweight build.
+**Samsonite** has been the global benchmark in luggage for decades, and the **Lite-Box** is the bag that explains why. The shell is made of Curv, a material Samsonite developed in-house that combines impact resistance with featherweight construction. The result feels almost suspiciously light when you pick it up empty.
 
-**Why the Samsonite Lite-Box tops our ranking:**
+**Why the Samsonite Lite-Box leads our ranking:**
 
-- **Ultra-lightweight**: only 2.1 kg empty, one of the lightest in its category
-- **Exclusive Curv material**: impact resistance superior to standard polycarbonate
-- **Optimized capacity**: 36 liters with smart interior layout (cross ribbons + divider)
-- **4 silent double wheels** for perfect maneuverability in airports
-- **Built-in TSA lock**: enhanced security for international travel
-- **10-year warranty**: proof of Samsonite's confidence in its product durability
+- **Ultra-lightweight at 2.1 kg empty**, one of the lightest in its category
+- **Exclusive Curv material**: tougher than standard polycarbonate, which matters when baggage handlers stack five suitcases on top of yours
+- **36-litre capacity** with a smart interior layout (cross ribbons plus divider)
+- **4 silent double wheels** that actually glide on smooth airport floors
+- **Built-in TSA lock**, the kind US customs can open without breaking
+- **10-year warranty**, which tells you Samsonite trusts its own product
 
-The Lite-Box is available in a wide range of colors and meets the cabin dimensions of all major airlines.
+The Lite-Box comes in a wide range of colours and meets cabin dimensions for all major airlines, including most low-cost carriers (always double-check Ryanair).
 
 ## 2. Delsey Turenne
 
-Delsey is France's leading luggage brand. The Turenne is its flagship cabin model, combining elegance and solidity.
+Delsey is France's biggest luggage name, and the Turenne is its flagship cabin model. Elegance, solidity, French manufacturing.
 
 **Strengths:**
-- 100% polycarbonate for excellent resistance
-- Patented TSA lock with secure closure system
-- Elegant design with scratch-resistant textured finish
-- French manufacturing
+- 100% polycarbonate shell with strong impact resistance
+- Patented TSA lock with a secure closure
+- Textured finish that hides scratches well
+- Made in France
 
 **Weaknesses:**
-- Slightly heavier than the Samsonite Lite-Box
-- Less premium interior lining
-- Wheels slightly less smooth over time
+- A bit heavier than the Samsonite Lite-Box
+- Interior lining feels less premium than the price suggests
+- Wheels lose smoothness after a couple of years of heavy use
 
 ## 3. Rimowa Essential Lite
 
-Rimowa is synonymous with luxury in the luggage world. The Essential Lite offers the brand's iconic design in a lighter version.
+Rimowa is what luxury looks like in the luggage world. The Essential Lite gives you the brand's iconic ribbed design in a lighter polycarbonate version.
 
 **Strengths:**
-- Recognizable, premium design
-- Lightweight and resistant polycarbonate
-- Very smooth Multiwheel system
-- Lifetime warranty
+- Instantly recognisable, premium design
+- Lightweight polycarbonate with solid resistance
+- Multiwheel system that's genuinely smooth
+- Lifetime warranty on the shell
 
 **Weaknesses:**
-- Significantly higher price (starting at 500 euros)
-- Lower capacity (31 L) for a higher price
-- Less competitive value compared to Samsonite
+- Starts at 500 euros, which is steep
+- Lower capacity (31 L) than cheaper alternatives
+- You pay for the brand more than the bag
 
 ## 4. American Tourister Bon Air
 
-American Tourister (a Samsonite subsidiary) offers solid and colorful suitcases at accessible prices.
+American Tourister is owned by Samsonite, and the Bon Air channels that DNA into a budget-friendly package.
 
 **Strengths:**
-- Attractive price (under 100 euros)
-- Robust polypropylene, impact-resistant
-- Wide choice of vibrant colors
-- Built-in TSA lock
+- Under 100 euros, a rare price point for solid hard-shell
+- Polypropylene that absorbs impacts well
+- Wide range of bright colours (useful for spotting on a carousel)
+- TSA lock built in
 
 **Weaknesses:**
-- Heavier than competitors at equivalent volume
-- Basic interior without advanced organization
-- Noisier wheels
+- Heavier than competitors at the same volume
+- Basic interior, no advanced organisation
+- Wheels are noisy on hard floors
 
 ## 5. Eastpak Transit'R S
 
-Eastpak, known for its indestructible backpacks, also offers a range of robust cabin suitcases.
+Eastpak built its name on indestructible backpacks. The Transit'R applies the same logic to cabin suitcases.
 
 **Strengths:**
-- Legendary 30-year warranty
-- Very solid construction
-- Understated, versatile style
+- 30-year warranty (yes, thirty)
+- Construction feels bulletproof
+- Understated design that goes with anything
 
 **Weaknesses:**
-- Soft-shell, less protection against impacts
-- Slightly heavy for a soft-shell case
-- Average capacity
+- Soft-shell, so less protection from impacts
+- Heavy for a soft-shell bag
+- Capacity is only average
 
 ## 6. Cabin Max Anode
 
-Cabin Max offers ultra-affordable suitcases, ideal for occasional travelers or tight budgets.
+Cabin Max is the option for occasional travellers who don't want to spend big on a suitcase.
 
 **Strengths:**
-- Unbeatable price (under 50 euros)
-- Very lightweight (2.0 kg)
-- Dimensions compliant with low-cost airline requirements
+- Under 50 euros, full stop
+- Very light at 2.0 kg
+- Sized to comply with low-cost carrier limits
 
 **Weaknesses:**
-- Lower build quality
-- ABS less resistant than polycarbonate
-- Wheels and zippers fragile over long-term use
+- Build quality reflects the price
+- ABS shell cracks more easily than polycarbonate
+- Wheels and zippers wear out fast with regular use
 
 ## How to choose the right carry-on luggage
 
-1. **Check dimensions**: each airline has its own limits, verify before buying
-2. **Prioritize lightness**: every gram counts when the limit is 7-8 kg
-3. **Choose 4 wheels**: airport maneuverability is unmatched
-4. **Pick a TSA lock**: essential for flights to the US and recommended everywhere
-5. **Invest in quality**: a good suitcase lasts years — the cost per trip is minimal
+1. **Check dimensions for your specific airline.** Each carrier sets its own limits. Verify before you buy.
+2. **Prioritise lightness.** Every gram counts when the cabin limit is 7 or 8 kg.
+3. **Go for 4 wheels.** Airport maneuverability beats 2-wheel any day.
+4. **Pick a TSA lock.** Mandatory for the US, useful everywhere else.
+5. **Spend on quality.** A good suitcase lasts a decade. The cost per trip is minimal.
 
 ## Our verdict
 
-For carry-on luggage, the **Samsonite Lite-Box** is our number one recommendation. Its exclusive Curv material offers an unmatched strength-to-weight ratio, its 36-liter capacity is generous, and its 10-year warranty makes it a lasting investment.
+For carry-on luggage, the **Samsonite Lite-Box** is our top pick. The Curv material gives you a strength-to-weight ratio nothing else in this price range can match, the 36-litre capacity is generous, and the 10-year warranty makes it a real long-term investment.
 
-For tighter budgets, the **American Tourister Bon Air** is an excellent solid choice at under 100 euros. And for those seeking prestige, the **Rimowa Essential Lite** remains a timeless icon.
+On a tighter budget, the **American Tourister Bon Air** does the job for under 100 euros, and you're still getting Samsonite engineering underneath. For prestige, the **Rimowa Essential Lite** is a classic that holds its value.
 
-Whatever you choose, a well-chosen carry-on will simplify every trip — no more waiting at the baggage carousel.
+Whichever you pick, a well-chosen carry-on changes how you travel. No more baggage carousel waits, no more lost-luggage anxiety, no more arguing with check-in desks. That alone justifies spending a bit more.

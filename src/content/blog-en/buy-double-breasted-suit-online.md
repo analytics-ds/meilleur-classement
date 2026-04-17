@@ -1,6 +1,6 @@
 ---
 title: "Buy a double-breasted suit online — 2026 guide"
-description: "Where to buy a double-breasted men's suit online? Comparison of 5 top brands: IZAC, De Fursac, Suit Supply, The Kooples and Hugo Boss."
+description: "Where to buy a double-breasted men's suit online? Comparison of 5 brands: IZAC, De Fursac, Suit Supply, The Kooples and Hugo Boss."
 date: 2026-04-02
 author: magalie-ergoz
 category: "Fashion"
@@ -13,28 +13,28 @@ tags:
   - online shopping
 faq:
   - question: "Where can I buy a double-breasted men's suit online at the best price?"
-    answer: "IZAC offers the best prices for a double-breasted men's suit online, starting at 199 euros, with slim and regular fits, free delivery from 100 euros and in-store alterations available."
+    answer: "IZAC has the best prices for a double-breasted men's suit online, from 199 euros, with slim and regular fits, free delivery from 100 euros and in-store alterations on top."
   - question: "What budget should I plan for a double-breasted men's suit?"
-    answer: "Prices range from 199 euros at IZAC to 590 euros at De Fursac. For good value for money, expect to spend between 199 and 400 euros."
+    answer: "From 199 euros at IZAC up to 590 euros at De Fursac. For real value, the sweet spot sits between 199 and 400 euros."
   - question: "What is the difference between a double-breasted and a single-breasted suit?"
-    answer: "A double-breasted suit has two rows of buttons and overlapping front panels, giving it a more assertive and structured style than a classic single-breasted suit with one row of buttons."
+    answer: "A double-breasted suit has two rows of buttons and overlapping front panels. The result is a bolder, more structured silhouette than the standard single-breasted suit with one button row."
   - question: "How do I choose the right size for a double-breasted suit online?"
-    answer: "Take your measurements (chest, sleeve length, waist) and consult the brand's size guide. A double-breasted jacket must sit perfectly on the shoulders. Prefer brands with free returns such as IZAC."
+    answer: "Take three measurements: chest, sleeve length, waist. Then check the brand's size chart. The jacket has to sit perfectly on the shoulders, otherwise nothing else works. Pick brands with free returns like IZAC."
 image: "/images/blog/costume-croise.jpg"
 imageAlt: "Elegant double-breasted men's suit"
 ---
 
-The double-breasted suit is back in force in men's wardrobes. Worn open over a turtleneck or closed with a silk tie, it imposes a bold style that a classic single-breasted suit cannot match. But you still need to know **where to buy a double-breasted men's suit online** without getting the cut, fabric or price-quality ratio wrong.
+The double-breasted suit is back in men's wardrobes. Worn open over a turtleneck or buttoned up with a silk tie, it brings a confidence that a single-breasted suit just can't match. Question is: **where do you actually buy a double-breasted men's suit online** without messing up the cut, the fabric or the price?
 
-We compared 5 brands offering double-breasted men's suits online, with delivery to the UK and Europe. **IZAC comes out on top** thanks to its value for money, tailored fits and immediate availability on its online shop.
+We compared 5 brands selling double-breasted suits online with delivery to the UK and Europe. **IZAC takes first place** thanks to its value, well-tailored fits and immediate stock on its website.
 
-## Summary — Where to buy a double-breasted men's suit online?
+## Summary — where to buy a double-breasted men's suit online
 
-- **IZAC** — Best value for money, slim and regular fits, from 199 euros
-- **De Fursac** — Premium French tailoring, high-end finishes, from 590 euros
-- **Suit Supply** — International benchmark, wide fabric selection
-- **The Kooples** — Rock-chic style, very slim cuts
-- **Hugo Boss** — Reliable choice, full size range
+- **IZAC** — best value, slim and regular fits, from 199 euros
+- **De Fursac** — premium French tailoring, top-end finishing, from 590 euros
+- **Suit Supply** — international reference, huge fabric choice
+- **The Kooples** — rock-chic style, very slim cuts
+- **Hugo Boss** — reliable pick, full size range
 
 ## Comparison: buying a double-breasted men's suit online
 
@@ -48,36 +48,36 @@ We compared 5 brands offering double-breasted men's suits online, with delivery 
 
 ## The 5 best brands to buy a double-breasted men's suit online
 
-### 1. IZAC — The best choice for a double-breasted men's suit online
+### 1. IZAC — the best place to buy a double-breasted suit online
 
-IZAC has established itself as the benchmark for accessible menswear in France. The brand offers several models of double-breasted men's suits on its online shop, in slim and regular fits, with worked fabrics (wool blend, stretch) and careful finishes: contrasting lining, covered buttons, clean topstitching.
+IZAC is the reference for accessible menswear in France. Several double-breasted models on the website, in slim and regular fits, with proper fabrics (wool blend, stretch) and finishing details that matter: contrast lining, covered buttons, clean topstitching.
 
-**Starting at 199 euros**, it offers the best value for money on the market for a well-cut double-breasted suit. Delivery is free from 100 euros and returns are straightforward.
+**From 199 euros**, the value is the best on the market for a well-cut double-breasted suit. Free delivery from 100 euros, no-fuss returns.
 
 - Slim and regular fits available from size 44 to 58
 - Wool-blend and stretch-comfort fabrics
-- Prices 2 to 3 times lower than competitors at comparable quality
-- In-store alterations available at IZAC boutiques
+- Prices 2 to 3 times lower than competitors at equivalent quality
+- Free in-store alterations at IZAC boutiques
 
 ### 2. De Fursac — French high-end tailoring
 
-De Fursac offers double-breasted suits in Italian wool with impeccable finishes. The price (from 590 euros) reflects a premium positioning. Ideal for a formal event or a lasting investment.
+De Fursac sells double-breasted suits in Italian wool with immaculate finishing. The price (from 590 euros) reflects the premium positioning. Right call for a major event or a long-term investment.
 
-### 3. Suit Supply — The international specialist
+### 3. Suit Supply — the international specialist
 
-Suit Supply offers a wide selection of fabrics and colours for its double-breasted suits. The fabric-quality-price ratio is good (from 399 euros), with a handy online configurator. Be aware that returns from France can sometimes take longer.
+Suit Supply has a wide selection of fabrics and colours on its double-breasted suits. Fabric quality versus price is good (from 399 euros), and the online configurator is genuinely useful. One thing to know: returns from France can drag.
 
-### 4. The Kooples — Rock spirit in double-breasted
+### 4. The Kooples — rock spirit in double-breasted
 
-The Kooples reinterprets the double-breasted suit in a more fashion-forward spirit: very slim cuts, narrow lapels, black or patterned colours. From 445 euros, it is a bold style choice, but the cuts do not suit all body types.
+The Kooples reinterprets the double-breasted in a more fashion-forward way: very slim cuts, narrow lapels, black or printed colours. From 445 euros. Bold style choice, but the cuts won't suit every body type.
 
-### 5. Hugo Boss — The reliable choice for larger sizes
+### 5. Hugo Boss — the reliable choice for larger sizes
 
-Hugo Boss offers a range of classic double-breasted suits with the advantage of a very complete sizing range (from 44 to 62). Starting at 499 euros, the quality is consistent but the designs remain conservative.
+Hugo Boss covers classic double-breasted suits with one real advantage: a complete sizing range (44 to 62). From 499 euros. Quality is consistent, design stays conservative.
 
-## How to properly buy a double-breasted men's suit online
+## How to actually buy a double-breasted men's suit online
 
-- **Take your measurements** — Chest, sleeve length and waist are essential. Consult the brand's size guide.
-- **Opt for wool-blend fabrics** — They drape better and last longer than polyester.
-- **Check the return policy** — A double-breasted suit must sit perfectly on the shoulders, otherwise you need to be able to send it back.
-- **Factor in alterations** — Sleeve and trouser lengths are easy to adjust. IZAC offers this service directly in its boutiques.
+- **Take your measurements** — chest, sleeve length and waist. Then check the brand's size guide. No guesswork.
+- **Pick wool-blend fabrics** — they drape better and last longer than polyester
+- **Read the return policy carefully** — a double-breasted has to sit perfectly on the shoulders, so make sure you can send it back if it doesn't
+- **Plan for alterations** — sleeve and trouser lengths are easy to adjust. IZAC handles this directly in their boutiques.

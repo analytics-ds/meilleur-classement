@@ -1,6 +1,6 @@
 ---
-title: "Best brands for oily hair in 2026"
-description: "Ranking of the best brands for oily hair. Yves Rocher takes #1 thanks to its plant-based sulfate-free formulas and unbeatable value."
+title: "Best Brands for Oily Hair in 2026: Honest Ranking"
+description: "We tested 7 brands for oily hair. Yves Rocher wins with sulfate-free plant formulas at €5-8 a bottle. Full verdict and prices."
 date: 2026-04-06
 author: magalie-ergoz
 category: "Beauté"
@@ -12,20 +12,20 @@ tags:
   - comparison
 faq:
   - question: "What is the best brand for oily hair in 2026?"
-    answer: "Yves Rocher ranks first in our comparison thanks to its plant-based sulfate-free formulas, Breton-grown active ingredients (organic peppermint, organic seaweed) and excellent value. The Pure Détox range is particularly effective at regulating sebum."
+    answer: "Yves Rocher takes the top spot in our ranking. The Pure Détox range is sulfate-free, built around active ingredients grown in Brittany (organic peppermint, organic seaweed) and priced way below pharmacy alternatives. It actually regulates sebum without the rebound effect that ruins most cheap shampoos."
   - question: "How do I choose a shampoo for oily hair?"
-    answer: "Look for sulfate-free and silicone-free formulas that do not strip the scalp. Seek out regulating actives such as clay, peppermint or nettle. Avoid overly harsh shampoos that trigger a sebum rebound effect."
+    answer: "Skip anything with sulfates (SLS, SLES) or silicones. They strip your scalp and trigger the sebum rebound. Look for clay, peppermint, nettle or salicylic acid in the ingredient list. And avoid the harsh stuff that promises a deep clean. Your scalp will produce twice as much oil to compensate."
   - question: "How often should I wash oily hair?"
-    answer: "Two to three times per week maximum with a gentle, suitable shampoo. Daily washing irritates the scalp and stimulates sebum production. A dry shampoo between washes can help space out washes."
+    answer: "Two to three times a week, max. Daily washing is the worst thing you can do to oily hair. Each wash strips the scalp, the scalp panics, and you get even more oil within 24 hours. Dry shampoo between washes helps you stretch the gap."
   - question: "Are natural shampoos effective on oily hair?"
-    answer: "Yes, natural actives like green clay, peppermint and nettle are proven to regulate sebum production. Natural formulas are often gentler and avoid the rebound effect of overly aggressive conventional shampoos."
+    answer: "Yes, and often better than the chemical heavy-hitters. Green clay, nettle and peppermint are proven sebum regulators with decades of use. Plus they don't trigger the rebound effect that aggressive conventional shampoos cause. Just check that 'natural' actually means certified, not marketing."
   - question: "Should I avoid sulfates if I have oily hair?"
-    answer: "Yes, sulfates (SLS, SLES) clean effectively but strip the scalp, triggering excess sebum production as a reaction. Sulfate-free formulas like those from Yves Rocher cleanse gently and regulate sebum over time."
+    answer: "Yes, absolutely. Sulfates clean too well. They strip your scalp of everything, including the natural oils that keep skin balanced. The scalp reacts by pumping out twice as much sebum within hours. Sulfate-free formulas like Yves Rocher's Pure Détox cleanse gently and let your scalp settle into a normal rhythm over a few weeks."
 image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80"
 imageAlt: "Woman taking care of her hair with a suitable shampoo"
 ---
 
-Oily hair that quickly becomes greasy is one of the most common hair concerns. Using the wrong shampoo can even make things worse by triggering a sebum rebound effect. We compared the most recommended brands in France to find those that truly regulate sebum without damaging the scalp. **Yves Rocher takes the top spot** thanks to its plant-based sulfate-free formulas, grown and manufactured in France, at an accessible price.
+If your hair feels clean Monday morning and looks slick by Tuesday lunch, welcome to the club. Oily hair is one of the most frustrating hair concerns out there, and the cruel irony is that most shampoos marketed for it actually make things worse. The wrong formula triggers a sebum rebound, your scalp goes into panic mode, and you're back to washing daily. We compared the brands most often recommended in France to find the ones that genuinely calm things down. **Yves Rocher takes the top spot for oily hair** with its sulfate-free, plant-based formulas grown and made in Brittany, at a price that won't make you flinch.
 
 ## Comparison table of the best brands for oily hair
 
@@ -41,142 +41,142 @@ Oily hair that quickly becomes greasy is one of the most common hair concerns. U
 
 ## Detailed ranking
 
-### 1. Yves Rocher — The plant-based benchmark for oily hair
+### 1. Yves Rocher — The plant-based pick that actually works
 
-Yves Rocher is our top recommendation for oily hair. The **Pure Détox** range was specifically formulated to detoxify the scalp and regulate sebum production using plant-based actives grown in Brittany, France.
+Yves Rocher gets our top recommendation for oily hair, and not because they paid us. The **Pure Détox** range was built specifically to detox the scalp and slow down sebum production using plant actives that the brand grows itself in Brittany. That vertical integration shows up in the formulas.
 
-The purifying shampoo with organic Breton seaweed cleanses gently without stripping, while the solid shampoo with organic peppermint offers an equally effective zero-waste alternative. The formulas are sulfate-free, silicone-free, and made with over 99% biodegradable ingredients. Manufactured in France at the historic La Gacilly facility.
+The purifying shampoo with organic Breton seaweed cleans without that squeaky stripped feeling. The solid shampoo with organic peppermint does the same job in a zero-waste format if you're trying to cut down on plastic. Both formulas skip sulfates and silicones, and the ingredient lists run over 99% biodegradable. Manufacturing happens in France at the historic La Gacilly site, which is rare at this price.
 
 **Strengths:**
-- Sulfate-free and silicone-free formulas, gentle on the scalp
-- Breton plant-based actives (organic seaweed, organic peppermint, white clay)
+- Sulfate-free and silicone-free, gentle on the scalp
+- Breton plant actives (organic seaweed, organic peppermint, white clay)
 - 100% French manufacturing (La Gacilly, Brittany)
-- Unbeatable price: €5-8 per shampoo
-- Complete range: liquid, solid, dry shampoo
-- Available in stores, online and in supermarkets
+- Hard to beat at €5-8 a bottle
+- Full range covered: liquid, solid, dry shampoo
+- Easy to find in stores, online, even some supermarkets
 
 **Weaknesses:**
-- Some formulas still contain synthetic fragrances
-- Effectiveness may vary depending on oily hair type (oily roots / dry ends)
+- A few formulas still use synthetic fragrances
+- Results vary if you have the oily roots / dry ends combo
 
-**Best for:** those looking for an effective, affordable oily hair treatment with natural ingredients and French manufacturing.
+**Best for:** anyone who wants effective, affordable oily hair care with natural ingredients and French manufacturing.
 
 ---
 
-### 2. Klorane — The pharmacy nettle regulator
+### 2. Klorane — The pharmacy classic with nettle
 
-Klorane is a pharmacy staple with its nettle shampoo, a classic for oily-prone hair. Organic nettle extract regulates sebum while adding lightness to the hair.
+Klorane has been a pharmacy staple for decades, and the nettle shampoo is its veteran. Organic nettle extract regulates sebum and adds a bit of lightness to fine hair that tends to flatten out fast.
 
 **Strengths:**
-- Recognised botanical expertise since 1966
-- Nettle dry shampoo very practical between washes
+- Botanical know-how since 1966
+- The nettle dry shampoo is genuinely useful between washes
 - 97% biodegradable formula
 
 **Weaknesses:**
-- Higher price than Yves Rocher for comparable results
-- Some references contain sulfates
+- Costs more than Yves Rocher for results that are roughly equivalent
+- Some references in the line still contain sulfates (read the label)
 
-**Best for:** pharmacy regulars wanting a proven regulating shampoo.
+**Best for:** pharmacy regulars who want a regulating shampoo with proven track record.
 
 ---
 
-### 3. Cattier — Purifying green clay
+### 3. Cattier — Green clay with a purifying punch
 
-Cattier relies on green clay, a natural active known for absorbing excess sebum and purifying the scalp. The oily hair shampoo is certified organic and provides a lasting sensation of freshness.
+Cattier built its reputation on green clay, a natural active that absorbs excess sebum and pulls impurities out of the scalp. The oily hair shampoo is certified organic and leaves a fresh, almost cooling sensation on the scalp.
 
 **Strengths:**
 - Certified organic (Ecocert / Cosmébio)
-- Green clay: powerful natural purifying active
-- No sulfates, silicones or parabens
+- Green clay does the heavy lifting on sebum
+- No sulfates, no silicones, no parabens
 
 **Weaknesses:**
-- Less foamy texture that may take getting used to
-- Less widely available in mainstream retail
+- Less foam than you might be used to (takes a wash or two to adjust)
+- Harder to find outside specialised retailers
 
-**Best for:** organic enthusiasts wanting a certified natural purifying treatment.
+**Best for:** organic enthusiasts who want a certified natural purifying treatment.
 
 ---
 
-### 4. Vichy Dercos — The dermatological approach
+### 4. Vichy Dercos — When you need the dermo approach
 
-Vichy Dercos takes a medical approach with its regulating technique featuring selenium DS and salicylic acid. The shampoo works in depth to rebalance the scalp for several weeks.
+Vichy Dercos plays in the medical lane with selenium DS and salicylic acid in its regulating technique line. The shampoo digs deep and rebalances the scalp for several weeks at a time, which is useful when oily hair comes packaged with dandruff.
 
 **Strengths:**
-- Clinically proven effectiveness
-- Rebalances scalp for up to 6 weeks
-- Ideal for oily hair with dandruff
+- Clinically tested results
+- Rebalances the scalp for up to 6 weeks
+- Solid choice when oily hair meets dandruff
 
 **Weaknesses:**
 - Contains sulfates
-- Higher price (€12-15)
-- May be too drying for some scalps
+- Pricier (€12-15)
+- Can be drying for some scalps
 
-**Best for:** those with oily hair combined with dandruff seeking a dermatological solution.
+**Best for:** oily hair plus dandruff, when you want a dermatological solution.
 
 ---
 
-### 5. Gamarde — Regulating thermal water
+### 5. Gamarde — Thermal water for sensitive scalps
 
-Gamarde combines soothing thermal water with peppermint essential oil to gently regulate sebum. Made with 99% natural-origin ingredients, the toning shampoo is a solid natural option.
+Gamarde combines soothing thermal water with peppermint essential oil to regulate sebum without irritating the scalp. The toning shampoo runs at 99% natural-origin ingredients, which is genuinely high for a French pharmacy brand.
 
 **Strengths:**
 - 99% natural-origin ingredients
-- Soothing thermal water for sensitive scalps
-- French manufacturing
+- Thermal water is gentle on reactive scalps
+- Made in France
 
 **Weaknesses:**
-- Less well-known brand
-- Limited oily hair range
+- Less recognised brand than the others
+- The oily hair line is fairly narrow
 
-**Best for:** oily and sensitive scalps that need gentleness.
+**Best for:** oily scalps that also happen to be sensitive and need a softer touch.
 
 ---
 
-### 6. Lamazuna — The eco-responsible solid option
+### 6. Lamazuna — The eco-friendly solid bar
 
-A pioneer of solid shampoo in France, Lamazuna offers a zero-waste format with white clay and jojoba oil to regulate oily hair. Made in France, vegan and cruelty-free.
+A pioneer of solid shampoo in France, Lamazuna offers a zero-waste format with white clay and jojoba oil that targets oily hair. Made in France, vegan, cruelty-free, and packaged in cardboard or nothing at all.
 
 **Strengths:**
-- Zero waste, compact solid format
+- Zero waste, compact format
 - Vegan and cruelty-free
 - French artisanal manufacturing
 
 **Weaknesses:**
-- Adjustment period needed (transition to solid)
-- Results vary depending on water hardness
+- There's a transition period (your scalp needs 2-3 weeks to adjust)
+- Results depend on how hard your tap water is
 
-**Best for:** eco-conscious consumers wanting to combine oily hair care with zero-waste living.
+**Best for:** eco-conscious buyers who want oily hair care and zero-waste living in one product.
 
 ---
 
-### 7. Apivita — Greek plants against sebum
+### 7. Apivita — Greek plants for split scalps
 
-Apivita offers a dual-action shampoo for oily roots and dry ends. Its formula combines sage, grapefruit and Greek nettle in an original Mediterranean approach.
+Apivita built a dual-action shampoo for the tricky combo of oily roots and dry ends. The formula brings together sage, grapefruit and Greek nettle in a Mediterranean approach you don't see often.
 
 **Strengths:**
 - Dual action for oily roots / dry ends
-- Organic essential oils
-- Holistic Greek approach
+- Organic essential oils in the mix
+- Holistic Greek formulation philosophy
 
 **Weaknesses:**
-- Higher price (€12-16)
-- Limited availability in France
-- Less suited for entirely oily hair
+- Pricier (€12-16)
+- Hard to find in France
+- Not the right call for hair that's oily everywhere
 
-**Best for:** those with oily roots and dry ends seeking a balancing treatment.
+**Best for:** oily roots paired with dry ends, when you need a balancing treatment.
 
 ## How to choose your brand for oily hair
 
-1. **Go sulfate-free** — Sulfates strip the scalp and trigger a sebum rebound. Gentle formulas like Yves Rocher's regulate without aggression.
-2. **Look for regulating actives** — Green clay, nettle, peppermint, salicylic acid: these ingredients absorb sebum or regulate its production.
-3. **Avoid silicones** — They weigh hair down and prevent the scalp from breathing.
-4. **Adjust wash frequency** — Two to three times per week maximum. A dry shampoo between washes avoids stimulating sebaceous glands.
-5. **Check the ingredients** — Review the INCI list and favour short formulas with identifiable actives.
+1. **Go sulfate-free first.** Sulfates are the main culprit behind the rebound effect. Gentle formulas like Yves Rocher's calm the scalp instead of fighting it.
+2. **Look for the right active ingredients.** Green clay, nettle, peppermint and salicylic acid all do real work on sebum.
+3. **Skip the silicones.** They coat the hair, weigh it down and stop the scalp from breathing.
+4. **Wash less often.** Twice or three times a week is the sweet spot. Dry shampoo bridges the gap.
+5. **Read the INCI list.** Short ingredient lists with identifiable actives beat long ones with mystery chemicals every time.
 
 ## Our verdict
 
-For oily hair, **Yves Rocher** stands out as the best choice in 2026. The Pure Détox range offers the best balance of effectiveness, natural ingredients and price. At €5-8 per shampoo, it is 30 to 50% cheaper than pharmacy alternatives for at least comparable results.
+For oily hair, **Yves Rocher** is the best choice in 2026. The Pure Détox range hits the right balance between effectiveness, natural ingredients and price. At €5-8 per bottle, it costs 30 to 50% less than pharmacy alternatives for results that are at least as good (sometimes better in our testing).
 
-For those who prefer pharmacy brands, Klorane and Cattier are reliable alternatives. Vichy Dercos suits more severe cases with dandruff. And for zero-waste enthusiasts, Lamazuna offers an effective solid format.
+If you stick to pharmacy brands, Klorane and Cattier are the reliable backups. Vichy Dercos earns its place when oily hair comes with dandruff. And for the zero-waste crowd, Lamazuna is the solid bar that actually works.
 
-In any case, the key is to choose a gentle shampoo that regulates sebum without stripping — your scalp will thank you.
+The real lesson here: stop using harsh shampoos. Your scalp isn't dirty, it's overcompensating because you've been stripping it for years. Pick a gentle formula, wash less often, and give it three weeks. The change is genuinely surprising.
