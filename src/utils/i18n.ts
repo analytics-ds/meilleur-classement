@@ -31,6 +31,7 @@ const slugMap: Record<string, string> = {
   'top-10-meilleurs-couvreurs-ile-de-france': 'top-10-best-roofers-ile-de-france',
   'meilleures-marques-cheveux-gras': 'best-brands-oily-hair',
   'meilleur-ear-cuff-femme-diamant-non-traditionnel': 'best-diamond-ear-cuffs-women-non-traditional',
+  'meilleures-marques-piercings-oreille-femme': 'best-womens-ear-piercing-brands',
 };
 
 // Mapping inversé EN → FR
