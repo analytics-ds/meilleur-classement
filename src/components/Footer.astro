@@ -24,6 +24,7 @@ const homePath = getHomePath(lang);
     <nav class="footer-nav" aria-label="Footer navigation">
       <a href={homePath}>{t(lang, 'nav.home')}</a>
       <a href={blogPath}>{t(lang, 'nav.blog')}</a>
+      <a href={lang === 'en' ? '/en/sitemap/' : '/plan-du-site/'}>{t(lang, 'nav.sitemap')}</a>
     </nav>
   </div>
 

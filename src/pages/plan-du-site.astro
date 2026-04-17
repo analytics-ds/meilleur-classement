@@ -1,0 +1,179 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { siteConfig } from '@/config/site';
+import {
+  t,
+  getBlogPath,
+  getHomePath,
+  getCategoryPath,
+  getCategorySlug,
+  getArticlePath,
+  formatDate,
+} from '@/utils/i18n';
+
+const lang = 'fr' as const;
+
+const allPosts = (await getCollection('blog')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+const postsByCategory = new Map<string, typeof allPosts>();
+for (const post of allPosts) {
+  const arr = postsByCategory.get(post.data.category) ?? [];
+  arr.push(post);
+  postsByCategory.set(post.data.category, arr);
+}
+
+const sortedCategories = [...postsByCategory.keys()].sort((a, b) =>
+  a.localeCompare(b, 'fr')
+);
+
+const title = `${t(lang, 'sitemap.title')} — ${siteConfig.brand.siteName}`;
+const description = t(lang, 'sitemap.description');
+---
+
+<BaseLayout title={title} description={description}>
+  <section class="sitemap-page">
+    <div class="container">
+      <header class="sitemap-header">
+        <h1>{t(lang, 'sitemap.title')}</h1>
+        <p class="sitemap-intro">{t(lang, 'sitemap.description')}</p>
+      </header>
+
+      <section class="sitemap-section">
+        <h2>{t(lang, 'sitemap.mainPages')}</h2>
+        <ul class="sitemap-list">
+          <li><a href={getHomePath(lang)}>{t(lang, 'nav.home')}</a></li>
+          <li><a href={getBlogPath(lang)}>{t(lang, 'nav.blog')}</a></li>
+          <li><a href="/en/sitemap/">English version</a></li>
+        </ul>
+      </section>
+
+      <section class="sitemap-section">
+        <h2>{t(lang, 'sitemap.categoriesSection')}</h2>
+        <ul class="sitemap-list">
+          {sortedCategories.map((cat) => {
+            const slug = getCategorySlug(cat);
+            const count = postsByCategory.get(cat)?.length ?? 0;
+            return (
+              <li>
+                <a href={getCategoryPath(slug, lang)}>{cat}</a>
+                <span class="count">({count} {t(lang, 'sitemap.articleCount')})</span>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+
+      <section class="sitemap-section">
+        <h2>{t(lang, 'sitemap.articlesSection')} ({allPosts.length})</h2>
+        {sortedCategories.map((cat) => (
+          <div class="sitemap-cat-block">
+            <h3>{cat}</h3>
+            <ul class="sitemap-list">
+              {postsByCategory.get(cat)?.map((post) => (
+                <li>
+                  <a href={getArticlePath(post.slug, lang)}>{post.data.title}</a>
+                  <span class="date">— {formatDate(post.data.date, lang)}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </section>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .sitemap-page {
+    padding: var(--spacing-3xl) 0;
+    background: var(--color-white);
+  }
+
+  .sitemap-header {
+    text-align: center;
+    margin-bottom: var(--spacing-3xl);
+  }
+
+  .sitemap-header h1 {
+    font-size: var(--font-size-4xl);
+    font-weight: 800;
+    color: var(--color-gray-900);
+    margin-bottom: var(--spacing-md);
+  }
+
+  .sitemap-intro {
+    font-size: var(--font-size-base);
+    color: var(--color-gray-500);
+    max-width: 640px;
+    margin: 0 auto;
+  }
+
+  .sitemap-section {
+    margin-bottom: var(--spacing-3xl);
+  }
+
+  .sitemap-section h2 {
+    font-size: var(--font-size-2xl);
+    font-weight: 700;
+    color: var(--color-gray-900);
+    margin-bottom: var(--spacing-lg);
+    padding-bottom: var(--spacing-sm);
+    border-bottom: 2px solid var(--color-primary);
+  }
+
+  .sitemap-cat-block {
+    margin-bottom: var(--spacing-xl);
+  }
+
+  .sitemap-cat-block h3 {
+    font-size: var(--font-size-lg);
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .sitemap-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: var(--spacing-xs) var(--spacing-lg);
+  }
+
+  .sitemap-list li {
+    padding: var(--spacing-xs) 0;
+    line-height: 1.5;
+  }
+
+  .sitemap-list a {
+    color: var(--color-gray-800);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .sitemap-list a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+
+  .sitemap-list .count,
+  .sitemap-list .date {
+    color: var(--color-gray-400);
+    font-size: var(--font-size-sm);
+    margin-left: var(--spacing-xs);
+  }
+
+  @media (max-width: 768px) {
+    .sitemap-list {
+      grid-template-columns: 1fr;
+    }
+
+    .sitemap-header h1 {
+      font-size: var(--font-size-3xl);
+    }
+  }
+</style>

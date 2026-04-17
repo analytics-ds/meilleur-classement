@@ -30,8 +30,10 @@ export const GET: APIRoute = () => {
   const pages: Array<{ url: string; priority: string; changefreq: string }> = [
     { url: '/', priority: '1.0', changefreq: 'daily' },
     { url: '/blog/', priority: '0.8', changefreq: 'weekly' },
+    { url: '/plan-du-site/', priority: '0.6', changefreq: 'weekly' },
     { url: '/en/', priority: '0.9', changefreq: 'daily' },
     { url: '/en/blog/', priority: '0.8', changefreq: 'weekly' },
+    { url: '/en/sitemap/', priority: '0.6', changefreq: 'weekly' },
   ];
 
   // Add all category pages (FR + EN)
