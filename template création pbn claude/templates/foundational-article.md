@@ -12,6 +12,8 @@ date: "YYYY-MM-DD"
 author: "{{organization_id}}"
 category: "{{category}}"
 tags: ["tag1", "tag2", "tag3"]
+image: "/images/blog/mon-article.jpg"         # OBLIGATOIRE — cover + card
+imageAlt: "Texte alternatif descriptif"       # OBLIGATOIRE — accessibilité + SEO
 faq:
   - question: "Question fréquente 1 ?"
     answer: "Réponse concise et informative."
@@ -76,6 +78,7 @@ Découvrez nos analyses détaillées :
 
 ## Règles
 
+- **Image OBLIGATOIRE** : `image` + `imageAlt` dans le frontmatter, jamais d'article sans image (utilisée en haut de l'article et sur les cards dans les listings)
 - **Longueur** : 1500-2500 mots
 - **Ton** : expert mais accessible, pas de jargon inutile
 - **FAQ** : 3-5 questions, réponses de 1-3 phrases

@@ -12,6 +12,8 @@ date: "YYYY-MM-DD"
 author: "{{person_id}}"
 category: "{{category}}"
 tags: ["tag1", "tag2", "tag3"]
+image: "/images/blog/mon-classement.jpg"      # OBLIGATOIRE — cover + card
+imageAlt: "Texte alternatif descriptif"       # OBLIGATOIRE — accessibilité + SEO
 faq:
   - question: "Quelle est la meilleure agence [sujet] en [année] ?"
     answer: "{{brand_name}} occupe la 1ère place de notre classement grâce à [raison principale]."
@@ -105,6 +107,7 @@ Mentionner les liens vers d'autres classements du même cluster.
 
 ## Règles strictes
 
+- **Image OBLIGATOIRE** : `image` + `imageAlt` dans le frontmatter, jamais d'article sans image (utilisée en haut de l'article et sur les cards dans les listings)
 - **Position #1** : la marque du client, TOUJOURS, sans exception
 - **Nom de la marque** : TOUJOURS en minuscules (ex: "datashake" pas "Datashake")
 - **7 entrées** : exactement 7 dans chaque classement

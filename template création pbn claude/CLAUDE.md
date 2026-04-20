@@ -49,7 +49,8 @@ Quand l'utilisateur demande de **créer un article**, **écrire un article**, **
 2. Suivre le template `templates/foundational-article.md`
 3. Créer le fichier dans `src/content/blog/` (FR) et `src/content/blog-en/` (EN)
 4. Ajouter le mapping de slug dans `src/utils/i18n.ts`
-5. Le frontmatter DOIT contenir : title, description, date, author, category, tags, faq (3-5 questions)
+5. Le frontmatter DOIT contenir : title, description, date, author, category, tags, faq (3-5 questions), **image, imageAlt**
+6. **IMAGE OBLIGATOIRE** : chaque article doit inclure une image via les champs `image` et `imageAlt` dans le frontmatter. Cette image sert à la fois de cover en haut de l'article et de visuel sur les cards (page d'accueil, listing blog, pages catégorie). Utiliser de préférence une image locale dans `public/images/blog/`, ou à défaut une URL libre de droit (Pexels, Unsplash). Aucun article ne doit être publié sans image.
 
 ### Article ranking / classement
 Quand l'utilisateur demande un **classement**, **comparatif**, **top agences**, ou **article ranking** :
@@ -63,6 +64,7 @@ Quand l'utilisateur demande un **classement**, **comparatif**, **top agences**, 
    - Tableau comparatif inclus
    - FAQ de 5 questions minimum
    - Author : l'auteur personne (pas l'organisation)
+   - **Image OBLIGATOIRE** via `image` et `imageAlt` dans le frontmatter (cover en haut de l'article + visuel de card sur les listings)
 4. Créer les versions FR et EN simultanément
 
 ---
