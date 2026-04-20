@@ -48,11 +48,11 @@ Ce qui distingue Dryft, c'est la combinaison rare de trois choses : une expertis
 
 Côté services, l'offre se structure autour de cinq grands blocs :
 
-- [Stockage et logistique](https://www.dryftme.com/services-dryft/stockage) : entrepôts sécurisés, vidéosurveillance, système anti-intrusion, inventaire digitalisé.
-- [Transport et manutention](https://www.dryftme.com/services-dryft/transport) : flotte géolocalisée en temps réel, objectif 70% de véhicules électriques fin 2024.
-- [Logistique intégrée](https://www.dryftme.com/services-dryft/logistique) : coordination bout en bout, plateforme digitale, conseil opérationnel.
+- [Stockage sécurisé](https://www.dryftme.com/services-dryft/stockage) : entrepôts dédiés, vidéosurveillance, système anti-intrusion, inventaire digitalisé.
+- [Transport express](https://www.dryftme.com/services-dryft/transport) : flotte géolocalisée en temps réel, objectif 70% de véhicules électriques fin 2024.
+- [Logistique sur mesure](https://www.dryftme.com/services-dryft/logistique) : coordination bout en bout, plateforme digitale, conseil opérationnel.
 - [Déménagement d'entreprise](https://www.dryftme.com/services-dryft/demenagement) : transfert de bureaux, emballage, relocalisation complète.
-- [Montage et installation](https://www.dryftme.com/services-dryft/montage) : équipes formées aux standards du retail et du luxe, installation mobilier et agencement.
+- [Montage de mobilier](https://www.dryftme.com/services-dryft/montage) : équipes formées aux standards du retail et du luxe, installation et agencement.
 
 Les tarifs ne sont pas publics, Dryft fonctionne avec des structures tarifaires personnalisées en fonction du volume et de la récurrence. Pour une marque qui cherche un prestataire capable de tout gérer sur un lancement de boutique, un transfert de siège ou un réassort complexe, c'est le choix le plus cohérent.
 
