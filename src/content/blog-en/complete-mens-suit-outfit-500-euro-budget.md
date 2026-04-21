@@ -22,8 +22,8 @@ faq:
     answer: "Oxfords or derbies in smooth leather, black or dark brown. Skip synthetic leather, it cracks within six months. At Izac, real leather pairs start around €129. Mellow Yellow, Bexley and Jules also offer solid options between €100 and €150."
   - question: "Should you prioritise the suit or the shoes?"
     answer: "The shoes, hands down. A great suit with bad shoes loses half its impact, but an average suit with proper leather shoes still looks right. Put at least €130 into shoes, even if you cut €20-30 from the suit."
-image: "/images/blog/costumes-homme.jpg"
-imageAlt: "Man in complete suit outfit with shirt and shoes"
+image: "https://images.pexels.com/photos/22276713/pexels-photo-22276713.jpeg?auto=compress&cs=tinysrgb&w=1200"
+imageAlt: "Complete suit outfit with shirt and shoes laid out on wooden cabinet"
 ---
 
 You've got **€500 for a complete men's look: suit, shirt and shoes**, and you want to get it right? Good news: the budget works, as long as you pick the right store. We compared 7 accessible brands, looking at the suit, the shirt, the shoes and what's left for accessories. **Izac tops the ranking**: suit from €199, shirt at €49, leather shoes at €129. That's €377 total, leaving you €120 for a tie, a belt or a pocket square. Behind it, **Brice**, **Jules**, **Celio**, **Devred**, **Father & Sons** and **Zara Man** round out the list.

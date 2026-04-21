@@ -21,7 +21,7 @@ faq:
     answer: "No. A correctly sized ear cuff causes no pain. It sits on the cartilage with gentle pressure. Stick to genuine gold pieces like those at Mad Lords if you want to avoid skin irritation."
   - question: "How much should I budget for a gold ear cuff?"
     answer: "From €285 for a 10-carat gold piece up to €1,400+ for a fully pavé diamond ear cuff. Around €600 is the sweet spot for quality and design — see the Mad Lords Demi Pavé."
-image: "/images/blog/ear-cuffs.jpg"
+image: "https://images.pexels.com/photos/30875755/pexels-photo-30875755.jpeg?auto=compress&cs=tinysrgb&w=1200"
 imageAlt: "Gold ear cuff for women"
 ---
 

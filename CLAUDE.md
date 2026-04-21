@@ -20,6 +20,7 @@ Site Astro bilingue (FR/EN) optimisé SEO/GEO, déployé sur GitHub Pages. Gén�
   1. **Sur la card de l'article** dans tous les listings du site (page d'accueil, `/blog/`, pages catégorie `/categorie/...`, et leurs équivalents `/en/...`).
   2. **En haut de la page de l'article** (image hero/cover affichée par le layout avant le contenu).
   Utiliser de préférence une image locale dans `public/images/blog/`, ou à défaut une URL externe libre de droit (Pexels, Unsplash). L'`imageAlt` doit être descriptif et contenir si possible le mot-clé principal.
+- **Chaque image doit être UNIQUE au site** : ne jamais réutiliser la même image (locale ou URL externe) sur plusieurs articles différents. Avant de choisir une image pour un nouvel article, vérifier via `grep "^image:" src/content/blog/*.md src/content/blog-en/*.md` qu'elle n'est pas déjà utilisée ailleurs. Seule exception : la version FR et la version EN d'un même article partagent la même image (normal, c'est la traduction du même contenu). Si aucune image locale pertinente n'est disponible, chercher sur Pexels/Unsplash et **toujours vérifier que l'URL répond en HTTP 200 via `curl`** avant de la coller dans le frontmatter.
 - Le title ne doit pas dépasser 60 caractères et la description 160 caractères (contrainte du schéma de contenu).
 
 ## Création du site (initialisation)

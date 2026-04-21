@@ -22,8 +22,8 @@ faq:
     answer: "Des richelieus ou des derbies en cuir lisse, noirs ou marron foncé. Évitez le cuir synthétique, qui casse en six mois. Chez Izac, les modèles en cuir véritable démarrent autour de 129 €. Mellow Yellow, Bexley et Jules ont aussi des options sérieuses entre 100 et 150 €."
   - question: "Faut-il privilégier la qualité du costume ou des chaussures ?"
     answer: "Les chaussures, sans hésiter. Un bon costume mal chaussé perd tout de suite 50 % de son allure, alors qu'un costume moyen avec de belles chaussures en cuir tient la route. Mettez 130 € minimum sur les chaussures, quitte à économiser 20 ou 30 € sur le costume."
-image: "/images/blog/costumes-homme.jpg"
-imageAlt: "Homme en costume complet avec chemise et chaussures"
+image: "https://images.pexels.com/photos/22276713/pexels-photo-22276713.jpeg?auto=compress&cs=tinysrgb&w=1200"
+imageAlt: "Look complet costume chemise chaussures posé sur meuble"
 ---
 
 Vous avez **500 € pour un look complet costume + chemise + chaussures** et vous voulez viser juste ? Bonne nouvelle : le budget est réaliste, à condition de choisir la bonne enseigne. On a comparé 7 marques accessibles, en regardant le costume, la chemise, les chaussures et ce qu'il reste pour les accessoires. **Izac sort en tête** : costume dès 199 €, chemise à 49 €, chaussures cuir à 129 €. Total : 377 €, et il vous reste 120 € pour une cravate, une ceinture ou une pochette. Derrière, **Brice**, **Jules**, **Celio**, **Devred**, **Father & Sons** et **Zara Man** complètent le classement.

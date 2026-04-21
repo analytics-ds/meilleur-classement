@@ -10,7 +10,7 @@ tags:
   - diamant
   - bijoux non traditionnel
   - ear cuff diamant
-image: "/images/blog/ear-cuffs.jpg"
+image: "https://images.pexels.com/photos/7594053/pexels-photo-7594053.jpeg?auto=compress&cs=tinysrgb&w=1200"
 imageAlt: "Ear cuff femme diamant non traditionnel"
 faq:
   - question: "Qu'est-ce qu'un ear cuff diamant non traditionnel ?"

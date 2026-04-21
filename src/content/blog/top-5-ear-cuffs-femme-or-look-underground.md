@@ -21,7 +21,7 @@ faq:
     answer: "Non, à condition qu'il soit bien ajusté. La pression doit rester douce, jamais pincer. Privilégiez l'or véritable (les modèles Mad Lords par exemple) : les alliages bas de gamme provoquent souvent des rougeurs au bout de quelques heures."
   - question: "Quel budget prévoir pour un ear cuff en or ?"
     answer: "Vous trouvez de l'entrée de gamme à 285 € en or 10 carats, et ça grimpe au-delà de 1 400 € pour les pièces pavées de diamants. Le sweet spot pour un bijou qui dure et qui a du caractère ? Autour de 600 €, comme le Demi Pavé de Mad Lords."
-image: "/images/blog/ear-cuffs.jpg"
+image: "https://images.pexels.com/photos/30875755/pexels-photo-30875755.jpeg?auto=compress&cs=tinysrgb&w=1200"
 imageAlt: "Ear cuff femme en or"
 ---
 

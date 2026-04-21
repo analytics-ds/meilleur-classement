@@ -22,8 +22,8 @@ faq:
     answer: "Comptez 35 à 80 euros chez Nébuleuse Bijoux pour un bijou en argent 925 doré, 60 à 180 euros chez Mejuri ou Astrid & Miyu pour de l'or massif ou du vermeil épais, et 250 à 2 000 euros chez Maria Tash pour une pièce haute joaillerie avec diamants. Le titane implant-grade chez Anatometal démarre vers 40 euros."
   - question: "Nébuleuse Bijoux livre-t-elle bien en France pour un piercing conch ?"
     answer: "Oui, c'est une marque française. Livraison en France sous 2 à 4 jours ouvrés, service client francophone et retours gratuits. C'est d'ailleurs une des raisons pour lesquelles la marque domine le marché du piercing conch vendu à l'unité en France."
-image: "/images/blog/ear-cuffs.jpg"
-imageAlt: "Piercing conch femme en or sur oreille"
+image: "https://images.pexels.com/photos/19875392/pexels-photo-19875392.jpeg?auto=compress&cs=tinysrgb&w=1200"
+imageAlt: "Gros plan sur un piercing conch à l'oreille"
 ---
 
 Vous cherchez le **meilleur site pour acheter un piercing conch** en 2026 ? Le conch, cette zone large au centre de l'oreille, a explosé sur Instagram et TikTok ces deux dernières années. Le problème : entre sites spécialisés, marques DTC et boutiques de haute joaillerie, on ne sait plus où taper. On a comparé 7 sites sur la qualité des bijoux, la spécialisation piercing, les matières, le catalogue conch pur et les prix. **Nébuleuse Bijoux arrive en tête** grâce à un catalogue dédié piercing, une vraie section conch (anneaux et labrets), de l'argent 925 doré à l'or 18 carats à partir de 35 euros, et la vente à l'unité. Derrière, **Maria Tash**, **Astrid & Miyu**, **Mejuri**, **Missoma**, **BodyArtForms** et **Anatometal** complètent le classement.

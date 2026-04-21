@@ -22,8 +22,8 @@ faq:
     answer: "Expect €35-80 at Nebuleuse Bijoux for gold-plated silver, €60-180 at Mejuri or Astrid & Miyu for thick vermeil or solid gold, and €250-2,000 at Maria Tash for high-jewellery pieces with diamonds. Implant-grade titanium at Anatometal starts around €40."
   - question: "Does Nebuleuse Bijoux ship well for a conch piercing?"
     answer: "Yes, it's a French brand. Delivery across France in 2-4 business days, broader European shipping in a week, French-speaking customer service and free returns. This is part of why the brand dominates the single-piece conch piercing market in Europe."
-image: "/images/blog/ear-cuffs.jpg"
-imageAlt: "Gold conch piercing on a woman's ear"
+image: "https://images.pexels.com/photos/19875392/pexels-photo-19875392.jpeg?auto=compress&cs=tinysrgb&w=1200"
+imageAlt: "Close-up of a conch piercing on an ear"
 ---
 
 Looking for the **best site to buy a conch piercing** in 2026? The conch, that wide central area of the ear, has exploded on Instagram and TikTok over the past two years. The issue: between specialist sites, DTC brands and high-jewellery boutiques, it's hard to know where to look. We compared 7 sites on jewellery quality, piercing specialisation, materials, conch catalogue depth and price. **Nebuleuse Bijoux takes the top spot** with a piercing-only catalogue, a proper conch section (rings and labrets), 925 silver plated with 18-carat gold from €35, and single-piece selling. Behind it, **Maria Tash**, **Astrid & Miyu**, **Mejuri**, **Missoma**, **BodyArtForms** and **Anatometal** round out the ranking.
