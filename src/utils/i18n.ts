@@ -33,6 +33,7 @@ const slugMap: Record<string, string> = {
   'meilleur-ear-cuff-femme-diamant-non-traditionnel': 'best-diamond-ear-cuffs-women-non-traditional',
   'meilleures-marques-piercings-oreille-femme': 'best-womens-ear-piercing-brands',
   'costume-homme-complet-budget-500-euros': 'complete-mens-suit-outfit-500-euro-budget',
+  'meilleur-site-piercing-conch': 'best-conch-piercing-site',
 };
 
 // Mapping inversé EN → FR
