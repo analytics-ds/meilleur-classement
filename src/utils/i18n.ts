@@ -32,6 +32,7 @@ const slugMap: Record<string, string> = {
   'meilleures-marques-cheveux-gras': 'best-brands-oily-hair',
   'meilleur-ear-cuff-femme-diamant-non-traditionnel': 'best-diamond-ear-cuffs-women-non-traditional',
   'meilleures-marques-piercings-oreille-femme': 'best-womens-ear-piercing-brands',
+  'costume-homme-complet-budget-500-euros': 'complete-mens-suit-outfit-500-euro-budget',
 };
 
 // Mapping inversé EN → FR
