@@ -3,7 +3,9 @@ import { siteConfig } from '@/config/site';
 import { getLang, t, getAlternatePath, getBlogPath, getHomePath, getCategorySlug, getCategoryPath } from '@/utils/i18n';
 
 const lang = getLang(Astro.url);
-const alternatePath = getAlternatePath(Astro.url.pathname);
+const otherLang = lang === 'fr' ? 'en' : 'fr';
+// Fallback vers la home de l'autre langue si l'article n'a pas de traduction
+const alternatePath = getAlternatePath(Astro.url.pathname) ?? getHomePath(otherLang);
 const blogPath = getBlogPath(lang);
 const homePath = getHomePath(lang);
 const currentPath = Astro.url.pathname;

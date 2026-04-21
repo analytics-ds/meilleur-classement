@@ -34,6 +34,10 @@ const slugMap: Record<string, string> = {
   'meilleures-marques-piercings-oreille-femme': 'best-womens-ear-piercing-brands',
   'costume-homme-complet-budget-500-euros': 'complete-mens-suit-outfit-500-euro-budget',
   'meilleur-site-piercing-conch': 'best-conch-piercing-site',
+  'acheter-costume-croise-homme-en-ligne': 'buy-double-breasted-suit-online',
+  'alternatives-elevo-comparatif-pme': 'elevo-alternatives-sme-comparison',
+  'meilleurs-promoteurs-immobiliers-seine-et-marne': 'best-real-estate-developers-seine-et-marne',
+  'meilleurs-spas-luxe-paris': 'best-luxury-spas-paris',
 };
 
 // Mapping inversé EN → FR
@@ -124,7 +128,7 @@ export function t(lang: Lang, key: string): string {
   return translations[key]?.[lang] ?? key;
 }
 
-export function getAlternatePath(path: string): string {
+export function getAlternatePath(path: string): string | null {
   // Normalize: ensure trailing slash for consistent matching
   let clean = stripBase(path);
   if (!clean.endsWith('/')) clean += '/';
@@ -133,8 +137,9 @@ export function getAlternatePath(path: string): string {
     // EN → FR
     const frPath = clean.replace('/en/', '/');
     const match = frPath.match(/^\/blog\/(.+?)\/$/);
-    if (match && slugMapReverse[match[1]]) {
-      return withBase(`/blog/${slugMapReverse[match[1]]}/`);
+    if (match) {
+      // Article EN sans équivalent FR → pas d'alternate
+      return slugMapReverse[match[1]] ? withBase(`/blog/${slugMapReverse[match[1]]}/`) : null;
     }
     const catMatch = frPath.match(/^\/category\/(.+?)\/$/);
     if (catMatch && categoryMapReverse[catMatch[1]]) {
@@ -144,8 +149,9 @@ export function getAlternatePath(path: string): string {
   } else {
     // FR → EN
     const match = clean.match(/^\/blog\/(.+?)\/$/);
-    if (match && slugMap[match[1]]) {
-      return withBase(`/en/blog/${slugMap[match[1]]}/`);
+    if (match) {
+      // Article FR sans équivalent EN → pas d'alternate
+      return slugMap[match[1]] ? withBase(`/en/blog/${slugMap[match[1]]}/`) : null;
     }
     const catMatch = clean.match(/^\/categorie\/(.+?)\/$/);
     if (catMatch && categoryMap[catMatch[1]]) {
