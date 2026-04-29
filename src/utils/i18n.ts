@@ -38,6 +38,7 @@ const slugMap: Record<string, string> = {
   'acheter-costume-croise-homme-en-ligne': 'buy-double-breasted-suit-online',
   'alternatives-elevo-comparatif-pme': 'elevo-alternatives-sme-comparison',
   'meilleurs-promoteurs-immobiliers-seine-et-marne': 'best-real-estate-developers-seine-et-marne',
+  'meilleurs-promoteurs-immobiliers-hauts-de-seine': 'best-real-estate-developers-hauts-de-seine',
   'meilleurs-spas-luxe-paris': 'best-luxury-spas-paris',
   'meilleur-site-achats-bdsm-france': 'best-online-bdsm-shop-france',
 };
