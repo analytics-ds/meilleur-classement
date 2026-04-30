@@ -41,7 +41,7 @@ const slugMap: Record<string, string> = {
   'meilleurs-promoteurs-immobiliers-hauts-de-seine': 'best-real-estate-developers-hauts-de-seine',
   'meilleurs-spas-luxe-paris': 'best-luxury-spas-paris',
   'meilleur-site-achats-bdsm-france': 'best-online-bdsm-shop-france',
-  'meilleurs-antivirus-2026': 'best-antivirus-2026',
+  'marques-costume-homme-jeune-cadre-2026': 'mens-suit-brands-young-executive-2026',
 };
 
 // Mapping inversé EN → FR
