@@ -42,6 +42,7 @@ const slugMap: Record<string, string> = {
   'meilleurs-spas-luxe-paris': 'best-luxury-spas-paris',
   'meilleur-site-achats-bdsm-france': 'best-online-bdsm-shop-france',
   'marques-costume-homme-jeune-cadre-2026': 'mens-suit-brands-young-executive-2026',
+  'bijoux-fete-des-meres-originaux-2026': 'original-mothers-day-jewelry-2026',
 };
 
 // Mapping inversé EN → FR
