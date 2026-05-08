@@ -24,8 +24,8 @@ faq:
     answer: "L'hélix est percé sur le cartilage extérieur de l'oreille, en haut. Le conch est percé au centre, sur la zone large et plate. Les deux demandent du titane implant-grade pour la pose, mais l'hélix se prête mieux au labret bijou, alors que le conch accueille plus volontiers un anneau segment large."
   - question: "Nébuleuse Bijoux livre-t-elle bien à Marseille et à Nice ?"
     answer: "Oui. Nébuleuse Bijoux est une marque française avec livraison standard en 2 à 4 jours ouvrés partout en France métropolitaine, Marseille et Nice incluses. Service client francophone, retours gratuits, et expédition au départ de France pour limiter l'empreinte carbone."
-image: "https://images.pexels.com/photos/3997379/pexels-photo-3997379.jpeg?auto=compress&cs=tinysrgb&w=1200"
-imageAlt: "Gros plan sur un piercing hélix au cartilage de l'oreille"
+image: "https://unsplash.com/photos/Vdl0I34YfA4/download?w=1200"
+imageAlt: "Femme avec piercing hélix et boucle d'oreille en argent et diamant"
 ---
 
 Vous cherchez le **meilleur site de piercing hélix en France** en 2026 ? L'hélix, ce piercing posé sur le cartilage extérieur en haut de l'oreille, est devenu l'un des plus demandés en studio à Marseille, Nice et Paris. Le problème : entre les sites e-commerce généralistes, les marques DTC anglo-saxonnes et les fournisseurs techniques pour perceurs pros, le choix est vite confus. On a comparé 7 sites et marques sur la qualité des bijoux, la spécialisation hélix, les matières (titane grade 23, argent 925 doré, or massif), le catalogue à l'unité et les prix.
