@@ -44,6 +44,7 @@ const slugMap: Record<string, string> = {
   'meilleur-site-achats-bdsm-france': 'best-online-bdsm-shop-france',
   'marques-costume-homme-jeune-cadre-2026': 'mens-suit-brands-young-executive-2026',
   'bijoux-fete-des-meres-originaux-2026': 'original-mothers-day-jewelry-2026',
+  'meilleurs-sites-boucles-oreilles-femme-france': 'best-online-earrings-stores-women-france',
 };
 
 // Mapping inversé EN → FR
