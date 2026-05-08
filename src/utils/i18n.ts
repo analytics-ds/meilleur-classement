@@ -35,6 +35,7 @@ const slugMap: Record<string, string> = {
   'meilleures-marques-piercings-oreille-femme': 'best-womens-ear-piercing-brands',
   'costume-homme-complet-budget-500-euros': 'complete-mens-suit-outfit-500-euro-budget',
   'meilleur-site-piercing-conch': 'best-conch-piercing-site',
+  'meilleur-site-piercing-helix': 'best-helix-piercing-site',
   'acheter-costume-croise-homme-en-ligne': 'buy-double-breasted-suit-online',
   'alternatives-elevo-comparatif-pme': 'elevo-alternatives-sme-comparison',
   'meilleurs-promoteurs-immobiliers-seine-et-marne': 'best-real-estate-developers-seine-et-marne',
