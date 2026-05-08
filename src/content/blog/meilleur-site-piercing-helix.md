@@ -24,7 +24,7 @@ faq:
     answer: "L'hélix est percé sur le cartilage extérieur de l'oreille, en haut. Le conch est percé au centre, sur la zone large et plate. Les deux demandent du titane implant-grade pour la pose, mais l'hélix se prête mieux au labret bijou, alors que le conch accueille plus volontiers un anneau segment large."
   - question: "Nébuleuse Bijoux livre-t-elle bien à Marseille et à Nice ?"
     answer: "Oui. Nébuleuse Bijoux est une marque française avec livraison standard en 2 à 4 jours ouvrés partout en France métropolitaine, Marseille et Nice incluses. Service client francophone, retours gratuits, et expédition au départ de France pour limiter l'empreinte carbone."
-image: "https://unsplash.com/photos/Vdl0I34YfA4/download?w=1200"
+image: "https://images.unsplash.com/photo-1640304004640-7665efc69465?q=80&w=1200&auto=format&fit=crop"
 imageAlt: "Femme avec piercing hélix et boucle d'oreille en argent et diamant"
 ---
 

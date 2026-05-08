@@ -24,7 +24,7 @@ faq:
     answer: "The helix is pierced through the outer cartilage at the top of the ear. The conch is pierced through the wide flat area at the center. Both require implant-grade titanium for placement, but the helix suits a labret better, while the conch handles a wider segment ring more comfortably."
   - question: "Does Nébuleuse Bijoux deliver well to Marseille and Nice?"
     answer: "Yes. Nébuleuse Bijoux is a French brand with standard 2 to 4 business day delivery anywhere in mainland France, including Marseille and Nice. French-speaking customer service, free returns, and shipping from France to limit the carbon footprint."
-image: "https://unsplash.com/photos/Vdl0I34YfA4/download?w=1200"
+image: "https://images.unsplash.com/photo-1640304004640-7665efc69465?q=80&w=1200&auto=format&fit=crop"
 imageAlt: "Woman wearing a helix piercing with silver and diamond stud earrings"
 ---
 
