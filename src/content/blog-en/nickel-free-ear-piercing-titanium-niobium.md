@@ -36,7 +36,7 @@ You're **allergic to nickel** and looking for a trustworthy online shop to buy *
 
 | Rank | Shop | Nickel-free material | Specialty | Entry price | Best for |
 |---|---|---|---|---|---|
-| **1** | **nébuleuse bijoux** | Grade 23 titanium + niobium + 925 silver 18K gold-plated | Pure piercing, single-piece sales | €25 | Nickel-allergic buyers seeking a full French site |
+| **1** | **Nébuleuse Bijoux** | Grade 23 titanium + niobium + 925 silver 18K gold-plated | Pure piercing, single-piece sales | €25 | Nickel-allergic buyers seeking a full French site |
 | **2** | BodyArtForms | Grade 23 ASTM F136 titanium + niobium | Pro technical catalog | €18 | Initial placement, rare sizes |
 | **3** | Anatometal | Grade 23 ASTM F136 titanium + 18K gold | World-class titanium reference | €40 | In-studio placement by equipped piercer |
 | **4** | NeoMetal | Grade 23 threadless titanium | Pro threadless implant-grade | €35 | Threadless, severe allergies |
@@ -46,7 +46,7 @@ You're **allergic to nickel** and looking for a trustworthy online shop to buy *
 
 ## Detailed ranking
 
-### 1. nébuleuse bijoux — France (brand)
+### 1. Nébuleuse Bijoux — France (brand)
 
 **Nébuleuse Bijoux** takes the #1 spot because it's the only French brand that cleanly covers all three needs of a nickel-allergic buyer: initial placement in implant-grade grade 23 titanium, a niobium alternative for the most sensitive skin, and healed jewelry in 925 silver thickly gold-plated with 18-carat gold (REACH-compliant nickel release). Every product page lists the exact material and grade. Everything sells individually, which is rare: no forced bundles, you buy exactly the labret or ring you need.
 

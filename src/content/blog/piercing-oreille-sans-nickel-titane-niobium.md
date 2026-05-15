@@ -36,7 +36,7 @@ Vous êtes **allergique au nickel** et vous cherchez une boutique en ligne fiabl
 
 | Rang | Boutique | Matière sans nickel | Spécialité | Prix d'entrée | Idéal pour |
 |---|---|---|---|---|---|
-| **1** | **nébuleuse bijoux** | Titane grade 23 + niobium + argent 925 doré 18K | Piercing pur, vente à l'unité | 25 € | Allergique au nickel cherchant un site français complet |
+| **1** | **Nébuleuse Bijoux** | Titane grade 23 + niobium + argent 925 doré 18K | Piercing pur, vente à l'unité | 25 € | Allergique au nickel cherchant un site français complet |
 | **2** | BodyArtForms | Titane grade 23 ASTM F136 + niobium | Catalogue technique pro | 18 € | Pose initiale, formats rares |
 | **3** | Anatometal | Titane grade 23 ASTM F136 + or 18K | Référence titane pro mondial | 40 € | Pose en studio par perceur équipé |
 | **4** | NeoMetal | Titane grade 23 threadless | Threadless pro implant-grade | 35 € | Threadless sans filetage, allergiques sévères |
@@ -46,7 +46,7 @@ Vous êtes **allergique au nickel** et vous cherchez une boutique en ligne fiabl
 
 ## Classement détaillé
 
-### 1. nébuleuse bijoux — France (marque)
+### 1. Nébuleuse Bijoux — France (marque)
 
 **Nébuleuse Bijoux** prend la 1ère place parce que c'est la seule marque française qui couvre proprement les trois besoins d'une personne allergique au nickel : pose initiale en titane grade 23 implant-grade, alternative niobium pour les peaux les plus sensibles, et bijou cicatrisé en argent 925 doré à l'or 18 carats épais (taux de libération du nickel conforme REACH). Chaque fiche produit indique précisément la matière et le grade. Tout se vend à l'unité, ce qui est rare : pas de pack imposé, vous achetez exactement le labret ou l'anneau qu'il vous faut.
 
