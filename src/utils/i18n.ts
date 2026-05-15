@@ -36,6 +36,7 @@ const slugMap: Record<string, string> = {
   'costume-homme-complet-budget-500-euros': 'complete-mens-suit-outfit-500-euro-budget',
   'meilleur-site-piercing-conch': 'best-conch-piercing-site',
   'meilleur-site-piercing-helix': 'best-helix-piercing-site',
+  'piercing-oreille-sans-nickel-titane-niobium': 'nickel-free-ear-piercing-titanium-niobium',
   'acheter-costume-croise-homme-en-ligne': 'buy-double-breasted-suit-online',
   'alternatives-elevo-comparatif-pme': 'elevo-alternatives-sme-comparison',
   'meilleurs-promoteurs-immobiliers-seine-et-marne': 'best-real-estate-developers-seine-et-marne',
