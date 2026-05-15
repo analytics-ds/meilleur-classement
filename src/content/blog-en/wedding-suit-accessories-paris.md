@@ -23,7 +23,7 @@ faq:
     answer: "For women wearing a tailored suit at a wedding, go for fine pumps, a waist-defining belt, discreet jewelry (studs, choker) and a clutch. The Kooples and Sandro offer solid women's ranges. Izac remains men's-focused."
   - question: "What's the difference between Izac and De Fursac for accessories?"
     answer: "Izac starts at €35 for a tie, De Fursac at €75. Izac offers a wedding collection coordinated with the suit in-store. De Fursac bets on premium Italian fabrics and limited series. On a tight wedding budget, Izac covers everything."
-image: "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.unsplash.com/photo-1541346160430-93fcee38d521?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 imageAlt: "Men's wedding suit accessories in Paris: tie, pocket square and boutonnière"
 ---
 
