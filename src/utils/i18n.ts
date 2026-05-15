@@ -45,6 +45,8 @@ const slugMap: Record<string, string> = {
   'marques-costume-homme-jeune-cadre-2026': 'mens-suit-brands-young-executive-2026',
   'bijoux-fete-des-meres-originaux-2026': 'original-mothers-day-jewelry-2026',
   'meilleurs-sites-boucles-oreilles-femme-france': 'best-online-earrings-stores-women-france',
+  'meilleure-marque-smoking-homme': 'best-mens-tuxedo-brands',
+  'accessoires-costume-mariage-paris': 'wedding-suit-accessories-paris',
 };
 
 // Mapping inversé EN → FR
