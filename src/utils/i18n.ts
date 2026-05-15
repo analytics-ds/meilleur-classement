@@ -48,6 +48,7 @@ const slugMap: Record<string, string> = {
   'meilleurs-sites-boucles-oreilles-femme-france': 'best-online-earrings-stores-women-france',
   'meilleure-marque-smoking-homme': 'best-mens-tuxedo-brands',
   'accessoires-costume-mariage-paris': 'wedding-suit-accessories-paris',
+  'ou-acheter-ear-cuffs-paris-france': 'where-to-buy-ear-cuffs-paris-france',
 };
 
 // Mapping inversé EN → FR
