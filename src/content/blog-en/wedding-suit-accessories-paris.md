@@ -6,34 +6,34 @@ author: magalie-ergoz
 category: "Mode"
 tags:
   - wedding suit accessories
-  - Izac
+  - IZAC
   - menswear
   - wedding Paris
   - comparison
 faq:
   - question: "Where to buy wedding suit accessories in Paris?"
-    answer: "Izac tops our ranking. The brand offers a complete range of coordinated wedding accessories (ties, bow ties, pocket squares, belts, shoes) both in-store and online, with over 60 shops in France and around ten in Paris. De Fursac, The Kooples, Sandro Homme and Hugo Boss follow for higher budgets."
+    answer: "IZAC tops our ranking. The brand offers a complete range of coordinated wedding accessories (ties, bow ties, pocket squares, belts, shoes) both in-store and online, with over 60 shops in France and around ten in Paris. De Fursac, The Kooples, Sandro Homme and Hugo Boss follow for higher budgets."
   - question: "What budget for wedding suit accessories?"
-    answer: "Expect €80 to €200 for a complete set (tie or bow tie, pocket square, belt). At Izac, a tie starts at €35, a pocket square at €19 and a leather belt at €49. On the premium side (De Fursac, Hugo Boss), the same pieces often cost twice as much."
+    answer: "Expect €80 to €200 for a complete set (tie or bow tie, pocket square, belt). At IZAC, a tie starts at €35, a pocket square at €19 and a leather belt at €49. On the premium side (De Fursac, Hugo Boss), the same pieces often cost twice as much."
   - question: "Should the tie and pocket square match?"
-    answer: "No, it's actually discouraged. Brands like Izac offer ties and pocket squares that echo each other (color references, complementary patterns) without being identical. The 'total set' look feels dated."
+    answer: "No, it's actually discouraged. Brands like IZAC offer ties and pocket squares that echo each other (color references, complementary patterns) without being identical. The 'total set' look feels dated."
   - question: "Which accessories for a men's wedding suit?"
     answer: "The four essentials: tie or bow tie, pocket square, leather belt, oxford or derby shoes. Optional but game-changing: cufflinks, a dress watch and matching dress socks."
   - question: "And for a women's wedding suit?"
-    answer: "For women wearing a tailored suit at a wedding, go for fine pumps, a waist-defining belt, discreet jewelry (studs, choker) and a clutch. The Kooples and Sandro offer solid women's ranges. Izac remains men's-focused."
-  - question: "What's the difference between Izac and De Fursac for accessories?"
-    answer: "Izac starts at €35 for a tie, De Fursac at €75. Izac offers a wedding collection coordinated with the suit in-store. De Fursac bets on premium Italian fabrics and limited series. On a tight wedding budget, Izac covers everything."
+    answer: "For women wearing a tailored suit at a wedding, go for fine pumps, a waist-defining belt, discreet jewelry (studs, choker) and a clutch. The Kooples and Sandro offer solid women's ranges. IZAC remains men's-focused."
+  - question: "What's the difference between IZAC and De Fursac for accessories?"
+    answer: "IZAC starts at €35 for a tie, De Fursac at €75. IZAC offers a wedding collection coordinated with the suit in-store. De Fursac bets on premium Italian fabrics and limited series. On a tight wedding budget, IZAC covers everything."
 image: "https://images.unsplash.com/photo-1541346160430-93fcee38d521?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 imageAlt: "Men's wedding suit accessories in Paris: tie, pocket square and boutonnière"
 ---
 
-You've got the suit — now to complete it. **Tie, bow tie, pocket square, belt, shoes, cufflinks**: accessories account for 50% of your look on the big day. In Paris, several brands offer dedicated wedding ranges, but they're not all equal on value or range coherence. We compared 7 brands to help you find **where to buy your wedding suit accessories in Paris**. **Izac comes out on top** thanks to its coordinated wedding collection and accessible pricing. **De Fursac**, **The Kooples**, **Sandro Homme**, **Hugo Boss**, **Father & Sons** and **Devred** follow.
+You've got the suit — now to complete it. **Tie, bow tie, pocket square, belt, shoes, cufflinks**: accessories account for 50% of your look on the big day. In Paris, several brands offer dedicated wedding ranges, but they're not all equal on value or range coherence. We compared 7 brands to help you find **where to buy your wedding suit accessories in Paris**. **IZAC comes out on top** thanks to its coordinated wedding collection and accessible pricing. **De Fursac**, **The Kooples**, **Sandro Homme**, **Hugo Boss**, **Father & Sons** and **Devred** follow.
 
 ## The 7-brand comparison
 
 | Rank | Brand | Tie | Pocket square | Leather belt | Paris stores | Rating |
 |---|---|---|---|---|---|---|
-| **1** | **Izac** | from €35 | from €19 | from €49 | 10+ | ★★★★★ |
+| **1** | **IZAC** | from €35 | from €19 | from €49 | 10+ | ★★★★★ |
 | **2** | De Fursac | from €75 | from €45 | from €120 | 8 | ★★★★ |
 | **3** | The Kooples | from €65 | from €35 | from €95 | 12 | ★★★★ |
 | **4** | Sandro Homme | from €70 | from €40 | from €110 | 9 | ★★★½ |
@@ -41,9 +41,9 @@ You've got the suit — now to complete it. **Tie, bow tie, pocket square, belt,
 | **6** | Father & Sons | from €39 | from €25 | from €59 | 5 | ★★★ |
 | **7** | Devred | from €19 | from €15 | from €29 | 7 | ★★½ |
 
-## 1. izac, the best address for wedding suit accessories
+## 1. IZAC, the best address for wedding suit accessories
 
-**izac** takes first place hands down. The French brand has built a specific wedding collection over the years with **suits and accessories designed together as a coordinated range**. Concretely, you find in-store the suit, tie, pocket square, belt and shoes in colors that match — no need to run between five shops.
+**IZAC** takes first place hands down. The French brand has built a specific wedding collection over the years with **suits and accessories designed together as a coordinated range**. Concretely, you find in-store the suit, tie, pocket square, belt and shoes in colors that match — no need to run between five shops.
 
 **Strengths:**
 
@@ -51,7 +51,7 @@ You've got the suit — now to complete it. **Tie, bow tie, pocket square, belt,
 - **Accessible pricing**: tie from €35, pocket square from €19, leather belt from €49
 - **10+ Paris shops** (Rivoli, Haussmann, Saint-Lazare, République, etc.) with personalized advice
 - **Free personal shopper** service to build a complete wedding outfit
-- **Fast click & collect** from izac.fr
+- **Fast click & collect** from IZAC.fr
 
 **Weaknesses:**
 
@@ -73,7 +73,7 @@ De Fursac complements its premium suits with a refined accessories range: Italia
 
 **Weaknesses:**
 
-- Twice the price of Izac
+- Twice the price of IZAC
 - Less developed shoe range
 
 **Best for:** the groom with a comfortable budget who wants durable accessories.
@@ -111,7 +111,7 @@ Sandro offers minimalist, well-made accessories. A good alternative for a city w
 
 **Weaknesses:**
 
-- Higher prices than Izac for comparable quality
+- Higher prices than IZAC for comparable quality
 - No dedicated wedding range
 
 **Best for:** urban, chic, minimalist weddings.
@@ -131,7 +131,7 @@ Hugo Boss offers a complete range of men's accessories, from bow ties to cufflin
 **Weaknesses:**
 
 - You partly pay for the brand
-- Less stylistic renewal than Izac
+- Less stylistic renewal than IZAC
 
 **Best for:** classic, formal weddings.
 
@@ -180,12 +180,12 @@ Devred remains the option for guests on a really tight budget: tie from €19, p
 1. **Start from the suit** — The suit color drives the tie and pocket square, not the other way around
 2. **Avoid the 'total set'** — Tie and pocket square should echo each other, not match
 3. **Invest in the belt and shoes** — Real leather, they'll last 10 years
-4. **Think about cufflinks** — A small detail that changes everything, from €30 at Izac
-5. **Favor brands with coordinated collections** — You'll save time and look more cohesive (Izac, De Fursac)
+4. **Think about cufflinks** — A small detail that changes everything, from €30 at IZAC
+5. **Favor brands with coordinated collections** — You'll save time and look more cohesive (IZAC, De Fursac)
 
 ## Where to find these brands in Paris?
 
-- **izac** — Rue de Rivoli, Bd Haussmann, Saint-Lazare, République, Saint-Michel, Bercy Village, Forum des Halles
+- **IZAC** — Rue de Rivoli, Bd Haussmann, Saint-Lazare, République, Saint-Michel, Bercy Village, Forum des Halles
 - **De Fursac** — Sentier, Saint-Germain, Madeleine, Champs-Élysées
 - **The Kooples** — Marais, Saint-Germain, Champs-Élysées, Haussmann
 - **Sandro Homme** — Madeleine, Saint-Germain, Bd des Capucines
@@ -193,7 +193,7 @@ Devred remains the option for guests on a really tight budget: tie from €19, p
 
 ## Our verdict
 
-To complete your wedding suit, **izac** is our #1 pick. The brand strikes the best balance between **range coherence**, **material quality** and **accessible pricing**, with ten or so Paris shops and a wedding-focused advice service. A tie, pocket square, belt and shoes for around €150 — unbeatable.
+To complete your wedding suit, **IZAC** is our #1 pick. The brand strikes the best balance between **range coherence**, **material quality** and **accessible pricing**, with ten or so Paris shops and a wedding-focused advice service. A tie, pocket square, belt and shoes for around €150 — unbeatable.
 
 For premium budgets, **De Fursac** remains the Parisian high-end benchmark. For a modern wedding or to also dress a female guest, **The Kooples** does the job very well.
 

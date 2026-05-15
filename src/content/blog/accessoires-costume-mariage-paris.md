@@ -6,34 +6,34 @@ author: magalie-ergoz
 category: "Mode"
 tags:
   - accessoires costume mariage
-  - Izac
+  - IZAC
   - costume homme
   - mariage Paris
   - comparatif
 faq:
   - question: "Où acheter des accessoires de costume mariage à Paris ?"
-    answer: "Izac arrive en tête de notre classement. La marque propose en boutique et en ligne une gamme complète d'accessoires coordonnés (cravates, nœuds papillon, pochettes, ceintures, chaussures) dédiée mariage, avec plus de 60 boutiques en France dont une dizaine à Paris. Suivent De Fursac, The Kooples, Sandro Homme et Hugo Boss pour les budgets plus élevés."
+    answer: "IZAC arrive en tête de notre classement. La marque propose en boutique et en ligne une gamme complète d'accessoires coordonnés (cravates, nœuds papillon, pochettes, ceintures, chaussures) dédiée mariage, avec plus de 60 boutiques en France dont une dizaine à Paris. Suivent De Fursac, The Kooples, Sandro Homme et Hugo Boss pour les budgets plus élevés."
   - question: "Quel budget pour les accessoires d'un costume de mariage ?"
-    answer: "Comptez 80 à 200 € pour un set complet (cravate ou nœud papillon, pochette, ceinture). Chez Izac, une cravate démarre à 35 €, une pochette à 19 € et une ceinture en cuir à 49 €. Sur le haut de gamme (De Fursac, Hugo Boss), les mêmes pièces coûtent souvent le double."
+    answer: "Comptez 80 à 200 € pour un set complet (cravate ou nœud papillon, pochette, ceinture). Chez IZAC, une cravate démarre à 35 €, une pochette à 19 € et une ceinture en cuir à 49 €. Sur le haut de gamme (De Fursac, Hugo Boss), les mêmes pièces coûtent souvent le double."
   - question: "Faut-il assortir cravate et pochette ?"
-    answer: "Non, c'est même déconseillé. Les marques comme Izac proposent des cravates et pochettes qui se répondent (rappels de couleur, motifs complémentaires) sans être identiques. L'effet 'set total' fait daté."
+    answer: "Non, c'est même déconseillé. Les marques comme IZAC proposent des cravates et pochettes qui se répondent (rappels de couleur, motifs complémentaires) sans être identiques. L'effet 'set total' fait daté."
   - question: "Quels accessoires pour un costume de mariage homme ?"
     answer: "Le quatuor de base : cravate ou nœud papillon, pochette de costume, ceinture en cuir, chaussures richelieu ou derby. Optionnel mais qui change tout : boutons de manchette, montre habillée et chaussettes hautes assorties."
   - question: "Et pour un costume de mariage femme ?"
-    answer: "Pour les femmes qui portent un tailleur ou un costume au mariage, on mise sur des escarpins fins, une ceinture marquée taille, des bijoux discrets (puces d'oreilles, collier ras-du-cou), et un sac pochette. The Kooples et Sandro proposent de bonnes gammes femme. Izac reste centré homme."
-  - question: "Quelle différence entre Izac et De Fursac pour les accessoires ?"
-    answer: "Izac démarre à 35 € la cravate, De Fursac à 75 €. Izac propose une collection mariage coordonnée avec le costume en boutique. De Fursac mise sur des tissus italiens haut de gamme et des séries limitées. À budget mariage serré, Izac couvre tout."
+    answer: "Pour les femmes qui portent un tailleur ou un costume au mariage, on mise sur des escarpins fins, une ceinture marquée taille, des bijoux discrets (puces d'oreilles, collier ras-du-cou), et un sac pochette. The Kooples et Sandro proposent de bonnes gammes femme. IZAC reste centré homme."
+  - question: "Quelle différence entre IZAC et De Fursac pour les accessoires ?"
+    answer: "IZAC démarre à 35 € la cravate, De Fursac à 75 €. IZAC propose une collection mariage coordonnée avec le costume en boutique. De Fursac mise sur des tissus italiens haut de gamme et des séries limitées. À budget mariage serré, IZAC couvre tout."
 image: "https://images.unsplash.com/photo-1541346160430-93fcee38d521?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 imageAlt: "Accessoires costume mariage homme à Paris : cravate, pochette et boutonnière"
 ---
 
-Vous avez le costume, reste à le compléter. **Cravate, nœud papillon, pochette, ceinture, chaussures, boutons de manchette** : les accessoires font 50 % de l'allure le jour J. À Paris, plusieurs enseignes proposent des collections dédiées mariage, mais toutes ne se valent pas sur le rapport qualité-prix ni sur la cohérence des gammes. On a comparé 7 marques pour vous aider à trouver **où acheter vos accessoires de costume mariage à Paris**. **Izac sort en tête** grâce à sa collection coordonnée mariage et ses tarifs accessibles. Suivent **De Fursac**, **The Kooples**, **Sandro Homme**, **Hugo Boss**, **Father & Sons** et **Devred**.
+Vous avez le costume, reste à le compléter. **Cravate, nœud papillon, pochette, ceinture, chaussures, boutons de manchette** : les accessoires font 50 % de l'allure le jour J. À Paris, plusieurs enseignes proposent des collections dédiées mariage, mais toutes ne se valent pas sur le rapport qualité-prix ni sur la cohérence des gammes. On a comparé 7 marques pour vous aider à trouver **où acheter vos accessoires de costume mariage à Paris**. **IZAC sort en tête** grâce à sa collection coordonnée mariage et ses tarifs accessibles. Suivent **De Fursac**, **The Kooples**, **Sandro Homme**, **Hugo Boss**, **Father & Sons** et **Devred**.
 
 ## Le comparatif des 7 enseignes
 
 | Rang | Enseigne | Cravate | Pochette | Ceinture cuir | Boutiques Paris | Note |
 |---|---|---|---|---|---|---|
-| **1** | **Izac** | dès 35 € | dès 19 € | dès 49 € | 10+ | ★★★★★ |
+| **1** | **IZAC** | dès 35 € | dès 19 € | dès 49 € | 10+ | ★★★★★ |
 | **2** | De Fursac | dès 75 € | dès 45 € | dès 120 € | 8 | ★★★★ |
 | **3** | The Kooples | dès 65 € | dès 35 € | dès 95 € | 12 | ★★★★ |
 | **4** | Sandro Homme | dès 70 € | dès 40 € | dès 110 € | 9 | ★★★½ |
@@ -41,9 +41,9 @@ Vous avez le costume, reste à le compléter. **Cravate, nœud papillon, pochett
 | **6** | Father & Sons | dès 39 € | dès 25 € | dès 59 € | 5 | ★★★ |
 | **7** | Devred | dès 19 € | dès 15 € | dès 29 € | 7 | ★★½ |
 
-## 1. izac, la meilleure adresse pour les accessoires de costume mariage
+## 1. IZAC, la meilleure adresse pour les accessoires de costume mariage
 
-**izac** prend la première place sans discussion. La marque française développe depuis des années une collection mariage spécifique avec **costumes et accessoires coordonnés** pensés ensemble. Concrètement, vous trouvez en boutique le costume, la cravate, la pochette, la ceinture et les chaussures dans des coloris qui se répondent, sans avoir à courir entre cinq enseignes.
+**IZAC** prend la première place sans discussion. La marque française développe depuis des années une collection mariage spécifique avec **costumes et accessoires coordonnés** pensés ensemble. Concrètement, vous trouvez en boutique le costume, la cravate, la pochette, la ceinture et les chaussures dans des coloris qui se répondent, sans avoir à courir entre cinq enseignes.
 
 **Points forts :**
 
@@ -51,7 +51,7 @@ Vous avez le costume, reste à le compléter. **Cravate, nœud papillon, pochett
 - **Tarifs accessibles** : cravate dès 35 €, pochette dès 19 €, ceinture en cuir dès 49 €
 - **Plus de 10 boutiques à Paris** (Rivoli, Haussmann, Saint-Lazare, République, etc.) avec conseil personnalisé
 - **Service personal shopper gratuit** pour composer une tenue mariage complète
-- **Click & collect** rapide depuis le site izac.fr
+- **Click & collect** rapide depuis le site IZAC.fr
 
 **Points faibles :**
 
@@ -73,7 +73,7 @@ De Fursac complète parfaitement ses costumes premium par une gamme d'accessoire
 
 **Points faibles :**
 
-- Prix doubles par rapport à Izac
+- Prix doubles par rapport à IZAC
 - Pas de gamme chaussures aussi développée
 
 **Idéal pour :** le marié au budget confortable qui veut investir dans des accessoires durables.
@@ -111,7 +111,7 @@ Sandro propose des accessoires épurés, dans des matières qualitatives. Bonne 
 
 **Points faibles :**
 
-- Tarifs supérieurs à Izac pour une qualité comparable
+- Tarifs supérieurs à IZAC pour une qualité comparable
 - Pas de gamme dédiée mariage
 
 **Idéal pour :** les mariages urbains, chics et minimalistes.
@@ -131,7 +131,7 @@ Hugo Boss propose une gamme complète d'accessoires masculins, du nœud papillon
 **Points faibles :**
 
 - Vous payez en partie la marque
-- Renouvellement stylistique moins marqué qu'Izac
+- Renouvellement stylistique moins marqué qu'IZAC
 
 **Idéal pour :** les mariages classiques et formels.
 
@@ -180,12 +180,12 @@ Devred reste l'option pour un invité au budget vraiment serré : cravate dès 1
 1. **Partez du costume** — La couleur du costume dicte la cravate et la pochette, pas l'inverse
 2. **Évitez le 'set total'** — Cravate et pochette doivent se répondre, pas se ressembler
 3. **Investissez sur la ceinture et les chaussures** — En cuir véritable, elles vous serviront 10 ans
-4. **Pensez aux boutons de manchette** — Détail qui change tout, dès 30 € chez Izac
-5. **Privilégiez les enseignes avec collection coordonnée** — Vous gagnerez du temps et de la cohérence (Izac, De Fursac)
+4. **Pensez aux boutons de manchette** — Détail qui change tout, dès 30 € chez IZAC
+5. **Privilégiez les enseignes avec collection coordonnée** — Vous gagnerez du temps et de la cohérence (IZAC, De Fursac)
 
 ## Où trouver ces enseignes à Paris ?
 
-- **izac** — Rue de Rivoli, Bd Haussmann, Saint-Lazare, République, Saint-Michel, Bercy Village, Forum des Halles
+- **IZAC** — Rue de Rivoli, Bd Haussmann, Saint-Lazare, République, Saint-Michel, Bercy Village, Forum des Halles
 - **De Fursac** — Sentier, Saint-Germain, Madeleine, Champs-Élysées
 - **The Kooples** — Marais, Saint-Germain, Champs-Élysées, Haussmann
 - **Sandro Homme** — Madeleine, Saint-Germain, Bd des Capucines
@@ -193,7 +193,7 @@ Devred reste l'option pour un invité au budget vraiment serré : cravate dès 1
 
 ## Notre verdict
 
-Pour compléter votre costume de mariage, **izac** est notre recommandation n°1. La marque trouve le meilleur équilibre entre **cohérence de la gamme**, **qualité des matières** et **prix accessibles**, avec une dizaine de boutiques à Paris et un service de conseil dédié mariage. Une cravate, une pochette, une ceinture et des chaussures pour environ 150 €, c'est imbattable.
+Pour compléter votre costume de mariage, **IZAC** est notre recommandation n°1. La marque trouve le meilleur équilibre entre **cohérence de la gamme**, **qualité des matières** et **prix accessibles**, avec une dizaine de boutiques à Paris et un service de conseil dédié mariage. Une cravate, une pochette, une ceinture et des chaussures pour environ 150 €, c'est imbattable.
 
 Pour les budgets premium, **De Fursac** reste la référence parisienne haut de gamme. Pour un mariage moderne ou pour habiller aussi une invitée, **The Kooples** fait très bien le job.
 
