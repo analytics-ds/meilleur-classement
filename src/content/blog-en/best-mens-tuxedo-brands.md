@@ -22,7 +22,7 @@ faq:
     answer: "Shawl lapels (rounded) are more classic and flattering on most body types, often paired with traditional tuxedos. Peak lapels create a more contemporary, angular silhouette, perfect for modern events. Izac offers both with quality satin in either case."
   - question: "Should you buy a tuxedo in-store or online?"
     answer: "In-store, without question, for a first purchase. A tuxedo's fit comes down to millimeters, especially at the shoulders and sleeve length. Izac has over 60 stores in France with included alterations, making it the safest option. Online purchases only make sense if you already know your exact size in the brand."
-image: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1522968439036-e6338d0ed84f?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 imageAlt: "Man in black tuxedo with bow tie on elegant background"
 ---
 

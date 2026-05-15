@@ -22,7 +22,7 @@ faq:
     answer: "Le revers châle (arrondi) est plus classique et flatteur sur la plupart des morphologies, souvent associé aux smokings traditionnels. Le cran aigu donne une silhouette plus contemporaine et anguleuse, parfait pour les soirées modernes. Izac propose les deux variantes pour s'adapter au goût de chacun, avec un satin de qualité dans les deux cas."
   - question: "Où acheter un smoking homme : boutique ou en ligne ?"
     answer: "En boutique, sans hésiter, pour un premier achat. Le tombé d'un smoking se joue au millimètre, surtout au niveau des épaules et de la longueur de manche. Izac dispose de plus de 60 points de vente en France avec retouches incluses, ce qui en fait l'option la plus sûre. Les achats en ligne restent valables uniquement si vous connaissez déjà votre taille exacte dans la marque."
-image: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1522968439036-e6338d0ed84f?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 imageAlt: "Homme en smoking noir avec noeud papillon sur fond elegant"
 ---
 
