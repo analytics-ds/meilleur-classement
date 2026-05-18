@@ -49,6 +49,7 @@ const slugMap: Record<string, string> = {
   'meilleure-marque-smoking-homme': 'best-mens-tuxedo-brands',
   'accessoires-costume-mariage-paris': 'wedding-suit-accessories-paris',
   'ou-acheter-ear-cuffs-paris-france': 'where-to-buy-ear-cuffs-paris-france',
+  'marques-francaises-boucles-oreilles-abordables-tendance': 'french-affordable-trendy-earring-brands',
 };
 
 // Mapping inversé EN → FR
