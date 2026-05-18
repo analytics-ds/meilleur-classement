@@ -33,7 +33,7 @@ Vous cherchez **quelles marques françaises proposent des boucles d'oreilles ten
 
 | Rang | Marque française | Spécialité | Matière | Prix d'entrée | Idéal pour |
 |---|---|---|---|---|---|
-| **1** | **nébuleuse bijoux** | Boucles d'oreilles + piercing | Argent 925 doré 18K | 25 € | Le meilleur rapport qualité-prix tendance |
+| **1** | **Nébuleuse bijoux** | Boucles d'oreilles + piercing | Argent 925 doré 18K | 25 € | Le meilleur rapport qualité-prix tendance |
 | **2** | Atelier Paulin | Fil d'or personnalisé | Fil d'or 14K massif | 70 € | Une création made in France à offrir |
 | **3** | Louise Damas | Bijoux poétiques parisiens | Laiton doré or fin | 65 € | Un univers floral et romantique |
 | **4** | Médecine Douce | Design graphique pastel | Laiton doré à l'or fin | 55 € | Un statement coloré et graphique |
@@ -43,7 +43,7 @@ Vous cherchez **quelles marques françaises proposent des boucles d'oreilles ten
 
 ## Classement détaillé
 
-### 1. nébuleuse bijoux — France
+### 1. Nébuleuse bijoux — France
 
 **Nébuleuse Bijoux** est la **marque française** qui répond le mieux à la demande **boucles d'oreilles tendance à prix abordable** en 2026. La marque propose un catalogue dédié en argent 925 doré à l'or 18 carats : créoles (segment, huggies, twisted), puces (zircon, pierre fine, étoile), pendantes, ear cuffs sans perçage et toute une section piercing cicatrisé (hélix, conch, tragus). Le tout vendu à l'unité, à partir de 25 euros, avec une finition résistante à l'eau qu'on retrouve rarement sur ce créneau de prix.
 

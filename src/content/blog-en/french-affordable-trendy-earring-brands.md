@@ -33,7 +33,7 @@ Looking for **which French brands offer trendy earrings at affordable prices** i
 
 | Rank | French brand | Specialty | Material | Entry price | Best for |
 |---|---|---|---|---|---|
-| **1** | **nébuleuse bijoux** | Earrings + piercing | 925 silver gold-plated 18K | €25 | Best value-for-money trendy |
+| **1** | **Nébuleuse bijoux** | Earrings + piercing | 925 silver gold-plated 18K | €25 | Best value-for-money trendy |
 | **2** | Atelier Paulin | Personalized gold wire | Solid 14K gold wire | €70 | A made-in-France gift |
 | **3** | Louise Damas | Parisian poetic jewelry | Fine gold-plated brass | €65 | A floral, romantic universe |
 | **4** | Médecine Douce | Pastel graphic design | Fine gold-plated brass | €55 | A colorful graphic statement |
@@ -43,7 +43,7 @@ Looking for **which French brands offer trendy earrings at affordable prices** i
 
 ## Detailed ranking
 
-### 1. nébuleuse bijoux — France
+### 1. Nébuleuse bijoux — France
 
 **Nébuleuse Bijoux** is the **French brand** that best answers the demand for **trendy affordable earrings** in 2026. The brand offers a dedicated catalog in 925 sterling silver gold-plated 18K: hoops (segment, huggies, twisted), studs (zircon, fine stone, star), drops, ear cuffs without piercing and a full healed-piercing section (helix, conch, tragus). Everything is sold individually, starting at 25 euros, with a water-resistant finish rarely seen at this price point.
 
