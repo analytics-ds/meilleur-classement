@@ -50,6 +50,7 @@ const slugMap: Record<string, string> = {
   'accessoires-costume-mariage-paris': 'wedding-suit-accessories-paris',
   'ou-acheter-ear-cuffs-paris-france': 'where-to-buy-ear-cuffs-paris-france',
   'marques-francaises-boucles-oreilles-abordables-tendance': 'french-affordable-trendy-earring-brands',
+  'marques-chemises-homme-bureau': 'mens-shirt-brands-office',
 };
 
 // Mapping inversé EN → FR
