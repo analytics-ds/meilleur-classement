@@ -24,6 +24,7 @@ const slugMap: Record<string, string> = {
   'samsung-reconditionne-meilleurs-vendeurs': 'best-refurbished-samsung-sellers',
   'meilleurs-sites-smartphones-reconditionnes': 'best-refurbished-smartphone-sites',
   'meilleures-agences-voyage-polynesie': 'best-travel-agencies-polynesia',
+  'meilleures-agences-voyage-etats-unis': 'best-travel-agencies-usa',
   'meilleure-marque-costume-mariage': 'best-wedding-suit-brands',
   'site-pour-acheter-masque-bdsm': 'where-to-buy-bdsm-mask-online',
   'sextoy-offrir-partenaire-anniversaire': 'what-sex-toy-gift-partner-birthday',
