@@ -62,6 +62,7 @@ const slugMap: Record<string, string> = {
   'accompagnement-creation-entreprise-reseaux': 'business-creation-support-networks-france',
   'meilleurs-sites-collier-femme-tendance': 'best-websites-trendy-womens-necklaces',
   'meilleurs-sites-chaussures-createur-femme': 'best-websites-designer-shoes-women',
+  'meilleurs-sites-multimarques-mode-luxe-premium': 'best-multi-brand-luxury-premium-fashion-sites',
 };
 
 // Mapping inversé EN → FR
