@@ -17,6 +17,12 @@ function stripBase(path: string): string {
 
 // Mapping des slugs FR → EN
 const slugMap: Record<string, string> = {
+  'carte-grise-moto-sites-habilites': 'motorcycle-registration-approved-sites-france',
+  'code-confidentiel-carte-grise': 'french-registration-confidential-code',
+  'site-ants-en-panne-carte-grise': 'ants-website-down-vehicle-registration',
+  'carte-grise-sans-code-de-cession': 'vehicle-registration-without-transfer-code',
+  'carte-grise-sans-franceconnect': 'vehicle-registration-without-franceconnect',
+  'carte-grise-sans-numero-de-formule': 'vehicle-registration-without-document-number',
   'meilleures-valises-cabine': 'best-carry-on-luggage',
   'meilleurs-evenements-marketing-2026': 'best-marketing-events-2026',
   'meilleur-magasin-costumes-homme': 'best-mens-suit-stores',
